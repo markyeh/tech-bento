@@ -13,6 +13,13 @@ const modelResultSchema = z.object({
 const outputSchema = z.array(translatedNewsItemSchema);
 const inputPath = process.env.RANK_INPUT ?? rankedNewsPath;
 const outputPath = process.env.TRANSLATED_OUTPUT ?? ".tmp/translated.json";
+const retryCount = Number(process.env.GEMINI_RETRY_COUNT ?? 3);
+const retryDelayMs = Number(process.env.GEMINI_RETRY_DELAY_MS ?? 15_000);
+
+type GeminiKey = {
+  name: string;
+  value: string;
+};
 
 function promptFor(item: z.infer<typeof rankedNewsItemSchema>): string {
   return `你是台灣科技媒體編輯。
@@ -57,27 +64,106 @@ function parseJsonResponse(text: string): unknown {
   return JSON.parse(trimmed);
 }
 
-async function main(): Promise<void> {
-  const apiKey = process.env.GEMINI_API_KEY;
+function geminiApiKeys(): GeminiKey[] {
+  return [
+    ["GEMINI_API_KEY", process.env.GEMINI_API_KEY],
+    ["GEMINI_API_KEY_2", process.env.GEMINI_API_KEY_2],
+    ["GEMINI_API_KEY_3", process.env.GEMINI_API_KEY_3]
+  ]
+    .filter((entry): entry is [string, string] => Boolean(entry[1]))
+    .map(([name, value]) => ({ name, value }));
+}
 
-  if (!apiKey) {
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function errorCode(error: unknown): number | undefined {
+  if (typeof error !== "object" || error === null) return undefined;
+  const value = "status" in error ? error.status : undefined;
+  return typeof value === "number" ? value : undefined;
+}
+
+function errorText(error: unknown): string {
+  if (error instanceof Error) return error.message;
+  return String(error);
+}
+
+function isQuotaError(error: unknown): boolean {
+  const text = errorText(error).toLowerCase();
+  return (
+    errorCode(error) === 429 ||
+    text.includes("resource_exhausted") ||
+    text.includes("quota") ||
+    text.includes("rate limit")
+  );
+}
+
+function isRetryableError(error: unknown): boolean {
+  const code = errorCode(error);
+  return code === 408 || code === 500 || code === 502 || code === 503 || code === 504;
+}
+
+async function generateTranslation(
+  item: z.infer<typeof rankedNewsItemSchema>,
+  keys: GeminiKey[]
+): Promise<z.infer<typeof modelResultSchema>> {
+  let lastError: unknown;
+
+  for (let keyIndex = 0; keyIndex < keys.length; keyIndex += 1) {
+    const key = keys[keyIndex];
+    const ai = new GoogleGenAI({ apiKey: key.value });
+
+    for (let attempt = 1; attempt <= retryCount; attempt += 1) {
+      try {
+        const response = await ai.models.generateContent({
+          model: "gemini-2.5-flash",
+          contents: promptFor(item),
+          config: {
+            responseMimeType: "application/json"
+          }
+        });
+        const text = response.text ?? "";
+        return modelResultSchema.parse(parseJsonResponse(text));
+      } catch (error) {
+        lastError = error;
+
+        if (isQuotaError(error) && keyIndex < keys.length - 1) {
+          console.warn(`${key.name} quota/rate limited. Switching to ${keys[keyIndex + 1].name}.`);
+          break;
+        }
+
+        if (isRetryableError(error) && attempt < retryCount) {
+          const delay = retryDelayMs * attempt;
+          console.warn(
+            `Gemini request failed with ${errorCode(error) ?? "unknown status"} for rank ${
+              item.rank
+            }. Retrying in ${Math.round(delay / 1000)}s (${attempt + 1}/${retryCount}).`
+          );
+          await sleep(delay);
+          continue;
+        }
+
+        throw error;
+      }
+    }
+  }
+
+  throw lastError instanceof Error ? lastError : new Error(String(lastError));
+}
+
+async function main(): Promise<void> {
+  const apiKeys = geminiApiKeys();
+
+  if (apiKeys.length === 0) {
     throw new Error("Missing GEMINI_API_KEY");
   }
 
-  const ai = new GoogleGenAI({ apiKey });
   const rankedItems = await readJson(inputPath, inputSchema);
   const translated = [];
 
   for (const item of rankedItems) {
-    const response = await ai.models.generateContent({
-      model: "gemini-2.5-flash",
-      contents: promptFor(item),
-      config: {
-        responseMimeType: "application/json"
-      }
-    });
-    const text = response.text ?? "";
-    const result = modelResultSchema.parse(parseJsonResponse(text));
+    const result = await generateTranslation(item, apiKeys);
 
     translated.push({
       ...item,
