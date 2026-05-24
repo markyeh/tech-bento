@@ -13,8 +13,8 @@ const modelResultSchema = z.object({
 const outputSchema = z.array(translatedNewsItemSchema);
 const inputPath = process.env.RANK_INPUT ?? rankedNewsPath;
 const outputPath = process.env.TRANSLATED_OUTPUT ?? ".tmp/translated.json";
-const retryCount = Number(process.env.GEMINI_RETRY_COUNT ?? 3);
-const retryDelayMs = Number(process.env.GEMINI_RETRY_DELAY_MS ?? 15_000);
+const retryCount = Number(process.env.GEMINI_RETRY_COUNT ?? 10);
+const retryDelayMs = Number(process.env.GEMINI_RETRY_DELAY_MS ?? 60_000);
 
 type GeminiKey = {
   name: string;
