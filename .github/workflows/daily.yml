@@ -13,6 +13,7 @@ permissions:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    environment: tech-bento
 
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
