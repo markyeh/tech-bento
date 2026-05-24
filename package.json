@@ -1,0 +1,32 @@
+{
+  "name": "tech-bento",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+    "fetch-news": "tsx scripts/fetch-news.ts",
+    "rank-news": "tsx scripts/rank-news.ts",
+    "translate-news": "tsx scripts/translate-news.ts",
+    "generate-daily": "tsx scripts/generate-daily.ts",
+    "pipeline": "npm run fetch-news && npm run rank-news && npm run translate-news && npm run generate-daily && npm run build"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.1",
+    "@sveltejs/adapter-static": "^3.0.8",
+    "@sveltejs/kit": "^2.16.0",
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "rss-parser": "^3.13.0",
+    "svelte": "^5.19.7",
+    "vite": "^6.1.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "svelte-check": "^4.1.4",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

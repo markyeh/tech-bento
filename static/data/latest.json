@@ -1,0 +1,83 @@
+{
+  "date": "2026-05-24",
+  "generatedAt": "2026-05-24T08:29:36+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "TechCrunch",
+      "originalTitle": "These special phone and app features can help protect you from spyware",
+      "translatedTitle": "手機與App特殊安全模式，助你防堵間諜軟體威脅",
+      "summaryZh": "TechCrunch 報導指出，面對日益猖獗的目標式間諜軟體攻擊，Apple、Meta 和 Google 等科技巨頭紛紛推出其裝置與應用程式的特殊安全模式。這些模式旨在為使用者提供更高等級的防護，有效抵禦鎖定性網路威脅。報導中將詳細介紹這些安全模式的運作原理、提供哪些保護功能，以及使用者該如何啟用，以強化個人數位安全，避免成為間諜軟體的受害者。",
+      "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+      "publishedAt": "2026-05-23T16:00:00.000Z",
+      "score": 90,
+      "tags": [
+        "資安",
+        "間諜軟體",
+        "手機安全"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "The Verge",
+      "originalTitle": "Google’s new anything-to-anything AI model is wild",
+      "translatedTitle": "Google 萬用 AI 模型展現驚人能力",
+      "summaryZh": "The Verge 報導了 Google 新推出的「萬用 AI 模型」，該模型可能與 Gemini 有關。作者分享自身經驗，利用生成式 AI 輕易製作出其小孩玩偶的深度偽造影片，呈現玩偶度假的逼真影像，旨在重現 Google Gemini 廣告情境。此實驗讓作者深刻體認到，生成式 AI 工具在製作高度逼真影片方面的能力已達驚人程度，且所需心力與技術門檻極低。同時，作者也反思了生成式 AI 應用在「無害樂趣」與「不良內容」之間的界線。此類能輕鬆生成逼真影片的趨勢預計將持續發展。",
+      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "publishedAt": "2026-05-23T11:00:00.000Z",
+      "score": 67,
+      "tags": [
+        "AI",
+        "Google",
+        "Gemini"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Record Club is trying to be Letterboxd for music nerds",
+      "translatedTitle": "Record Club 打造音樂迷專屬 Letterboxd 體驗",
+      "summaryZh": "音樂界長期缺乏類似 Letterboxd 或 Goodreads 的專輯評分與社群平台，而新服務 Record Club 正旨在填補此空白。相較於現有服務如 Rate Your Music 介面較為雜亂且偏重長篇評論，Record Club 提供簡潔現代的介面設計，操作體驗近似 Letterboxd。用戶可在此平台為專輯評分、撰寫評論、標記已聆聽，也能追蹤朋友的聽歌動態，並查看熱門專輯，為音樂愛好者打造一個專屬的社交與管理工具。",
+      "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
+      "publishedAt": "2026-05-23T22:41:11.000Z",
+      "score": 54,
+      "tags": [
+        "音樂社群",
+        "數位平台",
+        "應用程式",
+        "Letterboxd"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "TechCrunch",
+      "originalTitle": "Elon Musk has given up on solar power (on Earth)",
+      "translatedTitle": "Elon Musk放棄地球太陽能？xAI轉向天然氣，SpaceX著眼軌道資料中心",
+      "summaryZh": "科技媒體 TechCrunch 報導指出，曾大力倡導「太陽能電氣經濟」的 Elon Musk，其旗下企業近期能源策略似乎產生重大轉向。報導指出，Musk 的 AI 公司 xAI 大舉投資天然氣，以滿足其龐大 AI 運算需求；同時，SpaceX 也將重點放在開發軌道資料中心。這與 Musk 過往對地球太陽能的承諾形成鮮明對比，引發外界揣測他是否已放棄地球上的太陽能應用。",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "publishedAt": "2026-05-23T13:00:00.000Z",
+      "score": 53,
+      "tags": [
+        "AI",
+        "SpaceX",
+        "能源",
+        "Elon Musk"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "The Verge",
+      "originalTitle": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
+      "translatedTitle": "打造傳奇 MPC 的音樂科技巨匠 Roger Linn",
+      "summaryZh": "Roger Linn 是音樂科技領域的傳奇人物，數十年來始終走在科技尖端。他開創性地打造了 LM-1，這是首款使用取樣技術的鼓機，隨後的 LinnDrum 更成為 80 年代錄音室的經典，廣受 Tom Petty、Queen 和 Prince 等巨星青睞。然而，他對音樂界最大的貢獻無疑是與 Akai 合作開發的 MPC 系列，這款產品至今仍是音樂製作的標誌性工具，深刻影響了現代音樂創作。",
+      "url": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
+      "publishedAt": "2026-05-23T15:00:00.000Z",
+      "score": 47,
+      "tags": [
+        "音樂科技",
+        "Roger Linn",
+        "MPC"
+      ]
+    }
+  ]
+}
