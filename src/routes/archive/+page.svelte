@@ -12,6 +12,9 @@
 
   let archive: ArchiveEntry[] = [];
   let error = "";
+  let expandedDate: string | null = null;
+  let htmlContent: Record<string, string> = {};
+  let loading: Record<string, boolean> = {};
 
   onMount(async () => {
     try {
@@ -29,6 +32,31 @@
       month: "2-digit",
       day: "2-digit"
     }).format(new Date(`${value}T00:00:00+08:00`));
+  }
+
+  async function toggleExpand(date: string): Promise<void> {
+    if (expandedDate === date) {
+      expandedDate = null;
+      return;
+    }
+
+    expandedDate = date;
+
+    if (htmlContent[date]) {
+      return;
+    }
+
+    loading[date] = true;
+    try {
+      const res = await fetch(`${base}/data/${date}.html`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      htmlContent[date] = await res.text();
+    } catch (err) {
+      console.error(err);
+      htmlContent[date] = "<p>無法載入此日期的內容</p>";
+    } finally {
+      loading[date] = false;
+    }
   }
 </script>
 
@@ -50,11 +78,33 @@
 
   {#if archive.length}
     <section class="archive-list" aria-label="每日封存">
-      {#each archive as entry}
-        <a class="archive-item" href={`${base}${entry.path}`}>
-          <span>{formatDate(entry.date)}</span>
-          <span>{entry.count} 則新聞</span>
-        </a>
+      {#each archive as entry (entry.date)}
+        <div class="archive-item">
+          <button
+            class="archive-button"
+            on:click={() => toggleExpand(entry.date)}
+            aria-expanded={expandedDate === entry.date}
+            aria-controls={`content-${entry.date}`}
+          >
+            <span>{formatDate(entry.date)}</span>
+            <span>{entry.count} 則新聞</span>
+            <span class="toggle-icon">{expandedDate === entry.date ? "▼" : "▶"}</span>
+          </button>
+
+          {#if expandedDate === entry.date}
+            <div id={`content-${entry.date}`} class="archive-content">
+              {#if loading[entry.date]}
+                <div class="loading">載入中...</div>
+              {:else if htmlContent[entry.date]}
+                <iframe
+                  srcDoc={htmlContent[entry.date]}
+                  title={`${formatDate(entry.date)} 的新聞內容`}
+                  class="content-frame"
+                ></iframe>
+              {/if}
+            </div>
+          {/if}
+        </div>
       {/each}
     </section>
   {:else if error}
@@ -121,16 +171,66 @@
   }
 
   .archive-item {
-    display: flex;
-    justify-content: space-between;
-    gap: 16px;
-    padding: 16px 18px;
     border: 1px solid var(--border);
     border-radius: 8px;
     background: var(--surface);
+    overflow: hidden;
+  }
+
+  .archive-button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    width: 100%;
+    padding: 16px 18px;
+    border: none;
+    background: transparent;
     color: var(--text-strong);
     font-weight: 700;
-    text-decoration: none;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.2s ease;
+  }
+
+  .archive-button:hover {
+    background-color: var(--button-muted-bg);
+  }
+
+  .toggle-icon {
+    display: inline-block;
+    font-size: 0.8rem;
+    transition: transform 0.2s ease;
+    flex-shrink: 0;
+  }
+
+  .archive-content {
+    border-top: 1px solid var(--border);
+    animation: slideDown 0.3s ease;
+  }
+
+  @keyframes slideDown {
+    from {
+      opacity: 0;
+      max-height: 0;
+    }
+    to {
+      opacity: 1;
+      max-height: 2000px;
+    }
+  }
+
+  .loading {
+    padding: 40px 18px;
+    text-align: center;
+    color: var(--muted);
+  }
+
+  .content-frame {
+    width: 100%;
+    min-height: 600px;
+    border: none;
+    display: block;
   }
 
   .status {
@@ -154,6 +254,14 @@
 
     .home-link {
       width: fit-content;
+    }
+
+    .archive-button {
+      flex-wrap: wrap;
+    }
+
+    .content-frame {
+      min-height: 800px;
     }
   }
 </style>

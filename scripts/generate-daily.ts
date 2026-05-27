@@ -7,7 +7,7 @@ import {
   type ArchiveEntry,
   type DailyData
 } from "./schema.js";
-import { readJson, taipeiDateParts, writeJson } from "./utils.js";
+import { readJson, taipeiDateParts, writeJson, writeHtml } from "./utils.js";
 
 const translatedSchema = z.array(translatedNewsItemSchema);
 const archiveSchema = z.array(archiveEntrySchema);
@@ -56,6 +56,7 @@ async function main(): Promise<void> {
 
   await writeJson("static/data/latest.json", daily);
   await writeJson(`static/data/${date}.json`, daily);
+  await writeHtml(`static/data/${date}.html`, daily);
   await writeJson(archivePath, archiveSchema.parse(updatedArchive));
   console.log(`Wrote static data for ${date}`);
 }
