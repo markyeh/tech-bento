@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/06/13</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/06/13 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>亞馬遜資安研究揭露風險，促使白宮限制外籍人士使用 Anthropic AI 模型</h2>
+        <p>根據《華爾街日報》報導，亞馬遜 (Amazon) 的資安研究發現，Anthropic 旗下的 AI 模型 Fable 5 經特定提示詞，可能產生可用於網路攻擊的資訊。亞馬遜執行長 Andy Jassy 向美國政府分享這項發現後，白宮隨即發布出口管制指令，導致 Anthropic 不得不限制外籍人士使用其 Fable 5 和 Mythos 5 等 AI 模型。此舉旨在防堵關鍵技術外流，避免這些強大 AI 工具遭到濫用。</p>
+        <div class="tags"><span>AI</span><span>資安</span><span>Anthropic</span><span>Amazon</span><span>美國政府</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/06/14 05:39</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>亞馬遜執行長傳在政府行動前已對Anthropic模型安全示警</h2>
+        <p>科技媒體TechCrunch報導指出，AI新創Anthropic於上週五無預警關閉旗下兩款模型的全球存取權限，背後原因據傳與亞馬遜執行長Andy Jassy對其模型提出的安全疑慮有關。據悉，Jassy在政府機關介入之前，便已針對Anthropic的特定AI模型表達擔憂。此次模型下架行動，被市場解讀為Anthropic為回應重要合作夥伴亞馬遜高層的關切，旨在避免潛在的資安風險或法規挑戰。此事件凸顯了AI模型在開發與部署過程中，其安全性與合規性日益受到業界與監管單位的重視。</p>
+        <div class="tags"><span>AI</span><span>Amazon</span><span>Anthropic</span><span>資安</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/06/14 03:11</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>Anthropic 遵從政府命令，全面停用 Fable 5 與 Mythos 5 AI 模型</h2>
+        <p>AI 新創 Anthropic 近期接獲美國政府命令，要求其針對 Fable 5 和 Mythos 5 兩款 AI 模型，全面禁止所有外國使用者（包括美國境內外）存取。此舉是基於國家安全考量。Anthropic 已遵從此命令，完全切斷客戶對這些模型的存取權限。Anthropic 在聲明中指出，儘管配合政府要求，但政府並未提供具體的國安疑慮細節。該公司聲稱，任何關於潛在「越獄」的證據僅為口頭告知，且這些發現的漏洞輕微，並可透過其他模型取得。此事件凸顯了 AI 模型開發與國家安全之間的複雜關係。</p>
+        <div class="tags"><span>AI</span><span>Anthropic</span><span>國家安全</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/06/13 20:55</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>Mac 版 Siri AI 初體驗：編輯 24 小時觀察</h2>
+        <p>The Verge 編輯分享了他們在 macOS 27 Golden Gate 開發者測試版上，對全新 Siri AI 進行 24 小時初體驗的心得。該編輯過去對 Siri 和 Apple Intelligence 的實用性並不抱期望，甚至長期關閉 Siri。然而，這次新的 Siri AI 讓他稍微改變了想法。編輯指出，目前測試的仍是早期預覽版本，Siri AI 仍在索引檔案中，距離正式發布尚有許多改進空間。測試機型為 M5 MacBook Air 和 M5 Max MacBook Pro。</p>
+        <div class="tags"><span>AI</span><span>Apple</span><span>macOS</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/06/13 23:00</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>OpenAI 面臨美國多州檢察長調查</h2>
+        <p>OpenAI 近日傳出正遭到美國多州檢察長的聯合調查。此項調查內容廣泛，主要聚焦於 OpenAI 的廣告政策，以及其對於用戶健康資料的處理與使用方式。目前，參與此調查的具體州別資訊尚未公開。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>隱私</span><span>監管</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/06/14 00:47</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
