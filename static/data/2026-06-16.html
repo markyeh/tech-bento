@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/06/15</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/06/15 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>Anthropic新AI模型 Fable 5、Mythos 5 遭白宮下架，資安爭議浮上檯面</h2>
+        <p>美國AI新創公司 Anthropic 旗下最新發表的兩款AI模型 Fable 5 和 Mythos 5，在推出僅三天後，於6月12日遭白宮下令限制海外存取。據報導，此舉源於 Amazon 研究人員發現 Fable 5 存在「越獄」（jailbreak）漏洞，恐被用於生成網路攻擊資訊。Anthropic 為此全面關閉了全球用戶對這兩款模型的存取權限。Anthropic 表示，雖然遵守政府指令，但對於僅因潛在的狹窄漏洞而下架已廣泛部署的模型，他們持不同意見。此事件不僅是 Anthropic 與白宮的最新爭議，也突顯了AI模型在資安與監管上的挑戰。</p>
+        <div class="tags"><span>AI</span><span>Anthropic</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/06/16 03:04</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>美國政府禁止Anthropic模型，與AI越獄無關</h2>
+        <p>根據科技媒體TechCrunch報導，美國川普政府近期強行要求新創公司Anthropic下架其最新的資安AI模型。這項決策的重點並非外界擔憂的AI「越獄」或技術安全問題，而是背後可能涉及反應過度或報復性的政治考量。此事件明確傳達一個訊息：即使是快速發展的AI產業，也無法免於美國政府的強力干預。</p>
+        <div class="tags"><span>AI</span><span>政府監管</span><span>Anthropic</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/06/16 05:50</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>HN提問：有人在日常程式開發中，用本地端模型取代Claude/GPT了嗎？</h2>
+        <p>Hacker News 上出現一則熱門討論，有網友提問是否已有人在日常程式開發工作中，成功以本地端（local model）的大型語言模型取代了如 OpenAI 的 GPT 或 Anthropic 的 Claude 等雲端服務。此討論旨在探討開發者實際轉換的經驗、本地端模型在效率、隱私、成本或客製化方面的優勢與挑戰，以及這些替代方案在日常開發流程中的可行性與應用現況。</p>
+        <div class="tags"><span>AI</span><span>大型語言模型</span><span>程式開發</span><span>本地端AI</span><span>Hacker News</span></div>
+        <div class="meta">
+          <span>來源：Hacker News</span>
+          <span>發布時間：2026/06/15 22:46</span>
+        </div>
+        <a class="read-link" href="https://news.ycombinator.com/item?id=48542100" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>Intel Mac 二十年：Apple 轉用又捨棄 Intel 處理器的緣由</h2>
+        <p>這篇報導回顧了 Apple 電腦採用 Intel 處理器長達二十年的歷程。從 PowerPC 轉向 Intel，曾為 Mac 產品線帶來效能躍升與市場擴展，但後期也面臨發展瓶頸。如今，Apple 已再次做出重大轉型，逐步淘汰 Intel 晶片，全面改用自家設計的 Apple Silicon，文章深入探討了這段 Intel Mac 時代的興衰，及其對科技產業的影響。</p>
+        <div class="tags"><span>Apple</span><span>Intel</span><span>Mac</span><span>處理器</span><span>Apple Silicon</span><span>科技趨勢</span></div>
+        <div class="meta">
+          <span>來源：Ars Technica</span>
+          <span>發布時間：2026/06/16 00:32</span>
+        </div>
+        <a class="read-link" href="https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>Meta AI 模式進駐 Facebook 搜尋，公開貼文成資訊基石</h2>
+        <p>Meta 正陸續推出多項創新 AI 功能，其中最引人注目的是 Facebook 的「AI 模式」搜尋。這項新功能將顛覆傳統以連結為主的搜尋體驗，它會深度分析 Meta 旗下各平台上的公開貼文內容，進而生成 AI 驅動的摘要式搜尋結果。使用者不僅能直接取得 AI 彙整的資訊，還能針對結果進行追問，大幅提升搜尋效率與互動性。此舉顯示 Meta 正積極將 AI 整合至其核心社群平台，旨在提供更智慧化的用戶體驗。</p>
+        <div class="tags"><span>AI</span><span>Meta</span><span>Facebook</span><span>搜尋</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/06/16 05:15</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
