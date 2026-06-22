@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/06/22</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/06/22 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>Apple 晶片驚現無法修補漏洞，舊款 iPhone 面臨越獄風險</h2>
+        <p>歐洲網路安全公司 Paradigm Shift 近期揭露 Apple 晶片存在一項無法透過軟體更新修補的硬體級漏洞。這項漏洞的技術細節已被公開，恐讓駭客能夠解鎖並越獄部分舊款 iPhone 機型，對用戶造成潛在資安威脅。由於其為硬體層面的缺陷，Apple 難以透過軟體更新阻擋攻擊，持有舊款機型的用戶應特別留意相關風險。</p>
+        <div class="tags"><span>Apple</span><span>iPhone</span><span>資安</span><span>漏洞</span><span>越獄</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/06/23 02:50</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>NVIDIA 資料中心節水新方案，但 AI 用水大戶另有其因？</h2>
+        <p>NVIDIA 近期宣布推出資料中心新型散熱系統，旨在大幅降低內部用水量。儘管此舉有助於減少資料中心營運的水資源消耗，但科技媒體指出，這項方案並未真正解決 AI 科技面臨的最大用水問題。報導強調，AI 運算所需的龐大電力主要來自火力發電廠，而這些電廠的發電過程才是 AI 整體「水足跡」中最大的用水來源。因此，NVIDIA 的新技術僅是部分改善，對於解決 AI 的永續發展挑戰仍有長路要走。</p>
+        <div class="tags"><span>AI</span><span>NVIDIA</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/06/23 04:08</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>Anthropic 旗下 Claude 將可能要求用戶驗證身分</h2>
+        <p>AI 新創公司 Anthropic 宣布，其對話式 AI 助理 Claude 將可能在「特定情況」下，要求用戶進行身分及年齡驗證。根據其隱私政策的最新調整，用戶屆時可能需要提供護照或駕照等文件來完成驗證程序。此舉旨在確保服務的合規性與用戶資格，提供更安全的平台環境。</p>
+        <div class="tags"><span>AI</span><span>Anthropic</span><span>Claude</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/06/23 02:05</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>Anthropic 恐因示警 AI 風險過度，反招致出口禁令</h2>
+        <p>AI 新創 Anthropic 據傳可能因為頻繁示警先進人工智慧的潛在危險性，且聲量遠高於競爭對手 OpenAI，而面臨人工智慧產品出口禁令。業界觀察，Anthropic 這種過於強調 AI 負面風險的策略，可能反使其成為政府加強監管的目標，導致業務拓展受限。</p>
+        <div class="tags"><span>AI</span><span>Anthropic</span><span>AI監管</span></div>
+        <div class="meta">
+          <span>來源：Ars Technica</span>
+          <span>發布時間：2026/06/22 21:45</span>
+        </div>
+        <a class="read-link" href="https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>Valve 開放 SteamOS 桌面版，玩家可自行組裝專屬 Steam 主機</h2>
+        <p>Valve 正式開放玩家在一般 PC 上自行組裝「Steam 主機」。隨著 SteamOS 3.8.10 版本更新，Valve 宣布用戶現在可使用任何 PC 零組件打造自己的 Steam Machine。本次更新顯著提升了與近期 Intel 和 AMD 平台硬體的相容性。這項改變賦予玩家更大的自由度，能將 SteamOS 安裝在既有桌面電腦上，不再受限於官方系統或預組配置，讓更多人體驗 SteamOS 帶來的遊戲樂趣。</p>
+        <div class="tags"><span>遊戲</span><span>Valve</span><span>SteamOS</span><span>PC硬體</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/06/23 01:05</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/games/953411/valve-steamos-desktop-nvidia" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
