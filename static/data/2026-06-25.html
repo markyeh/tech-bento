@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/06/24</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/06/24 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>Google AI 人才流失警訊：資深研究員頻轉投競爭對手</h2>
+        <p>科技媒體 TechCrunch 報導指出，Google 近期面臨嚴峻的 AI 研究人才流失挑戰。繼頂尖科學家 Noam Shazeer 和 John Jumper 離職後，資深 AI 研究員 Jonas Adler 和 Alexander Pritzel 也確定離開 Google，轉投其主要競爭對手 Anthropic。此現象顯示，在 AI 領域競爭白熱化之際，Google 在留住關鍵人才方面正承受不小壓力，這些頂尖專家紛紛選擇加入其他 AI 公司，恐對 Google 未來的 AI 發展帶來衝擊。</p>
+        <div class="tags"><span>AI</span><span>Google</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/06/25 05:42</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>微軟量子運算宣稱遭質疑，新論文挑戰拓撲量子位元技術</h2>
+        <p>最新《自然》（Nature）期刊論文指出，微軟（Microsoft）於2025年2月發表的「Majorana 1」量子運算處理器，其關鍵的「拓撲量子位元」（topological qubit）技術可能言過其實。該公司曾宣稱此技術是未來量子電腦的基石。物理學家Henry Legg重新分析微軟數據後質疑，微軟研究人員未能提供確鑿證據證明其說法，挑戰了微軟早前宣稱的「突破」。微軟雖已推出「Majorana 2」，但其核心技術的有效性仍存疑。</p>
+        <div class="tags"><span>量子運算</span><span>微軟</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/06/25 04:54</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/956450/nature-microsoft-quantum-computing-majorana-1-claims" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>科技巨頭Stripe、Anthropic、OpenAI聯手，資助呼吸道感染防治計畫</h2>
+        <p>由支付服務公司Stripe創辦人Patrick與John Collison兄弟發起，並獲得AI領域巨頭Anthropic與OpenAI的響應與資助，一項全新的呼吸道感染防治計畫正式啟動。此計畫旨在投入資源，尋求有效預防與治療感冒等常見呼吸道疾病的方法。目前，儘管這些疾病頻繁困擾大眾，卻仍缺乏有效預防措施，因此科技業界期望透過此合作，加速突破，為全球健康福祉貢獻心力。</p>
+        <div class="tags"><span>AI</span><span>健康科技</span><span>Stripe</span><span>Anthropic</span><span>OpenAI</span></div>
+        <div class="meta">
+          <span>來源：MIT Technology Review</span>
+          <span>發布時間：2026/06/24 20:00</span>
+        </div>
+        <a class="read-link" href="https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>OpenAI 發表首款客製化晶片「Jalapeño」，由 Broadcom 打造</h2>
+        <p>人工智慧領頭羊 OpenAI 近期宣布推出其首款客製化 AI 晶片「Jalapeño」，此晶片由半導體大廠 Broadcom 協助打造。這款處理器專為滿足 OpenAI 旗下 AI 推論系統的獨特需求而設計，旨在優化其模型運作效率。此舉突顯 OpenAI 在硬體層面尋求自主研發與掌控的策略。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>晶片</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/06/24 22:54</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>美國國會議員否認幕僚以AI草擬國防預算修正案</h2>
+        <p>美國佛羅里達州共和黨籍眾議員 Anna Paulina Luna 近日捲入爭議。社群平台 X 上流傳的截圖顯示，其幕僚在處理一份2027年國防授權法案修正案摘要時，疑似使用了AI工具 Claude，摘要內容甚至出現「Claude responded」字樣。Luna 本人澄清，幕僚僅將 AI 用於修正案摘要的「拼字檢查」，並堅決否認 AI 曾用於法案文本的草擬，強調任何法案從未以 AI 撰寫。此事件凸顯了國會立法程序中對於 AI 工具使用的敏感性與潛在界線。</p>
+        <div class="tags"><span>AI</span><span>Claude</span><span>美國國會</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/06/25 03:36</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
