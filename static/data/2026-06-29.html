@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/06/28</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/06/28 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>中國智譜AI資安能力傳與美方Mythos模型匹敵，引發美國關注</h2>
+        <p>中國智譜AI（Z.ai）近期發布開源模型GLM-5.2，部分研究指出其在網路安全及錯誤偵測（bug-finding）等特定情境下，表現已可媲美美國Anthropic的Mythos模型。儘管GLM-5.2在其他通用任務上仍落後OpenAI等頂尖模型，但此進展顯示中國在AI能力方面正迅速縮小與美國的差距。美國政府對此高度警惕，因為其長期以來致力於限制中國取得強大AI模型及相關訓練硬體，這項發展預計將持續加劇美中AI技術競賽。</p>
+        <div class="tags"><span>AI</span><span>資安</span><span>中國AI</span><span>ZhipuAI</span><span>Mythos</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/06/29 05:42</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>Ford AI應用失靈，回聘資深工程師</h2>
+        <p>福特（Ford）汽車在產品開發上，曾誤以為單靠導入人工智慧（AI）就能產出高品質產品。然而，此策略並未奏效，導致產品品質不如預期。為解決AI應用失靈的問題，福特選擇重新聘回具備豐富經驗的資深工程師，凸顯了在複雜的產品開發過程中，人類經驗與專業知識仍然不可或缺，並揭示了目前AI在特定領域的局限性。</p>
+        <div class="tags"><span>AI</span><span>Ford</span><span>汽車產業</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/06/29 03:05</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>ChatGPT 對話紀錄成呈堂證供：檢方引用於 Palisades 森林大火案</h2>
+        <p>洛杉磯一起2025年新年發生的森林大火，疑犯 Jonathan Rinderknecht 面臨縱火指控。檢方在調查過程中，除了手機定位、監視器畫面與證人證詞外，更罕見地引用了嫌犯的 ChatGPT 對話紀錄作為呈堂證供。這些紀錄顯示，Rinderknecht 曾要求 ChatGPT 生成火焰影像，並向 AI 抱怨「為何我總是如此憤怒？」、大罵富人毀滅世界。甚至有螢幕錄影紀錄指出，他曾詢問 ChatGPT 關於「若火災是由某人所點燃...」的責任歸屬問題。此案凸顯 AI 對話紀錄在法律證據上的新應用與挑戰。</p>
+        <div class="tags"><span>AI</span><span>ChatGPT</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/06/28 22:12</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>華爾街為何看好美光成為下一個 NVIDIA</h2>
+        <p>華爾街投資人正積極尋找在人工智慧（AI）領域能複製 NVIDIA 成功經驗的潛力股。他們將目光投向美國記憶體製造大廠美光（Micron），認為其有望成為下一波 AI 浪潮的關鍵受惠者。隨著 AI 應用持續爆發，市場預期美光的記憶體產品需求將大幅成長，使其表現能比肩 NVIDIA，晉升為 AI 供應鏈中的要角。</p>
+        <div class="tags"><span>AI</span><span>NVIDIA</span><span>記憶體</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/06/28 23:00</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>OpenAI Codex 敏感檔案排除議題懸而未決</h2>
+        <p>OpenAI 旗下的程式碼生成模型 Codex，目前面臨一項關於「敏感檔案排除」的重要課題。這項議題主要探討如何確保開發者在使用 Codex 時，能有效避免機密或敏感檔案被模型存取或納入訓練資料中，以維護資料隱私與安全性。根據 GitHub 上的公開討論，此問題至今仍未有明確解決方案，顯示開發者社群對此功能的迫切需求與潛在資安風險的擔憂。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>資安</span></div>
+        <div class="meta">
+          <span>來源：Hacker News</span>
+          <span>發布時間：2026/06/28 20:27</span>
+        </div>
+        <a class="read-link" href="https://github.com/openai/codex/issues/2847" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
