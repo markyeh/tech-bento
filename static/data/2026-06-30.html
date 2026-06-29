@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/06/29</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/06/29 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>美國會議員擬禁AI公司販售用戶健康資料</h2>
+        <p>為因應AI時代挑戰，美國國會議員伊莉莎白·華倫與瑪麗·蓋伊·史坎隆正推動《健康與位置資料保護法案》新版本。此法案旨在禁止資料仲介商及其他企業，販售美國民眾透過AI聊天機器人（如ChatGPT、Claude）所揭露的健康與位置等敏感資訊。相較於2022年版，新法大幅擴大規範範圍，強化對個人隱私的保障，防範企業將AI互動中獲取的個資轉售。</p>
+        <div class="tags"><span>AI</span><span>隱私權</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/06/30 00:00</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>OpenAI 預告將為 AI 程式碼工具 Codex 推出專屬硬體</h2>
+        <p>OpenAI 近期透過社群平台 X 預告，將於 7 月 15 日發表一款專為其 AI 程式碼生成工具 Codex 設計的硬體設備。該預告影片展示了一款方形裝置，配有多個按鈕，並標示著「你最喜歡的 Codex 快捷鍵即將升級」。值得注意的是，這並非先前與前 Apple 設計師 Jony Ive 合作開發的神秘 AI 裝置。OpenAI 此次是與專門生產機械鍵盤及巨集鍵盤（macro pads）、以可自訂按鍵、旋鈕和開關聞名的 Work Louder 公司攜手合作。從裝置的剪影判斷，這款新品應是一款為 Codex 優化、提供程式設計師便利快捷操作的專屬輸入設備。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>硬體</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/06/30 02:52</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>Gemini 個人化 AI 圖像生成功能於美國開放免費使用</h2>
+        <p>Google 宣布，其 AI 模型 Gemini 的個人化圖像生成功能，已於美國地區向符合資格的免費使用者開放。這項服務能讓用戶免費體驗，並支援根據個人興趣及已連結 Google 應用程式的數據來客製化生成圖片。這意味著 Gemini 將能更貼近用戶的喜好，提供獨特的圖像創作體驗。</p>
+        <div class="tags"><span>AI</span><span>Google</span><span>Gemini</span><span>圖像生成</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/06/30 04:12</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>韓國將投入1兆美元，力拚記憶體晶片與人形機器人產業領先地位</h2>
+        <p>韓國政府正積極擘劃一項大規模科技投資計畫，預計將投入高達1兆美元，旨在全面提升其記憶體晶片製造產能，並鎖定實體AI及人形機器人領域的全球領導地位。此戰略部署目標於2028年前將商用化人形機器人推向市場，以鞏固韓國在AI硬體及全球科技供應鏈中的關鍵角色。</p>
+        <div class="tags"><span>AI</span><span>機器人</span><span>半導體</span><span>韓國</span></div>
+        <div class="meta">
+          <span>來源：Ars Technica</span>
+          <span>發布時間：2026/06/30 05:09</span>
+        </div>
+        <a class="read-link" href="https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>Google 警告歐盟反壟斷措施恐洩用戶資料</h2>
+        <p>歐盟近期提案旨在削弱 Google 壟斷地位，要求 Google 開放搜尋資料供競爭者使用，並在 Android 平台上開放 AI 功能，以促進市場競爭。Google 對此提出警告，指出這些強制措施恐將導致用戶資料隱私面臨嚴重風險。Google 強調，分享敏感的搜尋數據和開放核心 AI 技術，可能導致個人資料遭到不當存取或濫用，引發重大的資安疑慮。此爭議顯示監管機關在促進市場競爭與企業保護用戶數據之間，仍存在挑戰。</p>
+        <div class="tags"><span>Google</span><span>歐盟</span><span>資料隱私</span><span>反壟斷</span><span>AI</span></div>
+        <div class="meta">
+          <span>來源：Ars Technica</span>
+          <span>發布時間：2026/06/30 02:21</span>
+        </div>
+        <a class="read-link" href="https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
