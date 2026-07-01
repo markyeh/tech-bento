@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/07/01</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/07/01 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>Meta 規劃將剩餘 AI 算力變現，切入雲端市場</h2>
+        <p>Meta 正在積極開發雲端基礎設施業務，計畫對外販售其龐大的 AI 運算能力及模型。此策略將使 Meta 直接與 Amazon Web Services (AWS)、Google Cloud 和 Microsoft Azure 等主要雲端服務供應商競爭，旨在將其為內部 AI 開發所建置的閒置算力，轉化為新的商業營收來源。</p>
+        <div class="tags"><span>AI</span><span>雲端服務</span><span>Meta</span><span>AWS</span><span>Google Cloud</span><span>Microsoft Azure</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/07/01 21:43</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>大型語言模型陷「群體思考」困境，新創力圖打破</h2>
+        <p>「麻省理工科技評論」指出，目前主流的大型語言模型（LLM）如 OpenAI 的 ChatGPT、Google 的 Gemini 及 Claude 等，在生成內容時常陷入「群體思考」的模式。它們的輸出缺乏真正的隨機性與多樣性，容易產生重複或可預測的結果。文章以隨機數字生成為例，發現當使用者要求 LLM 給出 1 到 10 之間的隨機數時，模型經常先給出「7」，接著是「3」或「4」，再續為「8」或「9」，顯示其輸出並非全然隨機。這種缺乏獨創性的表現，揭示了 LLM 在內容發散性上的瓶頸。目前，已有新創公司正致力於開發技術，試圖讓 LLM 擺脫這種「群體思考」困境，提升其回應的多樣性與非預測性。</p>
+        <div class="tags"><span>AI</span><span>LLM</span><span>聊天機器人</span><span>新創</span></div>
+        <div class="meta">
+          <span>來源：MIT Technology Review</span>
+          <span>發布時間：2026/07/01 22:35</span>
+        </div>
+        <a class="read-link" href="https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>馬斯克駁斥SpaceX開發AI手機原型機傳聞</h2>
+        <p>電動車大亨Elon Musk嚴正駁斥華爾街日報 (The Wall Street Journal) 關於SpaceX正在開發AI手機原型機的報導，稱其「全然不實」。該報導聲稱，SpaceX在籌備創紀錄的首次公開募股 (IPO) 前，曾向投資人展示一款比iPhone更薄的「手持裝置」，並計畫搭載Qualcomm Snapdragon晶片，運行自家AI作業系統，且整合旗下xAI的AI功能。但Musk已出面否認所有相關傳聞。</p>
+        <div class="tags"><span>AI</span><span>SpaceX</span><span>Elon Musk</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/07/02 04:10</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/science/960442/spacex-phone-prototype-elon-musk" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>Google 代理式助理 Gemini Spark 現已支援 Mac 平台</h2>
+        <p>Google 推出其具備 24/7 全天候服務能力的「代理式」智慧助理 Gemini Spark，現已正式擴展至 Mac 平台。除了 Mac 支援外，Gemini Spark 也帶來多項功能升級，包括即時追蹤（real-time tracking）能力，以及更廣泛的應用程式整合（support for more apps）。這項更新旨在提供用戶更全面且自動化的協助體驗。</p>
+        <div class="tags"><span>AI</span><span>Google</span><span>Gemini</span><span>Mac</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/07/01 22:20</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>Anthropic 推出 Claude Science 助攻科學研究</h2>
+        <p>人工智慧公司 Anthropic 近期宣布推出其最新旗艦級產品「Claude Science」。這款重量級新品專為支援科學研究而設計，並已在針對製藥業高層、生技新創創辦人及研究人員的活動中發表。Claude Science 旨在提供強大的人工智慧輔助，加速生物醫學與其他科學領域的探索與發展。</p>
+        <div class="tags"><span>AI</span><span>Anthropic</span><span>科學研究</span></div>
+        <div class="meta">
+          <span>來源：MIT Technology Review</span>
+          <span>發布時間：2026/07/01 20:10</span>
+        </div>
+        <a class="read-link" href="https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
