@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/07/07</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/07/07 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>Meta推出全新AI圖像模型Muse Image，Instagram照片生成可加入好友</h2>
+        <p>Meta近日發表由其超智慧實驗室（Superintelligence Labs）打造的全新AI生成式圖像模型「Muse Image」。此模型已率先應用於Meta AI App、Instagram及WhatsApp，未來也將陸續導入Facebook和Messenger。Muse Image的核心功能之一，是能將其他Instagram用戶輕鬆融入AI生成照片中，創造更多互動性內容。官方強調，Muse Image具備「代理式」（agentic）能力，可與Muse Spark大型語言模型（LLM）合作，理解提示、搜尋網路並規劃生成內容，取代Meta既有的Llama系列圖像模型，提升AI影像創作體驗。</p>
+        <div class="tags"><span>AI</span><span>Meta</span><span>Instagram</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/07/08 04:31</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>Anthropic Claude Cowork 推出行動與網頁版</h2>
+        <p>Anthropic 正式宣布旗下 AI 協作平台 Claude Cowork 將推出行動裝置與網頁版本，擴大其服務範圍。在此之前，Claude Cowork 僅提供 macOS 與 Windows 桌面應用程式，如今 iOS 和 Android 用戶也能體驗。儘管官方強調完整的應用體驗仍以桌面版為主（如本機檔案存取），但預設雲端執行工作階段，將能支援跨裝置無縫接續使用。這項新服務將率先開放給 Max 訂閱戶，其他方案用戶則將於未來數週陸續開放。</p>
+        <div class="tags"><span>AI</span><span>Anthropic</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/07/08 01:46</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>應對美國出口管制，中國DeepSeek計劃自研AI晶片</h2>
+        <p>為應對美國日益嚴格的出口管制，中國大型語言模型（LLM）開發商DeepSeek正著手規劃自研AI晶片。此舉旨在降低對NVIDIA高效能運算晶片以及華為相關技術的依賴，以確保未來AI發展的供應鏈穩定性。目前此晶片研發計畫仍處於早期階段。</p>
+        <div class="tags"><span>AI</span><span>晶片</span><span>NVIDIA</span><span>出口管制</span></div>
+        <div class="meta">
+          <span>來源：Ars Technica</span>
+          <span>發布時間：2026/07/08 00:14</span>
+        </div>
+        <a class="read-link" href="https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>Meta 推出全新 AI 圖片生成器 Muse</h2>
+        <p>Meta 近日正式發表旗下全新 AI 圖片生成工具「Muse」。這項新技術旨在強化圖像創作能力，具備廣泛應用潛力，包括數位廣告設計、居家空間裝飾模擬，以及賦能內容創作者等多種應用場景，預期將帶來顯著效益。此舉凸顯 Meta 在生成式 AI 領域的積極布局，期盼透過 Muse 拓展更多元商業與創作應用。</p>
+        <div class="tags"><span>AI</span><span>Meta</span><span>生成式AI</span><span>圖像生成</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/07/08 06:18</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>開源AI崛起，Anthropic暫未受衝擊的原因</h2>
+        <p>TechCrunch報導指出，儘管開源AI模型正蓬勃發展，但目前並未對Anthropic等領先的AI實驗室構成直接威脅。分析認為，開源AI與尖端AI模型似乎在不同的AI生命週期階段中各自找到定位。開源模型可能更受開發者、新創企業或學術界青睞，用於探索與成本效益考量；而Anthropic等前沿AI公司則專注於開發頂尖、複雜的企業級解決方案。因此，目前兩者並非零和競爭，而是各自滿足市場上不同需求，處於共存並進的階段。</p>
+        <div class="tags"><span>AI</span><span>Anthropic</span><span>開源</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/07/08 04:04</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
