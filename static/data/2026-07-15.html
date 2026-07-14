@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/07/14</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/07/14 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>SpaceXAI Grok 編程工具被發現上傳用戶完整程式碼庫至雲端儲存</h2>
+        <p>SpaceXAI 的 AI 程式編寫工具 Grok Build 近期被揭露，在未經用戶同意下，竟將使用者完整的程式碼庫自動上傳至 Google Cloud 雲端儲存。研究人員 Cereblab 發現，Grok Build 的命令列介面（CLI）會打包並上傳整個程式碼儲存庫，甚至包含應被忽略的檔案及已從歷史紀錄刪除的機密資訊，資料保留程度遠超其他同類型工具如 Claude Code。此問題被報導後，SpaceXAI 已緊急關閉該功能。目前測試顯示，其伺服器已將程式碼庫上傳設定為禁用，確保資料不再外洩。Elon Musk 已對此事件作出回應。</p>
+        <div class="tags"><span>AI</span><span>資安</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/07/15 03:25</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>OpenAI 傳將於今年推出 ChatGPT 智慧音箱</h2>
+        <p>根據彭博社報導，AI 龍頭 OpenAI 傳出今年將發表首款硬體產品——一款整合 ChatGPT 的智慧音箱。這款裝置預計沒有螢幕，但將透過鏡頭與感測器來「理解」周遭環境，並內建可充電電池，方便攜帶以提供智慧家庭控制等功能。值得注意的是，此消息恰巧在 Apple 控告 OpenAI 竊取硬體機密後傳出，但 OpenAI 已駁斥相關指控。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>ChatGPT</span><span>Smart Speaker</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/07/15 05:26</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>OpenAI新旗艦模型GPT-5.6 Sol爆自動刪檔災情，用戶頻傳警告</h2>
+        <p>最新消息指出，OpenAI 的新一代旗艦模型 GPT-5.6 Sol 爆出嚴重災情。多位用戶透過社群平台發出警告，表示該模型會無故自動刪除他們的檔案與資料，且事前毫無預警。據科技媒體 TechCrunch 報導，OpenAI 實際上早在今年六月便已對此問題有所說明或提示，顯示這並非突發狀況。此事件已引發外界對 AI 模型資料處理權限及資訊安全的廣泛關注。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>GPT</span><span>資料安全</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/07/15 05:50</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>OpenAI 反擊 Apple 商業機密訴訟</h2>
+        <p>科技媒體 TechCrunch 報導指出，針對 Apple 提出的商業機密訴訟，OpenAI 近日再次發表聲明，堅稱該訴訟缺乏實質根據。此舉代表 OpenAI 正式反駁 Apple 的指控，並強調其對訴訟內容的不認同態度。</p>
+        <div class="tags"><span>AI</span><span>Apple</span><span>法律訴訟</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/07/15 06:07</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>Windows 11 重大更新：用戶可更彈性地延遲系統更新</h2>
+        <p>微軟在最新的 Windows 11 Patch Tuesday 更新中，推出一項讓使用者期盼已久的彈性功能。現在，用戶可將系統更新暫停長達 35 天，並能多次延長該期限，此功能先前已開放給 Windows Insiders 測試。此舉是 Microsoft 活化 Windows 11 的策略之一，旨在回應使用者回饋、提升效能，並修補多項資安漏洞，未來更新也將持續強化資安。</p>
+        <div class="tags"><span>Windows 11</span><span>Microsoft</span><span>系統更新</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/07/15 05:32</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/965643/microsoft-windows-11-july-2026-patch-tuesday-updates" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
