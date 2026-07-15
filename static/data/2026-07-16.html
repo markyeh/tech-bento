@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/07/15</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/07/15 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>OpenAI 推出 230 美元鍵盤支援 Codex，儘管深陷硬體訴訟泥淖</h2>
+        <p>AI 巨頭 OpenAI 近期推出一款售價 230 美元的背光鍵盤，該產品專為其代理式程式碼生成應用程式 Codex 所設計。此舉引發業界關注，尤其是在 OpenAI 正與科技巨擘 Apple 捲入一場關於硬體商業機密竊盜的法律訴訟之際。儘管面臨訴訟挑戰，OpenAI 仍選擇跨足硬體領域，此策略動向頗值得玩味。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>硬體</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/07/16 03:41</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>xAI 控告用戶濫用 Grok 生成兒童性虐待影像</h2>
+        <p>伊隆馬斯克旗下的 AI 公司 xAI，近期對一名南卡羅來納州男子 Terry Wayne Harwood 提起訴訟。xAI 指控該男子濫用其 Grok AI 聊天機器人，刻意規避系統安全措施，生成並散布兒童性虐待影像（CSAM），此舉已嚴重違反公司使用政策。據悉，Harwood 早在今年二月就因持有及散布 CSAM 被捕，並面臨八項重罪指控。xAI 在訴訟中聲明，Harwood 刑事案件中至少部分相關影像，是透過 Grok 生成或修改。此案凸顯 AI 技術遭濫用的潛在風險與法律責任。</p>
+        <div class="tags"><span>AI</span><span>xAI</span><span>Grok</span><span>法律</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/07/16 05:33</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>OpenAI 開發 LLM 超級駭客 GPT-Red，強化模型防禦能力</h2>
+        <p>為提升旗下 AI 模型的安全防禦能力，OpenAI 近期開發了名為 GPT-Red 的大型語言模型（LLM）超級駭客。這個模型被設計為一個「陪練夥伴」，專門用來測試並強化其他 AI 模型，使其更能抵禦網路攻擊。OpenAI 強調，最新發布的旗艦 LLM GPT-5.6，就是透過與 GPT-Red 進行內部對抗訓練後，成為公司有史以來最穩固、安全的版本。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>資安</span></div>
+        <div class="meta">
+          <span>來源：MIT Technology Review</span>
+          <span>發布時間：2026/07/16 01:09</span>
+        </div>
+        <a class="read-link" href="https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>Pixel 11 相機模組藏玄機，Google 預告片曝光神秘發光圓球</h2>
+        <p>Google 旗下智慧型手機 Pixel 11 系列新機的預告片近期在官方商店頁面曝光，揭示了相機模組上一個引人注目的「發光圓球」設計。根據 9to5Google 的報導，這顆圓球會發光並變換顏色，但官方並未透露其具體功能。外界推測，這可能與 Android 17 beta 版曾出現的「Pixel Glow」光效功能有關。編輯團隊進一步猜測，此發光圓球極有可能與 Google 旗下的 Gemini AI 進行互動，例如在執行特定 AI 功能時提供視覺回饋或通知。Google 已宣布將於 8 月 12 日舉辦活動，預計屆時將正式揭曉 Pixel 11 更多創新功能與這顆神秘發光體的用途。</p>
+        <div class="tags"><span>Google</span><span>Pixel</span><span>智慧手機</span><span>AI</span><span>Android</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/07/16 02:24</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>Brainless：神似 Claude Code、Codex 和 Grok 的 Shadcn 元件</h2>
+        <p>Hacker News 近期介紹了一個名為「Brainless」的專案。此專案提供一系列基於 Shadcn UI 的元件，其設計靈感源自主流 AI 模型的使用者介面風格，例如 Anthropic 的 Claude Code、OpenAI 的 Codex 以及 xAI 的 Grok。開發者可以藉由這些元件，在應用程式中輕鬆模擬 AI 聊天或程式碼生成工具的介面氛圍，以提升用戶體驗或作為前端開發參考。</p>
+        <div class="tags"><span>AI</span><span>Shadcn UI</span><span>前端開發</span></div>
+        <div class="meta">
+          <span>來源：Hacker News</span>
+          <span>發布時間：2026/07/16 03:42</span>
+        </div>
+        <a class="read-link" href="https://brainless.swerdlow.dev/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
