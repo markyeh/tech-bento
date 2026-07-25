@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/07/25</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/07/25 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>Google 高層暗示 Pixel 11 將調漲售價</h2>
+        <p>Google 設備與服務副總裁 Shakil Barkat 近期受訪時透露，受 AI 資料中心需求激增影響，導致記憶體供應吃緊、成本飆升，新一代 Pixel 手機（推測為 Pixel 11）售價將有所調漲。他指出，Google 雖然已盡力為消費者吸收成本，但全球經濟結構已根本改變，無法獨善其身。Barkat 提到，從 Apple、Nintendo 到 Microsoft 等多家科技公司，皆因記憶體成本上揚而調整產品價格，顯示 AI 浪潮對硬體供應鏈的衝擊正持續擴大。</p>
+        <div class="tags"><span>AI</span><span>Google</span><span>Pixel</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/07/26 02:13</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>華納兄弟控告亞馬遜惡意挖角員工</h2>
+        <p>華納兄弟探索（Warner Bros. Discovery）近日對亞馬遜（Amazon）提起訴訟，指控其惡意挖角旗下高階主管。華納兄弟指出，亞馬遜試圖「搭便車」利用好萊塢既有資源，並進行「非法員工搶購」。其中，前原創內容行銷資深副總裁 Pia Barlow 原本合約至今年十月底，卻預計八月初就轉任亞馬遜原創影集行銷主管。華納兄弟認為此舉明顯違反合約。據報導，HBO 影集與電影部門主管 Francesca Orsi 也可能是亞馬遜的挖角目標之一。此訴訟案揭示好萊塢人才競爭白熱化。</p>
+        <div class="tags"><span>影視產業</span><span>訴訟</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/07/25 22:05</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>一條電線掉落揭露AI資料中心潛在危機：探討解方</h2>
+        <p>北維吉尼亞州近期發生一起電線掉落事件，意外揭露了AI資料中心在面對電網中斷時，其應變能力不足的嚴重問題。隨著AI技術發展，全球對算力需求激增，資料中心耗電量與日俱增，其對供電穩定性的仰賴程度也隨之提高。此次事件凸顯了AI資料中心對於基礎設施韌性的脆弱性，迫使業界正視並尋求改善方案，以確保未來AI運算的穩定性與可靠度。</p>
+        <div class="tags"><span>AI</span><span>資料中心</span><span>供電穩定</span><span>電網</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/07/25 21:05</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>SDCC 預告片首度公開《銀翼殺手 2099》清晰面貌</h2>
+        <p>聖地牙哥動漫展（SDCC）上，多部備受期待的影視作品釋出最新資訊。《銀翼殺手 2099》的預告片首次曝光，讓觀眾得以一窺其未來世界的清晰面貌。此外，《魔戒：力量之戒》第三季也釋出了預告，揭示了魔戒的鍛造場景；全新《綠光戰警》影集預告片也同步登場；而經典惡搞電影《星際歪傳：新篇》（Spaceballs: The New One）則舉行了專題座談會，為影迷帶來豐富內容。</p>
+        <div class="tags"><span>SDCC</span><span>影集</span><span>科幻</span><span>奇幻</span><span>預告片</span></div>
+        <div class="meta">
+          <span>來源：Ars Technica</span>
+          <span>發布時間：2026/07/26 04:52</span>
+        </div>
+        <a class="read-link" href="https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>馬斯克旗下The Boring Company傳以200億美元估值募資</h2>
+        <p>據報導，科技企業家伊隆·馬斯克（Elon Musk）創立的隧道建設新創公司 The Boring Company，正尋求新一輪大規模的募資。市場消息指出，此次募資可能將以高達 200 億美元的估值進行。The Boring Company 致力於開發地下交通解決方案，若成功完成此輪募資，將有助於其未來項目的推展與技術研發。</p>
+        <div class="tags"><span>The Boring Company</span><span>募資</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/07/26 03:23</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
