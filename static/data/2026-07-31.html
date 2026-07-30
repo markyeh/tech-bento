@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/07/30</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/07/30 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>前OpenAI員工創立的AI對沖基金Situational Awareness傳清倉</h2>
+        <p>由一位年僅24歲的前OpenAI員工所創立，並專注於人工智慧（AI）相關投資的對沖基金「Situational Awareness」，近日傳出已將其公開股票投資組合的大部分或全部出售給知名金融機構Citadel。這家以AI押注為主的新創基金清倉持股，特別是其名稱的諷刺意味，引發了業界高度關注。此事件不僅凸顯AI投資領域的高度波動性，也反映出即使是具備AI背景的創辦人，也可能面臨市場的嚴峻挑戰。</p>
+        <div class="tags"><span>AI</span><span>投資</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/07/31 04:46</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>庫克暗示 iCloud Plus 將推 AI 增強付費方案</h2>
+        <p>蘋果執行長 Tim Cook 近期暗示，隨著 Apple Intelligence 與全新 Siri AI 的推出，用戶對 AI 功能的需求將大幅增加。為此，Apple 可能會在 iCloud Plus 訂閱服務中，提供進階付費選項，讓「AI 重度使用者」能享有更高的 AI 使用限額。這款預計今年秋季隨 iOS 27 上線的 Siri AI，將具備螢幕內容理解、跨應用程式操作等能力，並將推出獨立的類似 ChatGPT 介面應用程式。此舉顯示 Apple 正積極布局 AI 服務的商業模式。</p>
+        <div class="tags"><span>AI</span><span>Apple</span><span>iCloud Plus</span><span>Siri</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/07/31 06:29</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>Google DeepMind Gemini Robotics 2 實現機器人全身控制</h2>
+        <p>Google DeepMind 近期發表最新版 Gemini Robotics 2 AI 模型，突破過往僅能控制機器人上半身的限制，現已能全面掌控類人型機器人的「全身動作」，範圍涵蓋從腳尖到指尖。這項技術進展讓機器人能執行更廣泛且複雜的任務，包括行走、蹲下、伸展肢體，以及精準地操作各類物品。根據展示影片，Apptronik 的 Apollo 2 機器人已能靈活地彎腰撿拾灑水壺，甚至從貨架上準確找出並取下特定物件，展現AI在機器人控制領域的顯著躍進。</p>
+        <div class="tags"><span>AI</span><span>Robotics</span><span>Google DeepMind</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/07/31 01:18</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>AI投資熱潮：雲端基礎設施供應商成投資人新寵</h2>
+        <p>據TechCrunch報導，在當前AI投資熱潮下，儘管如Amazon這類的雲端服務巨擘，為因應AI運算需求而持續投入巨額資金擴建資料中心，投資人對此卻展現高度青睞與樂觀態度。這顯示，在AI軍備競賽中，提供核心雲端基礎設施的業者，特別受到資本市場看好。</p>
+        <div class="tags"><span>AI</span><span>雲端運算</span><span>資料中心</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/07/31 06:41</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>Google：AI 助 Chrome 六月修復漏洞數超過去兩年總和</h2>
+        <p>Google 近日宣布，旗下瀏覽器 Chrome 在今年六月修復的資安漏洞數量，竟超越過去兩年修補的總和。這項驚人的進展，主要歸功於 Google 大量導入大型語言模型（LLM）及 AI 工具於軟體開發流程中。透過 AI 的輔助，開發團隊能更快速且高效地識別並修復程式碼中的錯誤。資安專家指出，過去兩年已有多家科技巨頭如 Microsoft，在產品中應用 AI 後，資安漏洞的發現與修補速度呈現指數型成長。這顯示 AI 技術正大幅提升軟體產品的安全性與穩定性，成為強化資安防禦的重要利器。</p>
+        <div class="tags"><span>AI</span><span>Google</span><span>Chrome</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/07/31 02:57</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
