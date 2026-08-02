@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/08/02</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/08/02 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>AI新創力求「道德」定位，付費機制能否弭平藝術家疑慮？</h2>
+        <p>生成式AI模型長期以來因未經許可使用藝術家作品，引發智慧財產權爭議，藝術家們更將此視為竊取。儘管AI倡議者辯稱此為技術發展所需，卻也因此導致了多起訴訟戰。不過，市場上正興起一股「道德AI」新創浪潮，例如Pippa，他們試圖透過向藝術家支付報酬的方式，來建立更具倫理的商業模式，以區隔與其他競爭者的差異。然而，這也引發了新的討論：單純付費給藝術家，是否真能讓他們擁抱AI技術，並有效化解創作者與生成式AI之間的長年衝突與疑慮？</p>
+        <div class="tags"><span>AI</span><span>智慧財產權</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/08/02 21:00</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>全球記憶體短缺衝擊 MacBook Air 供貨</h2>
+        <p>科技媒體 TechCrunch 指出，全球記憶體晶片短缺正持續影響 Apple 旗下最受歡迎的 Mac 機種 MacBook Air 的供貨。這波缺料潮恐將導致 MacBook Air 市場供應吃緊，消費者在選購時，可能面臨出貨延遲或特定配置選項受限等挑戰。</p>
+        <div class="tags"><span>記憶體</span><span>MacBook Air</span><span>Apple</span><span>供應鏈</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/08/03 05:33</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>MicroCodex程式碼生成Agent：以C++重新實作OpenAI Codex，執行檔小於1MB</h2>
+        <p>在Hacker News上，一個名為「MicroCodex Coding Agent」的專案引起關注。該專案運用C++語言重新實作了類似OpenAI旗下Codex模型的程式碼生成功能，其最引人矚目的特點是將執行檔大小壓縮至1MB以下。這項開發展示了在輕量級環境下實現AI程式碼輔助工具的可能性，對於資源受限的裝置或尋求高效能解決方案的開發者而言，具有重要的參考價值。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>C++</span><span>軟體開發</span></div>
+        <div class="meta">
+          <span>來源：Hacker News</span>
+          <span>發布時間：2026/08/03 04:11</span>
+        </div>
+        <a class="read-link" href="https://github.com/paoloanzn/microcodex" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>Xbox 歐洲與英國售價大漲，最高漲幅達 200 歐元或 170 英鎊</h2>
+        <p>Microsoft 宣布 Xbox 主機在歐洲與英國地區的售價大幅調漲，最高漲幅達 200 歐元或 170 英鎊。其中，搭載光碟機的 1TB Xbox Series X 價格從 599.99 歐元／499.99 英鎊飆升至 799.99 歐元／669.99 英鎊，漲幅超過三成。而 512GB 的 Xbox Series S 也從 349.99 歐元／299.99 英鎊調漲至 499.99 歐元／429.99 英鎊，漲幅超過四成三。雖然受 AI 產業對記憶體與儲存晶片需求影響，導致供應鏈成本上升，其他遊戲機也曾有漲價情況，但 Microsoft Xbox 本次的調漲幅度明顯更為劇烈。</p>
+        <div class="tags"><span>Xbox</span><span>Microsoft</span><span>遊戲機</span><span>AI</span><span>售價</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/08/03 00:14</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>AI 時代 App Store 仍有亮眼應用：精選「隱藏好物」展現軟體創新</h2>
+        <p>儘管外界預期 AI 智慧助理可能讓傳統應用程式被淘汰，但 TechCrunch 報導指出，App Store 的開發者們正加速推出更多創新軟體。從智慧書籤工具、社區市集，到數位筆友與自然日誌等，這些「隱藏好物」證明在 AI 時代，優質應用程式仍有廣闊的發展空間，並持續為用戶帶來全新且豐富的使用體驗。</p>
+        <div class="tags"><span>AI</span><span>App Store</span><span>應用程式</span><span>軟體創新</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/08/02 23:23</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
