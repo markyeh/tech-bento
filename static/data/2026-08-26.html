@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/08/25</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/08/25 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>「Claude Cowork」終於具備共享記憶功能</h2>
+        <p>Anthropic 旗下的 AI 助理 Claude 正在推出一項重要更新，為其聊天和 Cowork 模式導入「共享記憶」功能。這項改進意味著使用者不再需要反覆向 AI 說明專案細節、個人偏好或其他相關背景資訊。透過共享記憶，Claude 將能記住先前對話的內容，大幅提升使用者體驗，讓 AI 助理更能理解並適應長期互動。這將省去重新簡報的麻煩，讓工作流程更順暢高效。</p>
+        <div class="tags"><span>AI</span><span>Anthropic</span><span>Claude</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/08/26 01:50</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>OpenAI 自研晶片「Jalapeño」傳性能超越 NVIDIA Blackwell</h2>
+        <p>最新消息指出，AI 巨擘 OpenAI 正積極開發一款代號為「Jalapeño」的自主研發 AI 晶片。據傳，這款新晶片在性能表現上可能超越 NVIDIA 下一代的 Blackwell 平台。此舉顯示 OpenAI 致力於降低對外部硬體供應商的依賴，以進一步優化其 AI 模型運算效率。若消息屬實，OpenAI 的「Jalapeño」晶片將對 NVIDIA 在 AI 晶片市場的領先地位構成嚴峻挑戰。</p>
+        <div class="tags"><span>AI</span><span>晶片</span><span>OpenAI</span><span>NVIDIA</span><span>Blackwell</span></div>
+        <div class="meta">
+          <span>來源：Hacker News</span>
+          <span>發布時間：2026/08/25 22:06</span>
+        </div>
+        <a class="read-link" href="https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>OpenAI 自研 Jalapeño 晶片 基準測試展現規模化高速推論實力</h2>
+        <p>根據SemiAnalysis的InferenceX基準測試報告，OpenAI最新發表的Jalapeño晶片，在處理AI推論任務時展現卓越性能。相較於現有領先業界的解決方案，Jalapeño晶片無論是在「每位用戶處理的tokens數量」，或是「每瓦特的資料吞吐量」等關鍵指標上，均能提供更佳表現。這項測試結果突顯了Jalapeño晶片在規模化AI推論應用方面的巨大潛力，對於提升大型語言模型等AI服務的運算效率和成本效益將有顯著助益。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>晶片</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/08/25 22:22</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>網路詐騙防制新篇章</h2>
+        <p>麻省理工學院（MIT）校友 Rupert Young 的資料科學與網路資安職涯，可追溯至他早期整理郵票的經歷，這培養了他對細節的精準洞察力。他目前擔任某科技公司的產品長（Chief Product Officer）。此篇報導探討他在網路詐騙防制領域的最新貢獻，為該領域帶來了新的局面。</p>
+        <div class="tags"><span>網路資安</span><span>資料科學</span></div>
+        <div class="meta">
+          <span>來源：MIT Technology Review</span>
+          <span>發布時間：2026/08/26 05:00</span>
+        </div>
+        <a class="read-link" href="https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>微軟推出《最後一戰》25週年紀念配件</h2>
+        <p>為慶祝 Xbox 25 週年，Microsoft 攜手 Razer 及 8BitDo 推出《最後一戰》（Halo）聯名紀念週邊系列。這批限量版配件以半透明的「OG Green」設計為主，風格呼應先前於 E3 發表過的 Xbox Series X25 紀念主機。系列產品包含 Razer Basilisk V3 Pro 35K 滑鼠、Razer BlackWidow V4 75% 電競鍵盤、Razer Hammerhead V3 X HyperSpeed 耳塞式耳機，以及 8BitDo 專為 Xbox 控制器設計的 Ultimate 充電座。所有紀念配件即日起開放預購。</p>
+        <div class="tags"><span>Microsoft</span><span>Xbox</span><span>Halo</span><span>電競週邊</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/08/26 02:16</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/games/984530/microsoft-xbox-25th-anniversary-accessories" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
