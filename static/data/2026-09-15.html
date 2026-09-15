@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/09/14</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/09/14 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>AI巨頭放慢開發步調，是為了安全還是壟斷？</h2>
+        <p>上週末，OpenAI執行長Sam Altman、Anthropic執行長Dario Amodei、Google DeepMind共同創辦人Demis Hassabis以及Elon Musk等AI產業領袖，達成非正式協議，將放慢AI開發速度。他們聲稱此舉旨在「掌握前沿技術節奏」，並提出由第三方審計、規範國內實驗室、達成全球放緩協議等建議，以確保AI發展安全。然而，批評者則質疑此舉實為阻止潛在競爭者、打壓開源社群、規避實質法律規範的手段，甚至指控這根本是形成「卡特爾」壟斷市場。</p>
+        <div class="tags"><span>AI</span><span>市場競爭</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/09/15 06:59</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>馬斯克反托拉斯訴訟放過 Apple，持續追擊 OpenAI</h2>
+        <p>伊隆·馬斯克（Elon Musk）針對 OpenAI 提出的反托拉斯訴訟出現新進展。此前，該訴訟同時將 Apple 列為被告，質疑其與 ChatGPT 的整合。然而，馬斯克現已撤銷對 Apple 的訴訟，不再追究其在 ChatGPT 整合上的責任。這使得 Apple 成功脫身，但 OpenAI 仍須獨自面對馬斯克的法律挑戰。此案持續成為科技界關注的焦點，尤其是在人工智慧領域的競爭與合作議題。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>Apple</span><span>法律訴訟</span></div>
+        <div class="meta">
+          <span>來源：Ars Technica</span>
+          <span>發布時間：2026/09/15 03:45</span>
+        </div>
+        <a class="read-link" href="https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>黃仁勳在台上與川普通話，宣稱機器人不會取代人類</h2>
+        <p>NVIDIA執行長黃仁勳在All-In高峰會上，於眾人面前接聽美國總統川普的電話。川普在通話中將外界對AI發展的擔憂斥為「騙局」，並向現場群眾保證「機器人不會取代人類」。此次公開通話發生在AI新聞熱議的一週，此前Anthropic執行長Dario Amodei才發表文章，呼籲應減緩AI開發速度。黃仁勳此舉並非首次在工作場合接聽總統來電，但公開通話並放上擴音器尚屬首例，也為AI未來走向的辯論再添話題。</p>
+        <div class="tags"><span>AI</span><span>NVIDIA</span><span>Donald Trump</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/09/15 04:03</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>AI基礎設施公司Cornelis募資2.05億美元，挑戰NVIDIA霸主地位</h2>
+        <p>AI基礎設施業者Cornelis近日成功募資2.05億美元，其目標直指挑戰NVIDIA在AI領域的霸主地位。該公司同時發表名為「Active Compute Fabric」的全新網路技術產品，此技術核心在於解決AI運算中，GPU因頻繁等待資料傳輸而造成大量運算時間浪費的問題，可望大幅提升AI訓練與推論的整體效率。</p>
+        <div class="tags"><span>AI</span><span>NVIDIA</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/09/15 04:07</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>OpenAI 傳以 3 億美元收購手機相機技術公司 Glass Imaging</h2>
+        <p>據外媒報導，AI 巨頭 OpenAI 斥資 3 億美元收購了新創公司 Glass Imaging。這家公司由曾主導 Apple 人像模式（Portrait Mode）開發的前 Apple 工程師團隊創立，專精於智慧型手機相機技術。此收購案顯示 OpenAI 正積極擴展其 AI 在影像處理及多模態應用領域的佈局，可能與其未來在硬體或進階視覺 AI 技術方面的發展規劃有關，強化 AI 模型的影像理解與生成能力。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>併購</span><span>智慧型手機</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/09/15 04:44</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
