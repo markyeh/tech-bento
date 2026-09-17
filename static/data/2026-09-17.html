@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/09/16</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/09/16 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>AI 助理將可控制 Google Home 裝置</h2>
+        <p>Google 近期針對旗下的智慧家庭平台 Google Home 推出 MCP 伺服器早期測試計畫。這項新功能將允許如 Claude、ChatGPT 等 AI 助理，透過自然語言指令，深度整合並操控 Google Home 連網裝置。使用者將能透過 AI 助理，不僅能控制家中智慧裝置，還能檢視攝影機錄影摘要，甚至存取智慧家庭的活動紀錄。此舉預計將大幅提升智慧家庭的便利性與自動化程度。</p>
+        <div class="tags"><span>AI</span><span>Google</span><span>智慧家庭</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/09/17 01:00</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>Snap發表全新AI助理「Specs Intelligence」，同步登陸iOS及Mac平台</h2>
+        <p>Snap近日發表全新的「Specs Intelligence」AI助理服務。這款被定位為「預測式AI服務」的工具，旨在協助用戶掌握日常待辦事項，進而推動長期目標的實現。它能連結各數位帳戶，提供包括工作任務管理、差旅資訊追蹤等功能，並具備聊天互動能力。雖然市場上已有Meta的Muse和Google的Gemini等類似AI助理，Snap強調Specs Intelligence的預測性與主動性。值得一提的是，Specs Intelligence不僅隨Snap首款擴增實境（AR）眼鏡「Specs」同步亮相，也將率先登陸iOS（預覽版）及Mac平台，擴大用戶接觸點。</p>
+        <div class="tags"><span>AI</span><span>Snap</span><span>AR</span><span>iOS</span><span>Mac</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/09/17 07:40</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>Claude 推出 Docs 與 Slides 功能，直指 Gemini</h2>
+        <p>Anthropic 旗下的 AI 模型 Claude 近日推出全新「Docs」和「Slides」功能，讓使用者能直接透過 Claude 聊天介面建立文件與簡報，並可編輯、匯出及分享，劍指 Google 的 Gemini 生態系。Anthropic 同步簡化了 Claude 的操作，將原本的聊天模式與「Cowork」整合為「一體化 Claude」，使得所有 AI 生產力工具，包括 Artifacts 和 Claude Design，都能在任何對話中無縫取用。Anthropic 表示，Claude 現能更智慧地判讀任務需求，自動提供所需協助，大幅提升工作效率。</p>
+        <div class="tags"><span>AI</span><span>Anthropic</span><span>Gemini</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/09/17 00:30</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>Google智慧家庭平台開放第三方AI代理程式整合</h2>
+        <p>Google 近日宣布，將透過全新的 Model Context Protocol (MCP) 開放其智慧家庭平台給第三方 AI 代理程式。這項名為 Google Home MCP 的整合計畫，旨在讓如 Claude、Open Claw 等外部 AI 服務能安全地存取並控制使用者的智慧家庭裝置，並分析相關數據。Google Home & Nest 產品經理 Taylor Lehman 指出，透過 MCP，支援此協定的 AI 代理程式，包含 Google Antigravity 與 Hermes 等，都能監控智慧家庭並代表使用者執行操作，大幅提升智慧家庭的自動化與應用彈性。</p>
+        <div class="tags"><span>AI</span><span>智慧家庭</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/09/17 01:00</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>Anthropic 與 OpenAI 欲引進內部安全評估員，獨立性引發外界疑慮</h2>
+        <p>人工智慧實驗室 Anthropic 與 OpenAI 近期宣布，計畫在其內部引入「獨立安全評估員」，以期加強對其 AI 系統的安全性檢視與監督。此舉雖讓研究社群樂見其成，認為有助於外部專家更深入瞭解 AI 開發過程，但對於這些評估員的「獨立性」是否能真正實現，外界仍抱持高度疑慮。有研究人員指出，要確保有效的 AI 外部監督，除了開放前所未有的近用權限外，更關鍵的是必須保證這些評估員的獨立性、過程透明度，並最終應搭配健全的監管機制。因此，這些評估員能否擺脫內部影響，發揮實質的監督作用，成為各界關注的焦點。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>Anthropic</span><span>AI安全</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/09/17 05:07</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
