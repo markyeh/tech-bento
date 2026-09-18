@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/09/18</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/09/18 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>資安研究員利用 Claude 協助入侵 OpenAI</h2>
+        <p>三名獨立資安研究員組成的 Hacktron 團隊，據報導僅花不到 72 小時，便在 Anthropic 的大型語言模型 Claude Opus 4.8 和 5 協助下，成功入侵 OpenAI 的員工帳戶。他們透過 OpenAI 社群論壇所使用的第三方服務 Discourse 找到安全漏洞，進而存取了 OpenAI 在 GitHub 上的「Monorepo」程式碼庫，據稱該儲存庫包含 OpenAI 的「演算法機密」。為證明已取得權限，研究員從一名員工的 Codex 帳戶發送了 pull request。</p>
+        <div class="tags"><span>AI</span><span>資安</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/09/18 23:30</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>內部文件揭露：OpenAI 與 Microsoft 早預見 AI 訓練對網路的「毀滅性循環」</h2>
+        <p>《紐約時報》控告 OpenAI 和 Microsoft 的訴訟案，近期解密法庭文件引發譁然。這些文件揭露，兩家公司內部早知其 AI 模型訓練仰賴大量網路資料爬取，恐將對網路生態帶來「毀滅性循環」（doom loop）。特別是 Microsoft 應用科學總監 Brent Hecht 的內部評語，形容此舉為「人類史上最大的勞動竊盜」，並諷刺這完全藐視了「合理使用原則」（fair use）。儘管 Microsoft 試圖與 Hecht 的說法切割，此事件仍凸顯了 AI 巨頭在資料倫理與版權規範上備受爭議的做法，也預示著未來相關法律戰將更趨激烈。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>Microsoft</span><span>智慧財產權</span><span>法律訴訟</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/09/19 05:07</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>Dario Amodei 等 AI 領袖倡議「調控 AI 前沿發展速度」，但如何實現？</h2>
+        <p>繼 Anthropic 研究員提出「末日警告」後，該公司執行長 Dario Amodei 提出「調控 AI 前沿發展速度」（Pace the Frontier）計畫。此倡議主要訴求透過獨立安全評估機構，並加強民主國家 AI 實驗室間的協調合作，以確保 AI 安全發展。儘管獲得部分業界支持，這項計畫卻也引發 NVIDIA 執行長 Jensen Huang 的明確反對。</p>
+        <div class="tags"><span>AI</span><span>NVIDIA</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/09/19 01:09</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>OpenAI 運用自家 LLM 操刀晶片設計，代號「Jalapeño」問世</h2>
+        <p>OpenAI 近期成功運用其大型語言模型 (LLM) 參與晶片設計，完成了代號為「Jalapeño」的晶片開發。這項創新展示了 AI 不僅能處理軟體任務，也能深入硬體開發領域，提升設計效率與精確度。此舉不僅對 OpenAI 自身優化 AI 運算能力具有戰略意義，也預示著未來晶片設計流程可能因 AI 輔助而產生革命性變革，開啟了 AI 輔助硬體設計的新篇章，加速次世代晶片的研發進程。</p>
+        <div class="tags"><span>AI</span><span>晶片設計</span><span>OpenAI</span><span>LLM</span></div>
+        <div class="meta">
+          <span>來源：Hacker News</span>
+          <span>發布時間：2026/09/19 07:04</span>
+        </div>
+        <a class="read-link" href="https://spectrum.ieee.org/llms-for-chip-design" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>研究人員利用 Claude 成功駭入 OpenAI</h2>
+        <p>科技媒體 Ars Technica 報導指出，研究人員近期透過 AI 模型 Claude，成功入侵知名 AI 巨頭 OpenAI。他們利用 Claude 取得了 OpenAI 員工的帳號權限，並進一步存取了儲存在 GitHub 上的敏感資料。此事件揭示了 AI 模型在資安領域中可能被濫用的風險。</p>
+        <div class="tags"><span>AI</span><span>資安</span></div>
+        <div class="meta">
+          <span>來源：Ars Technica</span>
+          <span>發布時間：2026/09/18 21:30</span>
+        </div>
+        <a class="read-link" href="https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
