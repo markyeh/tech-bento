@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/10/02</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/10/02 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>白宮新定義：AI已進化為「超級智慧」</h2>
+        <p>白宮近期召集了包含Meta、Amazon、Tesla及Anthropic等多家科技巨頭執行長，共同簽署一份AI安全承諾，此承諾獲川普總統形容為具「道德約束力」。川普總統同時發布行政命令，正式將「人工智慧」（AI）更名為「超級智慧」。另一方面，Meta與OpenAI等業者也正積極為其AI產品打造更親和的使用者介面。此舉突顯了AI技術的快速發展與其伴隨的安全及定義議題日益受到重視。</p>
+        <div class="tags"><span>AI</span><span>白宮</span><span>超級智慧</span><span>AI安全</span><span>科技巨頭</span><span>Trump</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/10/03 01:48</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>OpenAI 推出全新企業級 AI 助理平台「Dots」：辦公私務一手包辦</h2>
+        <p>OpenAI 近期發表嶄新 AI 助理平台「Dots」，將其定位為結合企業級應用與個人生活助理的智慧工具。Dots 具備可愛的擬人化虛擬分身，並可自訂名稱；目前用戶可擁有一位助理，未來將支援多個 Dots。與強調親和力的 Meta Muse 平台不同，Dots 更著重於工作場景的應用，但同時也能處理如訂餐等個人事務。其操作介面讓使用者能透過對話與助理互動，並在獨立視窗追蹤任務執行進度，旨在全面提升工作與生活效率。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/03 02:00</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>蘋果將限制 Mac 磁碟存取，因 AI 代理程式「大幅」增加風險</h2>
+        <p>由於 AI 代理程式大幅增加資安與隱私風險，蘋果宣布將對 macOS 的「全磁碟存取」權限實施更嚴格的限制。此舉部分是回應先前的報導，指出 Meta 的 Muse AI 在未獲用戶明確授權下，疑似存取了 iPhone 或 Mac 上的訊息內容。蘋果表示，未來僅在使用者「非常明確」的動作下，應用程式才能取得這類高層級存取權限，以確保用戶數據安全。</p>
+        <div class="tags"><span>Apple</span><span>macOS</span><span>AI</span><span>隱私權</span><span>資安</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/03 04:08</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>亞馬遜十億美元資料中心反制計畫引發更多爭議</h2>
+        <p>亞馬遜（Amazon）針對其資料中心引發的負面聲浪，提出了一項十億美元的計畫，試圖平息外界疑慮。該計畫中，亞馬遜取消了資料中心員工的非公開協議（NDA），此舉獲得了正面評價。然而，外界對於亞馬遜淡化資料中心環境污染的行為卻招致更多批評。這項原本旨在解決爭議的方案，反而因其處理環境議題的方式，引發了新一波反彈。</p>
+        <div class="tags"><span>Amazon</span><span>資料中心</span><span>環境議題</span></div>
+        <div class="meta">
+          <span>來源：Ars Technica</span>
+          <span>發布時間：2026/10/03 04:30</span>
+        </div>
+        <a class="read-link" href="https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>Meta 開源 Muse AI 裝置程式碼，鼓勵用戶打造專屬智慧小工具</h2>
+        <p>Meta 近日開源其 AI 代理程式 Muse 的程式碼，讓廣大開發者及 Maker 能自行打造各種搭載 Muse AI 的智慧小工具。用戶可透過 ESP32 開發板或 Raspberry Pi 搭配 Meta 提供的 SDK，連結螢幕、按鈕、感測器等周邊，創造出獨特的裝置。Meta 建議的應用包括彩色電子紙提醒器、連接大螢幕的 HDMI 棒，或是小型觸控裝置如 DIY Muse Charm，鼓勵用戶將 Muse AI 融入日常生活應用。</p>
+        <div class="tags"><span>AI</span><span>Meta</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/03 05:08</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
