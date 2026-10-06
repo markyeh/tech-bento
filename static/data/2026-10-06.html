@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/10/05</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/10/05 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>OpenAI 宣布 ChatGPT 與 Codex 將導入文字浮水印功能</h2>
+        <p>OpenAI 宣布為旗下大型語言模型 ChatGPT 及 Codex 導入文字浮水印功能。這項隱形且機器可讀的浮水印技術，初期將率先在歐盟地區推出，主要目的是為符合嚴格的歐盟 AI 法案（EU AI Act）規範。OpenAI 指出其 textGrain 技術，在偵測表現上與 Google DeepMind 的 SynthID 及 Anthropic 採用的方法不相上下，甚至有所超越。儘管導入浮水印，OpenAI 強調 AI 模型效能不受影響。不過，OpenAI 也坦承 textGrain 無法保證百分之百的偵測率。此舉已引起部分使用者關注。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>ChatGPT</span><span>Codex</span><span>浮水印</span><span>歐盟AI法案</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/06 02:08</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>Gemini '代我致電' 功能有望擴展至個人通話</h2>
+        <p>Google 的「Call for Me」AI 功能可能不再僅限於商業用途，未來有望擴展至個人通話，讓 Gemini AI 協助用戶聯繫親友。根據 Android Authority 透過 APK 拆解發現的「Gemini Calling」介紹畫面，該功能預計能處理簡單的日常對話，例如代為告知母親將晚到 15 分鐘，或詢問朋友是否出席晚餐。此功能主要用於傳達類似簡訊的簡短訊息，而非進行完整的語音聊天。對於偏好語音通話或經常漏看訊息的收件人來說，這將是一個方便的選擇。</p>
+        <div class="tags"><span>AI</span><span>Google</span><span>Gemini</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/06 07:09</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>OpenAI 宣布在歐盟區為 ChatGPT 文本導入浮水印</h2>
+        <p>為遵守歐盟 AI 法案規定，OpenAI 正式宣布將在歐盟區為其 ChatGPT 及 Codex 模型所生成的文本內容導入數位浮水印技術。此舉旨在提升 AI 內容的透明度與可追溯性，協助使用者辨識由 AI 產製的資訊。不過，OpenAI 也坦承，若這些文本經過使用者編輯或修改，隱藏的浮水印將會更難以被偵測。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>ChatGPT</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/10/06 04:36</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>OpenAI數學突破引發「AI危機」：學術界對其「蠻幹」模式不滿</h2>
+        <p>過去一年，OpenAI、Anthropic等AI實驗室在多個長期數學難題上取得突破，甚至超越研究人員預期，其中包含解決一項著名的「千禧年大獎難題」。然而，這種矽谷「快速行動、破壞現狀」的作風，卻像失控的推土機般衝擊數學界，導致原本應受慶祝的成果引發強烈反彈。數學家質疑AI實驗室的透明度與方法，要求證明其原創性。儘管OpenAI承諾將從錯誤中學習，並諮詢頂尖數學家，但這些承諾是否能安撫學術界的疑慮，仍有待觀察。AI顛覆數學領域的戲碼才剛開始上演。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>數學</span><span>學術爭議</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/06 03:28</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>OpenAI 公關介入 Sam Altman 訪談，打斷記者關於 ChatGPT 用戶輕生議題的提問</h2>
+        <p>OpenAI 執行長 Sam Altman 近期接受《浮華世界》(Vanity Fair) 記者 Mark Guiducci 採訪時，其公關人員在 Guiducci 提及一名 ChatGPT 用戶輕生事件時介入訪談。Guiducci 當時詢問 Altman 是否認識 Laura Reiley，一位曾為《紐約時報》撰文，提到女兒與 ChatGPT 互動後輕生的記者。公關人員隨即以時間不足為由，表示希望「轉換話題」，打斷了關於此敏感議題的提問。此事件引發外界對 AI 倫理及公司處理危機公關的討論。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>ChatGPT</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/06 00:55</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
