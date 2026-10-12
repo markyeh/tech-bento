@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T08:59:01+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "translatedTitle": "矽谷跟進川普，擬將AI更名為「超級智慧」",
+      "summaryZh": "美國前總統川普計畫將「人工智慧」（AI）更名為「超級智慧」（Super Intelligence），儘管外界普遍抱持懷疑態度，但矽谷部分重量級業者卻已開始跟進。白宮宣稱「超級智慧」是更受認可且精確的新詞。特斯拉執行長馬斯克便是其中一例，他已承諾將旗下SpaceXAI更名為SpaceXSI，顯見這股更名浪潮正逐漸在科技巨頭間發酵，引起業界關注。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "publishedAt": "2026-10-11T18:33:56.000Z",
+      "score": 102,
+      "tags": [
+        "AI",
+        "科技政策"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "The Verge",
+      "originalTitle": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "translatedTitle": "本地AI實作：從興奮到挫折的學習之路",
+      "summaryZh": "The Verge 編輯近期分享了個人踏入本地端 AI 應用的經驗。有鑑於對個人資料隱私的考量，他過去對雲端 AI 服務抱持疑慮，因此決定親自探索在本地設備上運行強大 AI 模型的可行性。作者將在實作中評估本地 AI 是否夠實用，足以證明投資高價硬體（如大量記憶體）的價值。他並非 AI 專家，將以親身實踐記錄這趟學習之旅，分享其興奮、挑戰與挫折，希望能為讀者提供參考，特別是考量到 Apple 新 Mac 在此領域的潛力。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "publishedAt": "2026-10-11T11:00:00.000Z",
+      "score": 62,
+      "tags": [
+        "AI",
+        "本地AI"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "Hacker News",
+      "originalTitle": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "translatedTitle": "Hacker News 介紹 Plimsoll：AI 程式碼專用的自架沙盒環境",
+      "summaryZh": "Plimsoll 是一個在 Hacker News 上發表的開源專案，它提供一個可自架（self-hosted）的沙盒環境。這個工具主要目的是為了安全地執行由 AI 代理人（AI agents）所生成的程式碼。隨著 AI 程式碼生成技術日益普及，如何確保這些自動化產出程式碼的安全性與穩定性，已成為開發者面臨的重要挑戰。Plimsoll 讓使用者能在隔離且受控的環境中，安心地測試與運行 AI 代理人所寫的程式碼，有效降低潛在的安全漏洞或不預期行為的風險。對於依賴 AI 進行程式開發的團隊而言，這是一個確保程式碼品質與執行安全性的實用解決方案。",
+      "url": "https://github.com/plimsollmark/plimsoll",
+      "publishedAt": "2026-10-11T23:47:59.000Z",
+      "score": 61,
+      "tags": [
+        "AI",
+        "沙盒",
+        "開源專案",
+        "程式碼安全"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "The Verge",
+      "originalTitle": "A college in Illinois tried to cancel its Flock contact and it refused",
+      "translatedTitle": "美國大學憂資料外洩要求移除 Flock 監控攝影機遭拒",
+      "summaryZh": "美國伊利諾州的埃爾金社區大學（Elgin Community College）於2025年4月安裝了Flock Safety監控攝影機以強化校園安全。然而，校方在同年9月卻發現該公司可能將數據分享給海關及邊境保衛局（Customs and Border Patrol），且攝影機影像存在資安漏洞，擔憂執法人員與Flock員工可能濫用數據存取權限。因此，埃爾金社區大學於10月要求Flock移除所有攝影機，但Flock以未違反合約為由，拒絕了校方的要求，引發外界對資料隱私與合約爭議的關注。",
+      "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+      "publishedAt": "2026-10-11T20:06:43.000Z",
+      "score": 61,
+      "tags": [
+        "AI",
+        "監控技術",
+        "資料隱私",
+        "Flock Safety"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "TechCrunch",
+      "originalTitle": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "translatedTitle": "AI產業能否透過解除保密協議，說服資料中心反對者？",
+      "summaryZh": "TechCrunch報導探討AI產業與資料中心反對者的衝突。隨著資料中心禁建令四起，AI產業的擴張面臨阻礙。文中辯論AI產業是否因保密協議造成溝通問題，以及若解除保密協議，能否有效說服反對者，化解僵局。",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "publishedAt": "2026-10-11T16:52:33.000Z",
+      "score": 58,
+      "tags": [
+        "AI",
+        "資料中心"
+      ]
+    }
+  ]
+}
