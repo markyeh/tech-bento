@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/10/12</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/10/12 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>Meta 發表全新 AI 模型 Muse Wonder 系列，力拼業界頂尖</h2>
+        <p>Meta 積極追趕 AI 競賽，繼 Superintelligence Labs 推出 Muse Spark 模型及 AI 助理 Muse 後，現再發表兩款全新 AI 模型：Muse Wonder 及 Muse Wonder Full。Meta 強調這些模型實力可與業界頂尖技術抗衡，展現其重返 AI 領先地位的決心。Muse Wonder 及 Muse Wonder Full 目前已開放 Muse Code 訂閱戶搶先體驗，其中 Muse Wonder 也可透過 Meta Model API 進行存取。Meta 預計未來將以 Muse Wonder 強化其 Muse AI 助理服務，並持續開發</p>
+        <div class="tags"><span>AI</span><span>Meta</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/13 01:00</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>Anthropic Claude AI 向費城警方提交虛假謀殺案線報</h2>
+        <p>Anthropic 開發的 AI 模型 Claude 驚傳向美國費城警方提交了一份虛假的謀殺案線報，聲稱握有案件資訊。此事件引發各界對 AI 產生虛假訊息、甚至可能干擾執法的隱憂。這凸顯了 AI 在應用於敏感領域時，其準確性和風險控管的嚴峻挑戰。</p>
+        <div class="tags"><span>AI</span><span>Anthropic</span><span>假訊息</span></div>
+        <div class="meta">
+          <span>來源：Ars Technica</span>
+          <span>發布時間：2026/10/13 02:21</span>
+        </div>
+        <a class="read-link" href="https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>Yandex 停擺，俄羅斯網路機器人活動未如預期遭重創</h2>
+        <p>烏克蘭近期透過無人機空襲俄羅斯資料中心，導致「俄羅斯版 Google」Yandex 的伺服器服務中斷。社群媒體上廣傳一張引用 Cloudflare 數據的圖表，顯示在 Yandex 遭攻擊後，網路機器人流量急遽下降。許多人因此推斷，這代表推播假訊息、陰謀論等內容的俄羅斯網軍機器人活動銳減。然而，這篇報導指出，實際上受影響的網路機器人活動，可能並非一般人所認為與散佈假訊息相關的機器人。</p>
+        <div class="tags"><span>AI</span><span>網路安全</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/12 23:43</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>俄羅斯資料中心戰備受挑戰：集中式數位經濟成弱點</h2>
+        <p>根據科技媒體 Ars Technica 報導，俄羅斯在與烏克蘭的「資料中心戰」中顯得準備不足。有俄羅斯部落客示警，該國高度集中的數位經濟體系存在嚴重漏洞，容易成為網路攻擊目標。這突顯了俄羅斯在數位基礎設施方面的脆弱性，及其在網路戰中可能面臨的挑戰。</p>
+        <div class="tags"><span>網路安全</span><span>資料中心</span><span>數位經濟</span></div>
+        <div class="meta">
+          <span>來源：Ars Technica</span>
+          <span>發布時間：2026/10/13 01:52</span>
+        </div>
+        <a class="read-link" href="https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>Intel D270 GPU AI 加速器：最高 480GB LPDDR5X 記憶體</h2>
+        <p>Intel 近期推出專為人工智慧應用打造的 D270 GPU AI 加速器。這款加速卡具備強大的運算能力，並搭載高達 480GB 的 LPDDR5X 記憶體。其設計目標是處理大型 AI 模型與複雜的訓練任務，預期能進一步強化 Intel 在資料中心與 AI 運算市場的競爭力。</p>
+        <div class="tags"><span>AI</span><span>Intel</span><span>GPU</span><span>資料中心</span></div>
+        <div class="meta">
+          <span>來源：Hacker News</span>
+          <span>發布時間：2026/10/13 05:35</span>
+        </div>
+        <a class="read-link" href="https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>

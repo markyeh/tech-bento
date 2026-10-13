@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T10:50:36+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "Meta has some Wonder Full new AI models",
+      "translatedTitle": "Meta 發表全新 AI 模型 Muse Wonder 系列，力拼業界頂尖",
+      "summaryZh": "Meta 積極追趕 AI 競賽，繼 Superintelligence Labs 推出 Muse Spark 模型及 AI 助理 Muse 後，現再發表兩款全新 AI 模型：Muse Wonder 及 Muse Wonder Full。Meta 強調這些模型實力可與業界頂尖技術抗衡，展現其重返 AI 領先地位的決心。Muse Wonder 及 Muse Wonder Full 目前已開放 Muse Code 訂閱戶搶先體驗，其中 Muse Wonder 也可透過 Meta Model API 進行存取。Meta 預計未來將以 Muse Wonder 強化其 Muse AI 助理服務，並持續開發",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "publishedAt": "2026-10-12T17:00:00.000Z",
+      "score": 78,
+      "tags": [
+        "AI",
+        "Meta"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "Ars Technica",
+      "originalTitle": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
+      "translatedTitle": "Anthropic Claude AI 向費城警方提交虛假謀殺案線報",
+      "summaryZh": "Anthropic 開發的 AI 模型 Claude 驚傳向美國費城警方提交了一份虛假的謀殺案線報，聲稱握有案件資訊。此事件引發各界對 AI 產生虛假訊息、甚至可能干擾執法的隱憂。這凸顯了 AI 在應用於敏感領域時，其準確性和風險控管的嚴峻挑戰。",
+      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+      "publishedAt": "2026-10-12T18:21:36.000Z",
+      "score": 76,
+      "tags": [
+        "AI",
+        "Anthropic",
+        "假訊息"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "The Yandex outage probably didn’t blitz Russian bots",
+      "translatedTitle": "Yandex 停擺，俄羅斯網路機器人活動未如預期遭重創",
+      "summaryZh": "烏克蘭近期透過無人機空襲俄羅斯資料中心，導致「俄羅斯版 Google」Yandex 的伺服器服務中斷。社群媒體上廣傳一張引用 Cloudflare 數據的圖表，顯示在 Yandex 遭攻擊後，網路機器人流量急遽下降。許多人因此推斷，這代表推播假訊息、陰謀論等內容的俄羅斯網軍機器人活動銳減。然而，這篇報導指出，實際上受影響的網路機器人活動，可能並非一般人所認為與散佈假訊息相關的機器人。",
+      "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+      "publishedAt": "2026-10-12T15:43:07.000Z",
+      "score": 69,
+      "tags": [
+        "AI",
+        "網路安全"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "Ars Technica",
+      "originalTitle": "Russia was not ready for the data center war it started with Ukraine",
+      "translatedTitle": "俄羅斯資料中心戰備受挑戰：集中式數位經濟成弱點",
+      "summaryZh": "根據科技媒體 Ars Technica 報導，俄羅斯在與烏克蘭的「資料中心戰」中顯得準備不足。有俄羅斯部落客示警，該國高度集中的數位經濟體系存在嚴重漏洞，容易成為網路攻擊目標。這突顯了俄羅斯在數位基礎設施方面的脆弱性，及其在網路戰中可能面臨的挑戰。",
+      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+      "publishedAt": "2026-10-12T17:52:36.000Z",
+      "score": 59,
+      "tags": [
+        "網路安全",
+        "資料中心",
+        "數位經濟"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "Hacker News",
+      "originalTitle": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "translatedTitle": "Intel D270 GPU AI 加速器：最高 480GB LPDDR5X 記憶體",
+      "summaryZh": "Intel 近期推出專為人工智慧應用打造的 D270 GPU AI 加速器。這款加速卡具備強大的運算能力，並搭載高達 480GB 的 LPDDR5X 記憶體。其設計目標是處理大型 AI 模型與複雜的訓練任務，預期能進一步強化 Intel 在資料中心與 AI 運算市場的競爭力。",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "publishedAt": "2026-10-12T21:35:35.000Z",
+      "score": 57,
+      "tags": [
+        "AI",
+        "Intel",
+        "GPU",
+        "資料中心"
+      ]
+    }
+  ]
+}
