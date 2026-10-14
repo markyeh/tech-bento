@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T08:51:58+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+      "translatedTitle": "Ray-Ban Meta 音訊眼鏡實測：少了相機仍舊好用",
+      "summaryZh": "Ray-Ban Meta 音訊眼鏡提供使用者整合音樂播放、通話與AI語音助理的便利體驗。使用者分享在運動、日常通勤中，能透過眼鏡輕鬆享受音樂、接聽電話。雖然其AI語音助理在嘗試連結Google行事曆時曾出現小狀況，但整體而言，這款智慧眼鏡仍展現出實用性與多功能性，特別是在無需相機功能的情境下，提供良好的聽覺互動體驗。",
+      "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "publishedAt": "2026-10-13T18:00:00.000Z",
+      "score": 93,
+      "tags": [
+        "智慧眼鏡",
+        "穿戴裝置",
+        "AI",
+        "語音助理",
+        "Meta",
+        "Google"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "TechCrunch",
+      "originalTitle": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "translatedTitle": "FBI 逮捕 OpenAI 員工，疑於會議室內安裝竊聽設備",
+      "summaryZh": "美國聯邦調查局（FBI）日前逮捕一名 OpenAI 員工，指控其涉嫌在公司會議室內安裝隱蔽式錄音裝置。據 FBI 主任 Kash Patel 透露，這項竊聽行動旨在蒐集關於 OpenAI 在超級智慧（super intelligence）技術方面的敏感內部通訊。此事件凸顯了 AI 科技巨頭在商業機密保護方面所面臨的嚴峻挑戰。",
+      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "publishedAt": "2026-10-13T20:59:11.000Z",
+      "score": 74,
+      "tags": [
+        "AI",
+        "OpenAI",
+        "商業機密",
+        "科技資安"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "TechCrunch",
+      "originalTitle": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "translatedTitle": "美法官裁定：OpenAI 須提交 Apple 商業機密案相關招募記錄",
+      "summaryZh": "美國聯邦法官近日裁定，在 Apple 針對一名前員工提起的商業機密訴訟案中，OpenAI 必須交出與該案相關的招募記錄。這些記錄包括 OpenAI 針對前 Apple 員工的訪談資料、私密訊息以及案件關鍵人物的證詞。此舉將讓 Apple 能夠深入了解前員工跳槽至 OpenAI 期間的相關資訊，以利商業機密案件的調查與審理。",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "publishedAt": "2026-10-13T20:36:44.000Z",
+      "score": 74,
+      "tags": [
+        "AI",
+        "Apple"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "The Verge",
+      "originalTitle": "Shopify opens its catalog up to more AI agents",
+      "translatedTitle": "Shopify 擴大 AI 代理人應用：開放商品目錄，賦能自主購物",
+      "summaryZh": "電商巨頭 Shopify 近期宣布擴大其「代理人商務」（agentic commerce）布局，將開放旗下超過十億件商品目錄，賦能更多 AI 代理人。未來消費者將能自行設定任何 AI 代理人，使其能代表用戶瀏覽並自主購買商品。此舉相較於先前僅與 Meta 合作，讓 Muse 代理人能存取商品的模式，顯著擴大了應用範疇，預示著 AI 驅動的自主購物時代即將來臨。",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "publishedAt": "2026-10-13T19:42:42.000Z",
+      "score": 73,
+      "tags": [
+        "AI",
+        "Shopify",
+        "電商"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "TechCrunch",
+      "originalTitle": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+      "translatedTitle": "儘管SpaceX與Google曾說不，Satlyt開放式衛星軟體今與Google並肩升空",
+      "summaryZh": "由前Google與SpaceX產品經理創立的新創公司Satlyt，致力於開發「軌道運算」的開放式軟體平台，目標成為衛星界的Android。此舉與SpaceX的封閉式「iPhone」整合方案大相逕庭。儘管Satlyt的構想曾遭SpaceX和Google拒絕，其軟體最終仍成功搭乘SpaceX火箭升空，與Google的軟體並列。這不僅是一場技術競賽，更象徵著開放與封閉生態系在太空產業的關鍵角力。",
+      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "publishedAt": "2026-10-13T16:30:00.000Z",
+      "score": 68,
+      "tags": [
+        "AI",
+        "太空科技",
+        "衛星軟體"
+      ]
+    }
+  ]
+}

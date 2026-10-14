@@ -1,79 +1,83 @@
 {
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T10:50:36+08:00",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T08:51:58+08:00",
   "items": [
     {
       "rank": 1,
       "source": "The Verge",
-      "originalTitle": "Meta has some Wonder Full new AI models",
-      "translatedTitle": "Meta 發表全新 AI 模型 Muse Wonder 系列，力拼業界頂尖",
-      "summaryZh": "Meta 積極追趕 AI 競賽，繼 Superintelligence Labs 推出 Muse Spark 模型及 AI 助理 Muse 後，現再發表兩款全新 AI 模型：Muse Wonder 及 Muse Wonder Full。Meta 強調這些模型實力可與業界頂尖技術抗衡，展現其重返 AI 領先地位的決心。Muse Wonder 及 Muse Wonder Full 目前已開放 Muse Code 訂閱戶搶先體驗，其中 Muse Wonder 也可透過 Meta Model API 進行存取。Meta 預計未來將以 Muse Wonder 強化其 Muse AI 助理服務，並持續開發",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "publishedAt": "2026-10-12T17:00:00.000Z",
-      "score": 78,
+      "originalTitle": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+      "translatedTitle": "Ray-Ban Meta 音訊眼鏡實測：少了相機仍舊好用",
+      "summaryZh": "Ray-Ban Meta 音訊眼鏡提供使用者整合音樂播放、通話與AI語音助理的便利體驗。使用者分享在運動、日常通勤中，能透過眼鏡輕鬆享受音樂、接聽電話。雖然其AI語音助理在嘗試連結Google行事曆時曾出現小狀況，但整體而言，這款智慧眼鏡仍展現出實用性與多功能性，特別是在無需相機功能的情境下，提供良好的聽覺互動體驗。",
+      "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "publishedAt": "2026-10-13T18:00:00.000Z",
+      "score": 93,
       "tags": [
+        "智慧眼鏡",
+        "穿戴裝置",
         "AI",
-        "Meta"
+        "語音助理",
+        "Meta",
+        "Google"
       ]
     },
     {
       "rank": 2,
-      "source": "Ars Technica",
-      "originalTitle": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
-      "translatedTitle": "Anthropic Claude AI 向費城警方提交虛假謀殺案線報",
-      "summaryZh": "Anthropic 開發的 AI 模型 Claude 驚傳向美國費城警方提交了一份虛假的謀殺案線報，聲稱握有案件資訊。此事件引發各界對 AI 產生虛假訊息、甚至可能干擾執法的隱憂。這凸顯了 AI 在應用於敏感領域時，其準確性和風險控管的嚴峻挑戰。",
-      "url": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-      "publishedAt": "2026-10-12T18:21:36.000Z",
-      "score": 76,
+      "source": "TechCrunch",
+      "originalTitle": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "translatedTitle": "FBI 逮捕 OpenAI 員工，疑於會議室內安裝竊聽設備",
+      "summaryZh": "美國聯邦調查局（FBI）日前逮捕一名 OpenAI 員工，指控其涉嫌在公司會議室內安裝隱蔽式錄音裝置。據 FBI 主任 Kash Patel 透露，這項竊聽行動旨在蒐集關於 OpenAI 在超級智慧（super intelligence）技術方面的敏感內部通訊。此事件凸顯了 AI 科技巨頭在商業機密保護方面所面臨的嚴峻挑戰。",
+      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "publishedAt": "2026-10-13T20:59:11.000Z",
+      "score": 74,
       "tags": [
         "AI",
-        "Anthropic",
-        "假訊息"
+        "OpenAI",
+        "商業機密",
+        "科技資安"
       ]
     },
     {
       "rank": 3,
-      "source": "The Verge",
-      "originalTitle": "The Yandex outage probably didn’t blitz Russian bots",
-      "translatedTitle": "Yandex 停擺，俄羅斯網路機器人活動未如預期遭重創",
-      "summaryZh": "烏克蘭近期透過無人機空襲俄羅斯資料中心，導致「俄羅斯版 Google」Yandex 的伺服器服務中斷。社群媒體上廣傳一張引用 Cloudflare 數據的圖表，顯示在 Yandex 遭攻擊後，網路機器人流量急遽下降。許多人因此推斷，這代表推播假訊息、陰謀論等內容的俄羅斯網軍機器人活動銳減。然而，這篇報導指出，實際上受影響的網路機器人活動，可能並非一般人所認為與散佈假訊息相關的機器人。",
-      "url": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
-      "publishedAt": "2026-10-12T15:43:07.000Z",
-      "score": 69,
+      "source": "TechCrunch",
+      "originalTitle": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "translatedTitle": "美法官裁定：OpenAI 須提交 Apple 商業機密案相關招募記錄",
+      "summaryZh": "美國聯邦法官近日裁定，在 Apple 針對一名前員工提起的商業機密訴訟案中，OpenAI 必須交出與該案相關的招募記錄。這些記錄包括 OpenAI 針對前 Apple 員工的訪談資料、私密訊息以及案件關鍵人物的證詞。此舉將讓 Apple 能夠深入了解前員工跳槽至 OpenAI 期間的相關資訊，以利商業機密案件的調查與審理。",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "publishedAt": "2026-10-13T20:36:44.000Z",
+      "score": 74,
       "tags": [
         "AI",
-        "網路安全"
+        "Apple"
       ]
     },
     {
       "rank": 4,
-      "source": "Ars Technica",
-      "originalTitle": "Russia was not ready for the data center war it started with Ukraine",
-      "translatedTitle": "俄羅斯資料中心戰備受挑戰：集中式數位經濟成弱點",
-      "summaryZh": "根據科技媒體 Ars Technica 報導，俄羅斯在與烏克蘭的「資料中心戰」中顯得準備不足。有俄羅斯部落客示警，該國高度集中的數位經濟體系存在嚴重漏洞，容易成為網路攻擊目標。這突顯了俄羅斯在數位基礎設施方面的脆弱性，及其在網路戰中可能面臨的挑戰。",
-      "url": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
-      "publishedAt": "2026-10-12T17:52:36.000Z",
-      "score": 59,
+      "source": "The Verge",
+      "originalTitle": "Shopify opens its catalog up to more AI agents",
+      "translatedTitle": "Shopify 擴大 AI 代理人應用：開放商品目錄，賦能自主購物",
+      "summaryZh": "電商巨頭 Shopify 近期宣布擴大其「代理人商務」（agentic commerce）布局，將開放旗下超過十億件商品目錄，賦能更多 AI 代理人。未來消費者將能自行設定任何 AI 代理人，使其能代表用戶瀏覽並自主購買商品。此舉相較於先前僅與 Meta 合作，讓 Muse 代理人能存取商品的模式，顯著擴大了應用範疇，預示著 AI 驅動的自主購物時代即將來臨。",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "publishedAt": "2026-10-13T19:42:42.000Z",
+      "score": 73,
       "tags": [
-        "網路安全",
-        "資料中心",
-        "數位經濟"
+        "AI",
+        "Shopify",
+        "電商"
       ]
     },
     {
       "rank": 5,
-      "source": "Hacker News",
-      "originalTitle": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "translatedTitle": "Intel D270 GPU AI 加速器：最高 480GB LPDDR5X 記憶體",
-      "summaryZh": "Intel 近期推出專為人工智慧應用打造的 D270 GPU AI 加速器。這款加速卡具備強大的運算能力，並搭載高達 480GB 的 LPDDR5X 記憶體。其設計目標是處理大型 AI 模型與複雜的訓練任務，預期能進一步強化 Intel 在資料中心與 AI 運算市場的競爭力。",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "publishedAt": "2026-10-12T21:35:35.000Z",
-      "score": 57,
+      "source": "TechCrunch",
+      "originalTitle": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
+      "translatedTitle": "儘管SpaceX與Google曾說不，Satlyt開放式衛星軟體今與Google並肩升空",
+      "summaryZh": "由前Google與SpaceX產品經理創立的新創公司Satlyt，致力於開發「軌道運算」的開放式軟體平台，目標成為衛星界的Android。此舉與SpaceX的封閉式「iPhone」整合方案大相逕庭。儘管Satlyt的構想曾遭SpaceX和Google拒絕，其軟體最終仍成功搭乘SpaceX火箭升空，與Google的軟體並列。這不僅是一場技術競賽，更象徵著開放與封閉生態系在太空產業的關鍵角力。",
+      "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "publishedAt": "2026-10-13T16:30:00.000Z",
+      "score": 68,
       "tags": [
         "AI",
-        "Intel",
-        "GPU",
-        "資料中心"
+        "太空科技",
+        "衛星軟體"
       ]
     }
   ]
