@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T08:18:57+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "The AI race is back on",
+      "translatedTitle": "AI競局風雲再起",
+      "summaryZh": "AI競賽原本看似由OpenAI與Anthropic獨佔鰲頭，Google和Meta則顯得居於劣勢。然而，近期Google與Meta相繼發表了足以媲美OpenAI及Anthropic的最新尖端AI模型，強勢回歸戰局。這使得沉寂一時的AI戰火再度白熱化，各方競爭態勢丕變，AI霸主之爭勝負難料。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "publishedAt": "2026-10-14T19:06:03.000Z",
+      "score": 103,
+      "tags": [
+        "AI",
+        "AI模型"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "The Verge",
+      "originalTitle": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "translatedTitle": "八州提告 OpenAI，指控 ChatGPT 對兒童安全構成危害",
+      "summaryZh": "美國八個州對 OpenAI 提起聯合訴訟，指控其 AI 聊天機器人 ChatGPT 不僅對兒童構成危害，更在安全性方面誤導消費者。這些州包括愛荷華、堪薩斯、內布拉斯加、西維吉尼亞、阿肯色、亞利桑那、愛達荷與蒙大拿。訴訟聲稱，OpenAI 在開發 ChatGPT 時將獲利置於使用者安全之上，違反當地消費者保護法規，且未能充分警告產品潛在危險。同時，訴訟內容亦引述多起青少年與成人家人提出的案例，指出該 AI 聊天機器人對他們的生活造成負面影響。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "publishedAt": "2026-10-14T21:11:28.000Z",
+      "score": 81,
+      "tags": [
+        "AI",
+        "OpenAI",
+        "ChatGPT",
+        "兒童安全",
+        "法律訴訟"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "Ars Technica",
+      "originalTitle": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "translatedTitle": "研究示警：OpenAI、Google 新 AI 模型易遭誘騙生成不雅影像",
+      "summaryZh": "研究人員近日示警，AI 巨頭 OpenAI 與 Google 最新推出的 AI 模型存在嚴重資安漏洞。透過特定「攻擊手法」，這些模型的內建安全防護機制可被輕易繞過，導致 AI 系統生成裸露或不雅影像。此發現不僅凸顯了兩大科技公司在防範 AI 不當內容生成上的不足，也對未來 AI 內容審核機制提出新的挑戰，引發外界對 AI 倫理與內容安全的擔憂。",
+      "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "publishedAt": "2026-10-14T11:00:30.000Z",
+      "score": 69,
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Google",
+        "資安"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "TechCrunch",
+      "originalTitle": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "translatedTitle": "Apate 運用 AI 代理人「主動上鉤」蒐集詐騙情資",
+      "summaryZh": "Apate.ai 採取獨特策略，運用 AI 代理人執行「臥底」任務，主動接觸潛在詐騙情境。有別於多數企業利用 AI 代理人加速產品開發或最佳化工作流程，Apate.ai 的 AI 代理人被設計為「主動上鉤」受騙，目的在於深入理解各式詐騙手法。此舉旨在蒐集寶貴的詐騙情資與情報，為打擊網路詐騙提供數據洞察。這種創新且反向的應用方式，為 AI 代理人的部署開闢了新的可能性。",
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "publishedAt": "2026-10-14T18:00:00.000Z",
+      "score": 68,
+      "tags": [
+        "AI",
+        "Apate"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "The Verge",
+      "originalTitle": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+      "translatedTitle": "微軟攜手日本警方破獲十億詐騙簡訊犯罪網路",
+      "summaryZh": "微軟（Microsoft）與日本國家警察廳（Japan's National Police Agency）聯手，成功瓦解一個全球性的網路犯罪集團。該集團利用「YAM Store」市場平台以及「CoGUI」、「Iron Man」等網路釣魚工具包，發送超過十億封惡意詐騙簡訊，鎖定全球逾 75,000 個組織。這些詐騙訊息常見於冒充停車罰單或包裹遞送通知。這次行動旨在大幅減少這類型的網路釣魚攻擊，維護使用者網路安全。",
+      "url": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+      "publishedAt": "2026-10-14T20:03:43.000Z",
+      "score": 64,
+      "tags": [
+        "網路安全",
+        "Microsoft",
+        "詐騙",
+        "資安"
+      ]
+    }
+  ]
+}
