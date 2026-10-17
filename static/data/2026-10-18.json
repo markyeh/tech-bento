@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T07:44:52+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "Websites are closing their doors to AI agents",
+      "translatedTitle": "網站對AI代理程式關上大門",
+      "summaryZh": "AI代理程式是目前人工智慧領域的熱門發展趨勢，由OpenAI、Meta、Google等公司推出，號稱能代表使用者在網路執行預訂、清理收件匣、購物等多種任務。然而，近期卻有使用者反應，多家頂級網站開始阻擋這些AI代理程式的存取，導致它們無法正常執行任務。例如，Yelp明確表示只允許付費購買資料授權的AI代理程式使用其服務，而達美航空（Delta Air Lines）則直接禁止AI代理程式進行機票預訂。這顯示網路世界對於AI代理程式的崛起，正逐漸採取防範措施，為其廣泛應用帶來挑戰。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "publishedAt": "2026-10-17T13:00:00.000Z",
+      "score": 115,
+      "tags": [
+        "AI",
+        "網站政策"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "TechCrunch",
+      "originalTitle": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "translatedTitle": "Replit 執行長證實：預設 AI 模型改採 OpenAI，取代 Anthropic",
+      "summaryZh": "程式開發平台 Replit 執行長近日證實，該平台已將其預設的 AI 模型供應商從 Anthropic 更換為 OpenAI。儘管 OpenAI 將成為新的預設選項，但 Anthropic 的 Claude 模型仍會繼續提供給用戶選用。此舉顯示 Replit 在整合生成式 AI 技術時的策略調整，OpenAI 的模型將優先提供給其開發者社群使用。",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "publishedAt": "2026-10-17T18:48:08.000Z",
+      "score": 91,
+      "tags": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "TechCrunch",
+      "originalTitle": "Meta removes language that raised scraping and AI training concerns",
+      "translatedTitle": "Meta 刪除引發數據爬取及 AI 訓練疑慮的條款",
+      "summaryZh": "科技巨頭 Meta 近期決定移除其服務條款中，曾引發外界對於數據爬取（scraping）及 AI 訓練策略相關疑慮的字句。儘管此舉看似回應了用戶及隱私權倡議者的擔憂，Meta 發言人隨後澄清，這項條款更新並不代表公司網路爬取方式有所改變。這暗示 Meta 在數據收集上的既定作法仍持續進行，僅是為了平息爭議而調整了對外說法，凸顯了大型科技公司在 AI 發展浪潮中，於資料使用透明度上所面臨的挑戰。",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "publishedAt": "2026-10-17T21:31:32.000Z",
+      "score": 64,
+      "tags": [
+        "AI",
+        "Meta",
+        "資料隱私"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "Hacker News",
+      "originalTitle": "Microsoft and CMU team up to train early career software engineers",
+      "translatedTitle": "微軟與 CMU 攜手合作 培訓初階軟體工程師",
+      "summaryZh": "微軟 (Microsoft) 與卡內基美隆大學 (CMU) 宣布展開深度合作，將聯手培訓新進軟體工程師。這項計畫旨在彌合學術與業界之間的鴻溝，透過結合最前沿的技術知識與實務應用，為剛踏入職場的工程師提供關鍵的技能培訓。雙方期望藉由這項合作，不僅能強化學生的實戰能力，也能為快速發展的科技產業，持續注入具備創新思維與最新技術的專業人才，共同推動軟體開發領域的進步與創新。",
+      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "publishedAt": "2026-10-17T18:45:07.000Z",
+      "score": 59,
+      "tags": [
+        "軟體工程",
+        "人才培訓",
+        "科技合作",
+        "微軟"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "The Verge",
+      "originalTitle": "Meta removes language that may have allowed it to scrape news sites",
+      "translatedTitle": "Meta 撤回可能允許抓取新聞內容的 AI 訓練條款",
+      "summaryZh": "Meta 近期更新其商業條款，移除了一段引發爭議的文字。該條款先前被外界解讀為允許 Meta 抓取包括新聞網站在內的內容，用於開發、訓練及改善其 AI 產品與服務。此舉被視為 Meta 對於各界反彈聲浪的回應，因為許多專家，例如康乃爾大學數位與資訊法教授 James Grimmelmann，都曾指出該條款可能被廣泛應用於內容抓取行為。Meta 的這一調整旨在平息關於內容版權與 AI 訓練資料來源的爭議。",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "publishedAt": "2026-10-17T15:04:36.000Z",
+      "score": 59,
+      "tags": [
+        "AI",
+        "Meta"
+      ]
+    }
+  ]
+}
