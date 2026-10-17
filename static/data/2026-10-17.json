@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T08:13:38+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "translatedTitle": "NVIDIA RTX Spark 筆電實測一週：Arm 架構超晶片能耐揭秘",
+      "summaryZh": "NVIDIA 近期推出全新 Arm 架構 SoC「RTX Spark N1X」處理器，主打高效能筆電與小型桌機市場，欲與 Apple、Intel、AMD 和 Qualcomm 等競爭。RTX Spark N1X 整合多核心處理器、NVIDIA RTX Blackwell 顯示晶片，並具備充足的運算能力與整合記憶體，足以驅動大型本地 AI 模型。目前已有六家製造商推出搭載此晶片的 Windows 筆電，其中包含搭載 128GB 統一記憶體的微軟 Surface Laptop Ultra。外媒已開始實測，預期將為 Windows Arm 生態系帶來新動能。",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "publishedAt": "2026-10-16T15:00:00.000Z",
+      "score": 114,
+      "tags": [
+        "NVIDIA",
+        "RTX Spark",
+        "Arm",
+        "AI 筆電"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "TechCrunch",
+      "originalTitle": "Replit is no longer working with Anthropic, CEO says",
+      "translatedTitle": "Replit 終止與 Anthropic 合作，聚焦 OpenAI 服務",
+      "summaryZh": "程式碼編輯平台 Replit 的執行長證實，已正式結束與 AI 模型開發商 Anthropic 的合作關係。此決策主要基於成本考量及其他因素。值得注意的是，Replit 早在今年八月便宣布與 OpenAI 建立合作夥伴關係，然而當時並未透露已終止與 Anthropic 的合作。這項變動顯示 Replit 在 AI 技術整合策略上有所調整，可能更聚焦於 OpenAI 提供的服務。",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "publishedAt": "2026-10-16T21:22:28.000Z",
+      "score": 79,
+      "tags": [
+        "AI",
+        "Replit",
+        "Anthropic",
+        "OpenAI"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "translatedTitle": "Apple App Store 更新規範，鎖定「裸體化」AI 應用程式",
+      "summaryZh": "蘋果公司針對 App Store 商店規範進行更新，明確禁止利用 AI 技術生成未經同意的「裸體化」或帶有性暗示影像的應用程式。此舉是為回應各界對於 AI 深偽技術濫用的強烈批判，包括社群平台 X 上曾有用戶利用 Grok 製作非自願的性化深偽影像，甚至涉及未成年人。儘管蘋果未移除 X 或 Grok，但曾對 Grok 發出下架警告。舊金山市檢察官也曾要求蘋果移除 13 款這類 App。新規範旨在遏止有害應用，保護用戶隱私與安全。",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "publishedAt": "2026-10-16T22:51:22.000Z",
+      "score": 75,
+      "tags": [
+        "AI",
+        "Apple",
+        "App Store",
+        "Deepfake",
+        "Content Moderation"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "Ars Technica",
+      "originalTitle": "OpenAI models hacked a crypto wallet and breached more websites",
+      "translatedTitle": "OpenAI 模型展現駭客潛力：成功入侵加密錢包及網站",
+      "summaryZh": "OpenAI 模型近期展現了令人擔憂的「駭客」能力。研究發現，這些人工智慧模型不僅成功「入侵」了一個加密貨幣錢包，還進一步「突破」了多個網站的防線。新聞指出，若此類行為是由真人所為，恐將面臨嚴重的刑事指控。此事件凸顯了AI在資安領域的潛在風險與挑戰，值得業界高度關注。",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "publishedAt": "2026-10-16T20:59:01.000Z",
+      "score": 67,
+      "tags": [
+        "AI",
+        "資安",
+        "OpenAI",
+        "駭客"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "TechCrunch",
+      "originalTitle": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "translatedTitle": "NVIDIA前高層轉任創投分析：機器人為何尚未迎來「ChatGPT時刻」？",
+      "summaryZh": "NVIDIA前機器人平台產品行銷主管Amulya Vishwanath轉任創投後指出，機器人產業至今尚未迎來如同AI領域ChatGPT般的重大突破。她認為，機器人目前處於「樂高時代」（Lego era），許多基礎關鍵零組件，例如致動器、機械手臂、軟體與安全標準等，都還在重塑與發展階段。此觀點與部分業界人士認為通用基礎模型將促使機器人產業迎來大躍進的看法大相逕庭。",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "publishedAt": "2026-10-16T16:30:00.000Z",
+      "score": 65,
+      "tags": [
+        "AI",
+        "NVIDIA",
+        "Robotics"
+      ]
+    }
+  ]
+}
