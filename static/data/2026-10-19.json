@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T07:55:30+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "translatedTitle": "薩凡納警官洩漏車牌辨識系統帳密給ICE探員丈夫",
+      "summaryZh": "薩凡納（Savannah）警局前警官 Amber Harpe，因將警局的 Flock 車牌辨識系統帳號密碼洩露給擔任 ICE 探員的丈夫 Tyler Harpe 而遭解雇。此舉嚴重違反了警局安全協議，因警局並未授權與 ICE 分享 Flock 數據。Tyler Harpe 在未經授權情況下，利用此帳號查詢了 97 個車牌，共執行 983 次搜尋，其中絕大多數車牌註冊在西班牙裔駕駛名下。儘管 Harpe 夫婦聲稱並非用於私人用途，但警局調查仍認定其行為違規。",
+      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+      "publishedAt": "2026-10-18T22:20:53.000Z",
+      "score": 74,
+      "tags": [
+        "資安",
+        "執法",
+        "隱私"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "TechCrunch",
+      "originalTitle": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "translatedTitle": "AI新創 Anthropic 承諾提撥 5% 股權成立「公共利益基金」",
+      "summaryZh": "AI 新創公司 Anthropic 近期宣布，將提撥公司 5% 的股權，投入一個旨在促進「公共利益」的基金。此舉顯示 Anthropic 在其快速發展的同時，也積極關注企業社會責任，並可能致力於確保 AI 技術的發展能惠及更廣泛的社會層面，而非僅限於商業利益。此基金的具體運作方式和受益範疇，預計將在未來進一步公布。",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "publishedAt": "2026-10-18T20:37:40.000Z",
+      "score": 65,
+      "tags": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "Ars Technica",
+      "originalTitle": "Anthropic gives outside AI watchdog “employee-like” access",
+      "translatedTitle": "Anthropic 開放外部 AI 監管機構「員工級」權限，強化獨立監督機制",
+      "summaryZh": "AI 新創公司 Anthropic 近日宣布，已授予一個外部 AI 監管機構近似於「員工級」的存取權限。這項措施的關鍵在於，該外部機構能獨立發布其研究與評估結果，無需經過 Anthropic 事先同意。此舉被視為 Anthropic 在人工智慧發展上，展現其對透明度與獨立監督的重大承諾。",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "publishedAt": "2026-10-18T16:25:19.000Z",
+      "score": 63,
+      "tags": [
+        "AI",
+        "監管",
+        "Anthropic"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "The Verge",
+      "originalTitle": "Trump says Google kisses his ass",
+      "translatedTitle": "川普自誇Google對他言聽計從",
+      "summaryZh": "在肯塔基州一場造勢活動上，美國前總統川普（Donald Trump）自豪地聲稱，自己如今擁有難以置信的影響力。他舉例提及，他能決定更名墨西哥灣與安大略湖，並加碼表示：「我打給 Google Maps。要知道，我第一個任期時 Google 根本不理我，但現在他們對我可說是言聽計從。」川普藉此暗示他具備個人力量，能說服 Google 在地圖產品上配合其指示進行名稱變更。",
+      "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+      "publishedAt": "2026-10-18T13:25:01.000Z",
+      "score": 58,
+      "tags": [
+        "Google",
+        "川普",
+        "政治"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "TechCrunch",
+      "originalTitle": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "translatedTitle": "迪士尼同意聘僱 Character.AI 大部分員工",
+      "summaryZh": "迪士尼（Disney）已同意聘僱 AI 新創公司 Character.AI 的大部分員工。消息指出，絕大多數 Character.AI 的員工已接受迪士尼提出的職位。然而，這是一項「領跑者競標」（stalking horse bid），意味著其他公司仍有可能提出更高的報價來爭取 Character.AI 的人才。因此，此項人才招募案未來仍存在變數。",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "publishedAt": "2026-10-18T16:30:00.000Z",
+      "score": 47,
+      "tags": [
+        "AI",
+        "迪士尼"
+      ]
+    }
+  ]
+}

@@ -1,78 +1,78 @@
 {
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T07:44:52+08:00",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T07:55:30+08:00",
   "items": [
     {
       "rank": 1,
       "source": "The Verge",
-      "originalTitle": "Websites are closing their doors to AI agents",
-      "translatedTitle": "網站對AI代理程式關上大門",
-      "summaryZh": "AI代理程式是目前人工智慧領域的熱門發展趨勢，由OpenAI、Meta、Google等公司推出，號稱能代表使用者在網路執行預訂、清理收件匣、購物等多種任務。然而，近期卻有使用者反應，多家頂級網站開始阻擋這些AI代理程式的存取，導致它們無法正常執行任務。例如，Yelp明確表示只允許付費購買資料授權的AI代理程式使用其服務，而達美航空（Delta Air Lines）則直接禁止AI代理程式進行機票預訂。這顯示網路世界對於AI代理程式的崛起，正逐漸採取防範措施，為其廣泛應用帶來挑戰。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "publishedAt": "2026-10-17T13:00:00.000Z",
-      "score": 115,
+      "originalTitle": "A Savannah police officer gave her Flock login to her ICE agent husband",
+      "translatedTitle": "薩凡納警官洩漏車牌辨識系統帳密給ICE探員丈夫",
+      "summaryZh": "薩凡納（Savannah）警局前警官 Amber Harpe，因將警局的 Flock 車牌辨識系統帳號密碼洩露給擔任 ICE 探員的丈夫 Tyler Harpe 而遭解雇。此舉嚴重違反了警局安全協議，因警局並未授權與 ICE 分享 Flock 數據。Tyler Harpe 在未經授權情況下，利用此帳號查詢了 97 個車牌，共執行 983 次搜尋，其中絕大多數車牌註冊在西班牙裔駕駛名下。儘管 Harpe 夫婦聲稱並非用於私人用途，但警局調查仍認定其行為違規。",
+      "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+      "publishedAt": "2026-10-18T22:20:53.000Z",
+      "score": 74,
       "tags": [
-        "AI",
-        "網站政策"
+        "資安",
+        "執法",
+        "隱私"
       ]
     },
     {
       "rank": 2,
       "source": "TechCrunch",
-      "originalTitle": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "translatedTitle": "Replit 執行長證實：預設 AI 模型改採 OpenAI，取代 Anthropic",
-      "summaryZh": "程式開發平台 Replit 執行長近日證實，該平台已將其預設的 AI 模型供應商從 Anthropic 更換為 OpenAI。儘管 OpenAI 將成為新的預設選項，但 Anthropic 的 Claude 模型仍會繼續提供給用戶選用。此舉顯示 Replit 在整合生成式 AI 技術時的策略調整，OpenAI 的模型將優先提供給其開發者社群使用。",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "publishedAt": "2026-10-17T18:48:08.000Z",
-      "score": 91,
+      "originalTitle": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "translatedTitle": "AI新創 Anthropic 承諾提撥 5% 股權成立「公共利益基金」",
+      "summaryZh": "AI 新創公司 Anthropic 近期宣布，將提撥公司 5% 的股權，投入一個旨在促進「公共利益」的基金。此舉顯示 Anthropic 在其快速發展的同時，也積極關注企業社會責任，並可能致力於確保 AI 技術的發展能惠及更廣泛的社會層面，而非僅限於商業利益。此基金的具體運作方式和受益範疇，預計將在未來進一步公布。",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "publishedAt": "2026-10-18T20:37:40.000Z",
+      "score": 65,
       "tags": [
         "AI",
-        "OpenAI"
+        "Anthropic"
       ]
     },
     {
       "rank": 3,
-      "source": "TechCrunch",
-      "originalTitle": "Meta removes language that raised scraping and AI training concerns",
-      "translatedTitle": "Meta 刪除引發數據爬取及 AI 訓練疑慮的條款",
-      "summaryZh": "科技巨頭 Meta 近期決定移除其服務條款中，曾引發外界對於數據爬取（scraping）及 AI 訓練策略相關疑慮的字句。儘管此舉看似回應了用戶及隱私權倡議者的擔憂，Meta 發言人隨後澄清，這項條款更新並不代表公司網路爬取方式有所改變。這暗示 Meta 在數據收集上的既定作法仍持續進行，僅是為了平息爭議而調整了對外說法，凸顯了大型科技公司在 AI 發展浪潮中，於資料使用透明度上所面臨的挑戰。",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "publishedAt": "2026-10-17T21:31:32.000Z",
-      "score": 64,
+      "source": "Ars Technica",
+      "originalTitle": "Anthropic gives outside AI watchdog “employee-like” access",
+      "translatedTitle": "Anthropic 開放外部 AI 監管機構「員工級」權限，強化獨立監督機制",
+      "summaryZh": "AI 新創公司 Anthropic 近日宣布，已授予一個外部 AI 監管機構近似於「員工級」的存取權限。這項措施的關鍵在於，該外部機構能獨立發布其研究與評估結果，無需經過 Anthropic 事先同意。此舉被視為 Anthropic 在人工智慧發展上，展現其對透明度與獨立監督的重大承諾。",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "publishedAt": "2026-10-18T16:25:19.000Z",
+      "score": 63,
       "tags": [
         "AI",
-        "Meta",
-        "資料隱私"
+        "監管",
+        "Anthropic"
       ]
     },
     {
       "rank": 4,
-      "source": "Hacker News",
-      "originalTitle": "Microsoft and CMU team up to train early career software engineers",
-      "translatedTitle": "微軟與 CMU 攜手合作 培訓初階軟體工程師",
-      "summaryZh": "微軟 (Microsoft) 與卡內基美隆大學 (CMU) 宣布展開深度合作，將聯手培訓新進軟體工程師。這項計畫旨在彌合學術與業界之間的鴻溝，透過結合最前沿的技術知識與實務應用，為剛踏入職場的工程師提供關鍵的技能培訓。雙方期望藉由這項合作，不僅能強化學生的實戰能力，也能為快速發展的科技產業，持續注入具備創新思維與最新技術的專業人才，共同推動軟體開發領域的進步與創新。",
-      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-      "publishedAt": "2026-10-17T18:45:07.000Z",
-      "score": 59,
+      "source": "The Verge",
+      "originalTitle": "Trump says Google kisses his ass",
+      "translatedTitle": "川普自誇Google對他言聽計從",
+      "summaryZh": "在肯塔基州一場造勢活動上，美國前總統川普（Donald Trump）自豪地聲稱，自己如今擁有難以置信的影響力。他舉例提及，他能決定更名墨西哥灣與安大略湖，並加碼表示：「我打給 Google Maps。要知道，我第一個任期時 Google 根本不理我，但現在他們對我可說是言聽計從。」川普藉此暗示他具備個人力量，能說服 Google 在地圖產品上配合其指示進行名稱變更。",
+      "url": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+      "publishedAt": "2026-10-18T13:25:01.000Z",
+      "score": 58,
       "tags": [
-        "軟體工程",
-        "人才培訓",
-        "科技合作",
-        "微軟"
+        "Google",
+        "川普",
+        "政治"
       ]
     },
     {
       "rank": 5,
-      "source": "The Verge",
-      "originalTitle": "Meta removes language that may have allowed it to scrape news sites",
-      "translatedTitle": "Meta 撤回可能允許抓取新聞內容的 AI 訓練條款",
-      "summaryZh": "Meta 近期更新其商業條款，移除了一段引發爭議的文字。該條款先前被外界解讀為允許 Meta 抓取包括新聞網站在內的內容，用於開發、訓練及改善其 AI 產品與服務。此舉被視為 Meta 對於各界反彈聲浪的回應，因為許多專家，例如康乃爾大學數位與資訊法教授 James Grimmelmann，都曾指出該條款可能被廣泛應用於內容抓取行為。Meta 的這一調整旨在平息關於內容版權與 AI 訓練資料來源的爭議。",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "publishedAt": "2026-10-17T15:04:36.000Z",
-      "score": 59,
+      "source": "TechCrunch",
+      "originalTitle": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "translatedTitle": "迪士尼同意聘僱 Character.AI 大部分員工",
+      "summaryZh": "迪士尼（Disney）已同意聘僱 AI 新創公司 Character.AI 的大部分員工。消息指出，絕大多數 Character.AI 的員工已接受迪士尼提出的職位。然而，這是一項「領跑者競標」（stalking horse bid），意味著其他公司仍有可能提出更高的報價來爭取 Character.AI 的人才。因此，此項人才招募案未來仍存在變數。",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "publishedAt": "2026-10-18T16:30:00.000Z",
+      "score": 47,
       "tags": [
         "AI",
-        "Meta"
+        "迪士尼"
       ]
     }
   ]
