@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/10/19</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/10/19 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>微軟示警：AI 代理程式猶如內部威脅，「前沿模型不可輕信」</h2>
+        <p>微軟（Microsoft）向企業示警，員工若使用非經由 OpenAI 或 Anthropic 等主流 AI 實驗室所控管的 AI 代理程式（AI agents），恐將構成內部威脅。微軟指出，由於這些「前沿模型」（frontier models）仍無法完全被信任，企業應密切監控員工對這類 AI 工具的使用，以避免潛在的資安風險。</p>
+        <div class="tags"><span>AI</span><span>Microsoft</span><span>企業資安</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/10/20 06:04</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>Amazon 推出 TorchNeuron 開發工具，挑戰 NVIDIA 在 AI 晶片市場的霸主地位</h2>
+        <p>為打破 NVIDIA 在 PyTorch AI 開發工具生態系中的主導地位，Amazon 推出全新的 TorchNeuron 開發工具。此舉旨在鼓勵開發者將 AI 應用程式轉移至 Amazon 自家研發的替代晶片上運行，以降低對 NVIDIA GPU 的依賴。這可視為 Amazon 對 NVIDIA 發起的一大挑戰，目標是擴大其雲端服務在 AI 基礎設施領域的影響力，並搶奪 AI 晶片市場佔有率。</p>
+        <div class="tags"><span>AI</span><span>NVIDIA</span><span>Amazon</span><span>PyTorch</span><span>晶片</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/10/20 04:09</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>NVIDIA 推出全新開源模型，強化企業與 PC 端 AI 助理應用</h2>
+        <p>NVIDIA 順應企業客戶希望在其資料中心運行自有開源模型的趨勢，並積極推動個人電腦上的私有化 AI 代理程式應用。為此，NVIDIA 正式發表一系列全新的開源模型，旨在賦能企業客戶於自有環境中部署 AI 代理程式，同時加速 AI 功能在 PC 裝置上的在地化應用。此舉旨在滿足市場對於自主管理與高度隱私 AI 服務日益增長的需求，提供更安全且客製化的 AI 解決方案。</p>
+        <div class="tags"><span>AI</span><span>NVIDIA</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/10/19 23:37</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>亞馬遜投資印第安納州新核能電廠，鎖定資料中心供電</h2>
+        <p>亞馬遜（Amazon）近日宣布與X-energy及American Electric Power（AEP）簽署協議，將在美國印第安納州出資興建一座新的核能發電廠。這座電廠預計取代當地已退役的燃煤電廠，目標是為區域電網及亞馬遜的資料中心提供高達960百萬瓦的「零碳排」電力。該計畫將部署12座Xe-100小型模組化反應爐（SMR），儘管這項先進技術尚未經實證，但有望創造約1,000個營建職位及100個長期工作機會。目前尚未公布具體的施工或營運時程，此舉展現亞馬遜對綠色能源與資料中心供電的長期策略布局。</p>
+        <div class="tags"><span>Amazon</span><span>核能</span><span>綠色能源</span><span>資料中心</span><span>SMR</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/19 23:44</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>AI 程式碼工具 OpenCode 遭駭，用戶帳戶慘遭盜刷</h2>
+        <p>廣受歡迎的開源 AI 程式碼助理工具 OpenCode（常被視為 Claude Code 與 Cursor 的替代方案）近期驚傳其線上平台部分遭駭客入侵。此事件導致部分使用者的 API 金鑰被竊取，駭客隨即利用這些金鑰，在受影響用戶的 AI 服務帳戶上進行非法操作，進而產生了大量非預期的費用。值得注意的是，OpenCode 團隊在處理此資安事件時，曾嘗試向 AI 工具尋求協助以分析惡意程式碼，但這些 AI 工具卻拒絕檢視相關內容，也凸顯了開源 AI 工具在資安防護上的新挑戰。</p>
+        <div class="tags"><span>AI</span><span>資安</span><span>駭客攻擊</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/10/20 03:28</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
