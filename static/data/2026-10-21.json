@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T08:23:20+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "Google’s more personalized Gemini AI is heading to your car",
+      "translatedTitle": "Google Gemini AI 個人化功能進駐車載系統",
+      "summaryZh": "Google 近期宣布，將把更具個人化的 Gemini AI 功能整合至車載系統，適用於 Android Auto 以及內建 Google 服務的車款。這項更新讓 Gemini 能夠存取使用者在 Gmail、Calendar、Maps、Photos、YouTube 與 Search 等 Google 應用程式中的多項資訊，進而提供更智慧、情境感知的語音助理服務。例如，駕駛可直接詢問航班狀態，Gemini 便能自動從 Gmail 郵件中提取細節並查詢；或透過 Calendar 資訊導航至醫師預約地點，顯著提升行車時的便利性與個人化體驗。",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "publishedAt": "2026-10-20T22:11:34.000Z",
+      "score": 88,
+      "tags": [
+        "AI",
+        "Google",
+        "Gemini",
+        "Android Auto"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "TechCrunch",
+      "originalTitle": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "translatedTitle": "Google 效仿 Amazon，推出工具搶攻 AI 開發者，動搖 NVIDIA 主導地位",
+      "summaryZh": "Google 繼 Amazon 之後，也推出了一款開發者工具，旨在幫助 PyTorch 框架的用戶，更容易將其 AI 應用程式從 NVIDIA 的 GPU 環境中轉移。此舉被視為兩大科技巨頭聯手，共同挑戰 NVIDIA 在 AI 應用開發者市場的長期主導地位，提供開發者更多元、不受特定平台限制的選擇。",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "publishedAt": "2026-10-20T18:38:24.000Z",
+      "score": 87,
+      "tags": [
+        "AI",
+        "NVIDIA"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "TechCrunch",
+      "originalTitle": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+      "translatedTitle": "前 NVIDIA 創投 Amulya Vishwanath：「實體 AI 正處於樂高時代」",
+      "summaryZh": "前 NVIDIA 員工、現任創投 Amulya Vishwanath 向 TechCrunch 表示，目前「實體 AI」（Physical AI）正處於其「樂高時代」（LEGO era）。她解釋，各界正引頸期盼機器人領域能迎來如同 OpenAI ChatGPT 般的關鍵突破時刻。Vishwanath 認為，儘管實體 AI 的基礎建設仍有許多進步空間，但也因此蘊含巨大的創新與投資潛力，猶如樂高積木般充滿無限的可能性。",
+      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "publishedAt": "2026-10-20T16:20:06.000Z",
+      "score": 85,
+      "tags": [
+        "AI",
+        "Robotics",
+        "NVIDIA"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "TechCrunch",
+      "originalTitle": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "translatedTitle": "Google 將個人化 Gemini AI 助理導入車用系統",
+      "summaryZh": "Google 正將旗下 AI 助理 Gemini 的「個人智慧 (Personal Intelligence)」功能整合至車載系統。這項創新將允許 Gemini 存取使用者在 Gmail、Google 日曆 (Calendar)、Google 地圖 (Maps) 及 YouTube 等 Google 服務中的個人資訊，以在駕駛過程中提供更具情境相關且高度個人化的回應與建議。此舉旨在提升行車體驗的智慧化與便利性，讓駕駛者能享受量身打造的 AI 協助。",
+      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "publishedAt": "2026-10-20T20:00:00.000Z",
+      "score": 84,
+      "tags": [
+        "AI",
+        "Google",
+        "Gemini",
+        "車用"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "MIT Technology Review",
+      "originalTitle": "Robotic therapy for stroke patients",
+      "translatedTitle": "AI輔助機器人療法：解決中風復健困境",
+      "summaryZh": "每年全球約有五百萬人因中風面臨長期失能，加上物理治療師人力短缺，導致許多患者難以獲得足夠的專業復健照護。為應對此挑戰，麻省理工學院（MIT）前研究員 Johannes Lachner 提出結合人工智慧（AI）與人類治療的創新模式。此方法旨在利用AI機器人輔助，不僅能大幅提升中風病患的復健效率，更可望擴大復健服務的普及性與近用性，彌補專業人力不足的缺口，協助病患爭取更好的復原成果。",
+      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "publishedAt": "2026-10-20T21:00:00.000Z",
+      "score": 82,
+      "tags": [
+        "AI",
+        "機器人",
+        "醫療科技",
+        "復健"
+      ]
+    }
+  ]
+}

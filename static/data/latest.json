@@ -1,83 +1,82 @@
 {
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-20T08:54:38+08:00",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T08:23:20+08:00",
   "items": [
     {
       "rank": 1,
-      "source": "TechCrunch",
-      "originalTitle": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "translatedTitle": "微軟示警：AI 代理程式猶如內部威脅，「前沿模型不可輕信」",
-      "summaryZh": "微軟（Microsoft）向企業示警，員工若使用非經由 OpenAI 或 Anthropic 等主流 AI 實驗室所控管的 AI 代理程式（AI agents），恐將構成內部威脅。微軟指出，由於這些「前沿模型」（frontier models）仍無法完全被信任，企業應密切監控員工對這類 AI 工具的使用，以避免潛在的資安風險。",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "publishedAt": "2026-10-19T22:04:28.000Z",
-      "score": 101,
+      "source": "The Verge",
+      "originalTitle": "Google’s more personalized Gemini AI is heading to your car",
+      "translatedTitle": "Google Gemini AI 個人化功能進駐車載系統",
+      "summaryZh": "Google 近期宣布，將把更具個人化的 Gemini AI 功能整合至車載系統，適用於 Android Auto 以及內建 Google 服務的車款。這項更新讓 Gemini 能夠存取使用者在 Gmail、Calendar、Maps、Photos、YouTube 與 Search 等 Google 應用程式中的多項資訊，進而提供更智慧、情境感知的語音助理服務。例如，駕駛可直接詢問航班狀態，Gemini 便能自動從 Gmail 郵件中提取細節並查詢；或透過 Calendar 資訊導航至醫師預約地點，顯著提升行車時的便利性與個人化體驗。",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "publishedAt": "2026-10-20T22:11:34.000Z",
+      "score": 88,
       "tags": [
         "AI",
-        "Microsoft",
-        "企業資安"
+        "Google",
+        "Gemini",
+        "Android Auto"
       ]
     },
     {
       "rank": 2,
       "source": "TechCrunch",
-      "originalTitle": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "translatedTitle": "Amazon 推出 TorchNeuron 開發工具，挑戰 NVIDIA 在 AI 晶片市場的霸主地位",
-      "summaryZh": "為打破 NVIDIA 在 PyTorch AI 開發工具生態系中的主導地位，Amazon 推出全新的 TorchNeuron 開發工具。此舉旨在鼓勵開發者將 AI 應用程式轉移至 Amazon 自家研發的替代晶片上運行，以降低對 NVIDIA GPU 的依賴。這可視為 Amazon 對 NVIDIA 發起的一大挑戰，目標是擴大其雲端服務在 AI 基礎設施領域的影響力，並搶奪 AI 晶片市場佔有率。",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "publishedAt": "2026-10-19T20:09:24.000Z",
-      "score": 86,
-      "tags": [
-        "AI",
-        "NVIDIA",
-        "Amazon",
-        "PyTorch",
-        "晶片"
-      ]
-    },
-    {
-      "rank": 3,
-      "source": "TechCrunch",
-      "originalTitle": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "translatedTitle": "NVIDIA 推出全新開源模型，強化企業與 PC 端 AI 助理應用",
-      "summaryZh": "NVIDIA 順應企業客戶希望在其資料中心運行自有開源模型的趨勢，並積極推動個人電腦上的私有化 AI 代理程式應用。為此，NVIDIA 正式發表一系列全新的開源模型，旨在賦能企業客戶於自有環境中部署 AI 代理程式，同時加速 AI 功能在 PC 裝置上的在地化應用。此舉旨在滿足市場對於自主管理與高度隱私 AI 服務日益增長的需求，提供更安全且客製化的 AI 解決方案。",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "publishedAt": "2026-10-19T15:37:09.000Z",
-      "score": 82,
+      "originalTitle": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "translatedTitle": "Google 效仿 Amazon，推出工具搶攻 AI 開發者，動搖 NVIDIA 主導地位",
+      "summaryZh": "Google 繼 Amazon 之後，也推出了一款開發者工具，旨在幫助 PyTorch 框架的用戶，更容易將其 AI 應用程式從 NVIDIA 的 GPU 環境中轉移。此舉被視為兩大科技巨頭聯手，共同挑戰 NVIDIA 在 AI 應用開發者市場的長期主導地位，提供開發者更多元、不受特定平台限制的選擇。",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "publishedAt": "2026-10-20T18:38:24.000Z",
+      "score": 87,
       "tags": [
         "AI",
         "NVIDIA"
       ]
     },
     {
-      "rank": 4,
-      "source": "The Verge",
-      "originalTitle": "Amazon is funding a new nuclear plant in Indiana",
-      "translatedTitle": "亞馬遜投資印第安納州新核能電廠，鎖定資料中心供電",
-      "summaryZh": "亞馬遜（Amazon）近日宣布與X-energy及American Electric Power（AEP）簽署協議，將在美國印第安納州出資興建一座新的核能發電廠。這座電廠預計取代當地已退役的燃煤電廠，目標是為區域電網及亞馬遜的資料中心提供高達960百萬瓦的「零碳排」電力。該計畫將部署12座Xe-100小型模組化反應爐（SMR），儘管這項先進技術尚未經實證，但有望創造約1,000個營建職位及100個長期工作機會。目前尚未公布具體的施工或營運時程，此舉展現亞馬遜對綠色能源與資料中心供電的長期策略布局。",
-      "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
-      "publishedAt": "2026-10-19T15:44:20.000Z",
-      "score": 81,
+      "rank": 3,
+      "source": "TechCrunch",
+      "originalTitle": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+      "translatedTitle": "前 NVIDIA 創投 Amulya Vishwanath：「實體 AI 正處於樂高時代」",
+      "summaryZh": "前 NVIDIA 員工、現任創投 Amulya Vishwanath 向 TechCrunch 表示，目前「實體 AI」（Physical AI）正處於其「樂高時代」（LEGO era）。她解釋，各界正引頸期盼機器人領域能迎來如同 OpenAI ChatGPT 般的關鍵突破時刻。Vishwanath 認為，儘管實體 AI 的基礎建設仍有許多進步空間，但也因此蘊含巨大的創新與投資潛力，猶如樂高積木般充滿無限的可能性。",
+      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "publishedAt": "2026-10-20T16:20:06.000Z",
+      "score": 85,
       "tags": [
-        "Amazon",
-        "核能",
-        "綠色能源",
-        "資料中心",
-        "SMR"
+        "AI",
+        "Robotics",
+        "NVIDIA"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "TechCrunch",
+      "originalTitle": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "translatedTitle": "Google 將個人化 Gemini AI 助理導入車用系統",
+      "summaryZh": "Google 正將旗下 AI 助理 Gemini 的「個人智慧 (Personal Intelligence)」功能整合至車載系統。這項創新將允許 Gemini 存取使用者在 Gmail、Google 日曆 (Calendar)、Google 地圖 (Maps) 及 YouTube 等 Google 服務中的個人資訊，以在駕駛過程中提供更具情境相關且高度個人化的回應與建議。此舉旨在提升行車體驗的智慧化與便利性，讓駕駛者能享受量身打造的 AI 協助。",
+      "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+      "publishedAt": "2026-10-20T20:00:00.000Z",
+      "score": 84,
+      "tags": [
+        "AI",
+        "Google",
+        "Gemini",
+        "車用"
       ]
     },
     {
       "rank": 5,
-      "source": "TechCrunch",
-      "originalTitle": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "translatedTitle": "AI 程式碼工具 OpenCode 遭駭，用戶帳戶慘遭盜刷",
-      "summaryZh": "廣受歡迎的開源 AI 程式碼助理工具 OpenCode（常被視為 Claude Code 與 Cursor 的替代方案）近期驚傳其線上平台部分遭駭客入侵。此事件導致部分使用者的 API 金鑰被竊取，駭客隨即利用這些金鑰，在受影響用戶的 AI 服務帳戶上進行非法操作，進而產生了大量非預期的費用。值得注意的是，OpenCode 團隊在處理此資安事件時，曾嘗試向 AI 工具尋求協助以分析惡意程式碼，但這些 AI 工具卻拒絕檢視相關內容，也凸顯了開源 AI 工具在資安防護上的新挑戰。",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "publishedAt": "2026-10-19T19:28:34.000Z",
-      "score": 73,
+      "source": "MIT Technology Review",
+      "originalTitle": "Robotic therapy for stroke patients",
+      "translatedTitle": "AI輔助機器人療法：解決中風復健困境",
+      "summaryZh": "每年全球約有五百萬人因中風面臨長期失能，加上物理治療師人力短缺，導致許多患者難以獲得足夠的專業復健照護。為應對此挑戰，麻省理工學院（MIT）前研究員 Johannes Lachner 提出結合人工智慧（AI）與人類治療的創新模式。此方法旨在利用AI機器人輔助，不僅能大幅提升中風病患的復健效率，更可望擴大復健服務的普及性與近用性，彌補專業人力不足的缺口，協助病患爭取更好的復原成果。",
+      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "publishedAt": "2026-10-20T21:00:00.000Z",
+      "score": 82,
       "tags": [
         "AI",
-        "資安",
-        "駭客攻擊"
+        "機器人",
+        "醫療科技",
+        "復健"
       ]
     }
   ]
