@@ -1,0 +1,79 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T08:26:26+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "Ars Technica",
+      "originalTitle": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "translatedTitle": "OpenAI 最新 AI 模型即將導入 Google Cloud",
+      "summaryZh": "OpenAI 宣布其最新一代 AI 模型，包括 GPT 6.1 Astra、Sol 與 Luna，將於未來數週內陸續整合至 Google Cloud 平台。這項合作將使 Google Cloud 的企業客戶能直接透過其服務，存取並運用 OpenAI 最先進的 AI 技術，預期將能顯著強化企業的應用開發、資料分析與生成式 AI 應用落地能力，加速各產業的數位轉型進程。",
+      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "publishedAt": "2026-10-21T18:51:42.000Z",
+      "score": 90,
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Google Cloud"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "Ars Technica",
+      "originalTitle": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+      "translatedTitle": "法院駁回川普政府說法：EPA 無權單方面撤銷資料中心污染訴訟",
+      "summaryZh": "美國法院近期做出裁定，駁回前總統川普政府聲稱美國環保署 (EPA) 有權單方面撤銷資料中心相關污染訴訟的主張。此判決明確指出，EPA 並無權力自行終止針對例如 AI 新創 SpaceXAI 等企業的污染指控。這項裁定對未來資料中心的環境責任及監管機制具有重要影響，同時也凸顯了在科技產業快速發展下，環境保護與法規遵循之間持續受到關注的議題。",
+      "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+      "publishedAt": "2026-10-21T18:20:40.000Z",
+      "score": 84,
+      "tags": [
+        "AI",
+        "資料中心",
+        "政策法規"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "TechCrunch",
+      "originalTitle": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "translatedTitle": "OpenAI、Google 揭 PHP 陳年漏洞恐慌，AI 資安雙面刃引關注",
+      "summaryZh": "科技媒體 TechCrunch 報導指出，OpenAI 與 Google 旗下資安公司 Wiz 聯手，發現 PHP 程式語言中存在已久的「古老」安全漏洞，引發網路社群高度關注與恐慌。此事件凸顯人工智慧（AI）在資安領域的雙面特性：AI 一方面能有效協助發掘並防堵潛在威脅，另一方面，這些被揭露的陳年漏洞，也可能因 AI 的惡意利用而加劇風險。這場 PHP 漏洞危機提醒業界，隨著 AI 技術的發展，網路資安挑戰將更為複雜。",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "publishedAt": "2026-10-21T17:59:12.000Z",
+      "score": 84,
+      "tags": [
+        "AI",
+        "資安",
+        "PHP"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "TechCrunch",
+      "originalTitle": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "translatedTitle": "Amazon 拒絕 AI 代理購物，Walmart 則積極擁抱",
+      "summaryZh": "在AI代理（AI agents）的應用趨勢上，零售巨頭 Amazon 選擇阻擋其平台上的 AI 代理進行自動購物，態度保守。然而，另一大零售商 Walmart 卻採取開放策略，推出新技術，允許客戶授權 AI 代理代為完成線上購物。這項服務特別強調提供消費者全面的消費金額控制與交易審核機制，旨在確保智能購物過程的便利性與安全性兼顧。",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "publishedAt": "2026-10-21T19:30:00.000Z",
+      "score": 71,
+      "tags": [
+        "AI",
+        "零售"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "The Verge",
+      "originalTitle": "Data centers could erase decades of air quality gains",
+      "translatedTitle": "AI資料中心激增恐讓空氣品質倒退數十年",
+      "summaryZh": "隨著生成式AI應用迅速發展，其基礎建設——資料中心的需求也爆炸性增長。美國德州成為這波資料中心興建潮的熱點，但龐大的用電量正對當地空氣品質構成嚴峻挑戰。《The Verge》報導指出，若這些資料中心主要仰賴燃氣渦輪機而非再生能源供電，空污程度恐將惡化至2000年代的水平，抹殺過去數十年的環境改善成果。目前科技業者為確保電力供應，甚至考慮自建發電設施，但這也加劇了空污疑慮。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "publishedAt": "2026-10-21T22:33:44.000Z",
+      "score": 66,
+      "tags": [
+        "AI",
+        "NVIDIA"
+      ]
+    }
+  ]
+}
