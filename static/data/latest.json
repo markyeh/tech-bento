@@ -1,78 +1,80 @@
 {
-  "date": "2026-10-22",
-  "generatedAt": "2026-10-22T08:26:26+08:00",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T08:24:10+08:00",
   "items": [
     {
       "rank": 1,
-      "source": "Ars Technica",
-      "originalTitle": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "translatedTitle": "OpenAI 最新 AI 模型即將導入 Google Cloud",
-      "summaryZh": "OpenAI 宣布其最新一代 AI 模型，包括 GPT 6.1 Astra、Sol 與 Luna，將於未來數週內陸續整合至 Google Cloud 平台。這項合作將使 Google Cloud 的企業客戶能直接透過其服務，存取並運用 OpenAI 最先進的 AI 技術，預期將能顯著強化企業的應用開發、資料分析與生成式 AI 應用落地能力，加速各產業的數位轉型進程。",
-      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "publishedAt": "2026-10-21T18:51:42.000Z",
-      "score": 90,
+      "source": "The Verge",
+      "originalTitle": "Canva’s first AI image model plans designs before generating them",
+      "translatedTitle": "Canva首款AI圖像模型：先規劃設計，再生成圖片",
+      "summaryZh": "Canva 正式發表首款自家 AI 圖像生成模型「Canva Craft」，宣告將直接挑戰 OpenAI、Microsoft 和 Google 等科技巨頭在 AI 生成領域的地位。Canva Craft 採用獨特的兩階段架構，能夠在實際生成圖片前，先行規劃整體設計，藉此大幅提升圖像輸出的精準度、一致性與可控性。此模型最高可生成 2K 解析度圖像，並支援逾 30 種長寬比，應用範圍涵蓋社群媒體貼文、行銷素材、數位藝術創作乃至於擬真場景等。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "publishedAt": "2026-10-22T21:51:25.000Z",
+      "score": 91,
       "tags": [
         "AI",
-        "OpenAI",
-        "Google Cloud"
+        "圖像生成"
       ]
     },
     {
       "rank": 2,
-      "source": "Ars Technica",
-      "originalTitle": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
-      "translatedTitle": "法院駁回川普政府說法：EPA 無權單方面撤銷資料中心污染訴訟",
-      "summaryZh": "美國法院近期做出裁定，駁回前總統川普政府聲稱美國環保署 (EPA) 有權單方面撤銷資料中心相關污染訴訟的主張。此判決明確指出，EPA 並無權力自行終止針對例如 AI 新創 SpaceXAI 等企業的污染指控。這項裁定對未來資料中心的環境責任及監管機制具有重要影響，同時也凸顯了在科技產業快速發展下，環境保護與法規遵循之間持續受到關注的議題。",
-      "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
-      "publishedAt": "2026-10-21T18:20:40.000Z",
-      "score": 84,
+      "source": "The Verge",
+      "originalTitle": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+      "translatedTitle": "記憶體價格飆漲拖累 2026年第三季全球PC出貨量驟降逾兩成",
+      "summaryZh": "Counterpoint Research 最新報告指出，受關鍵零組件價格上漲影響，2026年第三季全球個人電腦 (PC) 出貨量年減高達21%，終止過去兩年多的成長趨勢。DRAM、SSD，以及 Intel、AMD、Qualcomm 等晶片成本激增，導致筆電等終端產品售價攀升，衝擊消費者購買意願。同季度，智慧型手機出貨量也創下14年新低，顯示整體消費性電子市場正經歷嚴峻挑戰。",
+      "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+      "publishedAt": "2026-10-22T21:30:39.000Z",
+      "score": 83,
       "tags": [
-        "AI",
-        "資料中心",
-        "政策法規"
+        "PC",
+        "記憶體",
+        "市場分析"
       ]
     },
     {
       "rank": 3,
-      "source": "TechCrunch",
-      "originalTitle": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-      "translatedTitle": "OpenAI、Google 揭 PHP 陳年漏洞恐慌，AI 資安雙面刃引關注",
-      "summaryZh": "科技媒體 TechCrunch 報導指出，OpenAI 與 Google 旗下資安公司 Wiz 聯手，發現 PHP 程式語言中存在已久的「古老」安全漏洞，引發網路社群高度關注與恐慌。此事件凸顯人工智慧（AI）在資安領域的雙面特性：AI 一方面能有效協助發掘並防堵潛在威脅，另一方面，這些被揭露的陳年漏洞，也可能因 AI 的惡意利用而加劇風險。這場 PHP 漏洞危機提醒業界，隨著 AI 技術的發展，網路資安挑戰將更為複雜。",
-      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "publishedAt": "2026-10-21T17:59:12.000Z",
-      "score": 84,
+      "source": "The Verge",
+      "originalTitle": "Meta turns Muse sharing back on",
+      "translatedTitle": "Meta重啟Muse分享功能",
+      "summaryZh": "Meta已重新啟用其Muse分享功能，此前該功能因資安疑慮而暫停。資安研究團隊Claroc發現，Muse分享的對話連結會依標題命名並寫入公開DNS，導致敏感資訊，如企業內部營收審查或小型企業主的貸款申請，可能被輕易搜尋到。Meta在媒體《Ars Technica》詢問後緊急暫停該功能，Meta高層David Singleton也於X平台對此事件發表回應。目前Meta已於今日重新啟用此功能。",
+      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "publishedAt": "2026-10-22T20:24:04.000Z",
+      "score": 74,
       "tags": [
-        "AI",
-        "資安",
-        "PHP"
+        "Meta",
+        "資安"
       ]
     },
     {
       "rank": 4,
-      "source": "TechCrunch",
-      "originalTitle": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "translatedTitle": "Amazon 拒絕 AI 代理購物，Walmart 則積極擁抱",
-      "summaryZh": "在AI代理（AI agents）的應用趨勢上，零售巨頭 Amazon 選擇阻擋其平台上的 AI 代理進行自動購物，態度保守。然而，另一大零售商 Walmart 卻採取開放策略，推出新技術，允許客戶授權 AI 代理代為完成線上購物。這項服務特別強調提供消費者全面的消費金額控制與交易審核機制，旨在確保智能購物過程的便利性與安全性兼顧。",
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "publishedAt": "2026-10-21T19:30:00.000Z",
-      "score": 71,
+      "source": "The Verge",
+      "originalTitle": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+      "translatedTitle": "美國 FCC 首度禁用含「外國監控晶片」裝置",
+      "summaryZh": "美國聯邦通訊委員會（FCC）繼10月13日取得新權限後，近期首度針對內含「外國監控晶片」的裝置祭出禁令。此舉基於國家安全考量，但FCC並未公開具體受影響的產品清單。不過，該機構明確指出，其中一款涉及的「監控晶片」為海思（HiVision）的Hi3516CV610 UHD Smart Vision SoC。這款SoC晶片主要用於家庭安全攝影機、行車記錄器等影像處理裝置。",
+      "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+      "publishedAt": "2026-10-22T20:23:48.000Z",
+      "score": 72,
       "tags": [
-        "AI",
-        "零售"
+        "晶片",
+        "監控",
+        "FCC",
+        "國家安全",
+        "美國政策"
       ]
     },
     {
       "rank": 5,
-      "source": "The Verge",
-      "originalTitle": "Data centers could erase decades of air quality gains",
-      "translatedTitle": "AI資料中心激增恐讓空氣品質倒退數十年",
-      "summaryZh": "隨著生成式AI應用迅速發展，其基礎建設——資料中心的需求也爆炸性增長。美國德州成為這波資料中心興建潮的熱點，但龐大的用電量正對當地空氣品質構成嚴峻挑戰。《The Verge》報導指出，若這些資料中心主要仰賴燃氣渦輪機而非再生能源供電，空污程度恐將惡化至2000年代的水平，抹殺過去數十年的環境改善成果。目前科技業者為確保電力供應，甚至考慮自建發電設施，但這也加劇了空污疑慮。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "publishedAt": "2026-10-21T22:33:44.000Z",
-      "score": 66,
+      "source": "TechCrunch",
+      "originalTitle": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "translatedTitle": "微軟AI診斷系統展現超越醫師潛力，挑戰「醫療超智慧」目標",
+      "summaryZh": "微軟（Microsoft）高階主管 Mustafa Suleyman 指出，一項發表於《Science》期刊的研究顯示，微軟旗下新的 AI 診斷系統在處理困難病例上，表現超越了普通科醫師，為實現「醫療超智慧」的願景邁進一步。然而，該研究同時揭示，這次性能提升的主要貢獻似乎來自於其底層的 AI 模型，而非微軟系統本身的特定創新。",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "publishedAt": "2026-10-22T18:43:53.000Z",
+      "score": 70,
       "tags": [
         "AI",
-        "NVIDIA"
+        "Microsoft",
+        "醫療AI"
       ]
     }
   ]

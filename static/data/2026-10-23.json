@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T08:24:10+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "Canva’s first AI image model plans designs before generating them",
+      "translatedTitle": "Canva首款AI圖像模型：先規劃設計，再生成圖片",
+      "summaryZh": "Canva 正式發表首款自家 AI 圖像生成模型「Canva Craft」，宣告將直接挑戰 OpenAI、Microsoft 和 Google 等科技巨頭在 AI 生成領域的地位。Canva Craft 採用獨特的兩階段架構，能夠在實際生成圖片前，先行規劃整體設計，藉此大幅提升圖像輸出的精準度、一致性與可控性。此模型最高可生成 2K 解析度圖像，並支援逾 30 種長寬比，應用範圍涵蓋社群媒體貼文、行銷素材、數位藝術創作乃至於擬真場景等。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "publishedAt": "2026-10-22T21:51:25.000Z",
+      "score": 91,
+      "tags": [
+        "AI",
+        "圖像生成"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "The Verge",
+      "originalTitle": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+      "translatedTitle": "記憶體價格飆漲拖累 2026年第三季全球PC出貨量驟降逾兩成",
+      "summaryZh": "Counterpoint Research 最新報告指出，受關鍵零組件價格上漲影響，2026年第三季全球個人電腦 (PC) 出貨量年減高達21%，終止過去兩年多的成長趨勢。DRAM、SSD，以及 Intel、AMD、Qualcomm 等晶片成本激增，導致筆電等終端產品售價攀升，衝擊消費者購買意願。同季度，智慧型手機出貨量也創下14年新低，顯示整體消費性電子市場正經歷嚴峻挑戰。",
+      "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+      "publishedAt": "2026-10-22T21:30:39.000Z",
+      "score": 83,
+      "tags": [
+        "PC",
+        "記憶體",
+        "市場分析"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Meta turns Muse sharing back on",
+      "translatedTitle": "Meta重啟Muse分享功能",
+      "summaryZh": "Meta已重新啟用其Muse分享功能，此前該功能因資安疑慮而暫停。資安研究團隊Claroc發現，Muse分享的對話連結會依標題命名並寫入公開DNS，導致敏感資訊，如企業內部營收審查或小型企業主的貸款申請，可能被輕易搜尋到。Meta在媒體《Ars Technica》詢問後緊急暫停該功能，Meta高層David Singleton也於X平台對此事件發表回應。目前Meta已於今日重新啟用此功能。",
+      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "publishedAt": "2026-10-22T20:24:04.000Z",
+      "score": 74,
+      "tags": [
+        "Meta",
+        "資安"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "The Verge",
+      "originalTitle": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+      "translatedTitle": "美國 FCC 首度禁用含「外國監控晶片」裝置",
+      "summaryZh": "美國聯邦通訊委員會（FCC）繼10月13日取得新權限後，近期首度針對內含「外國監控晶片」的裝置祭出禁令。此舉基於國家安全考量，但FCC並未公開具體受影響的產品清單。不過，該機構明確指出，其中一款涉及的「監控晶片」為海思（HiVision）的Hi3516CV610 UHD Smart Vision SoC。這款SoC晶片主要用於家庭安全攝影機、行車記錄器等影像處理裝置。",
+      "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+      "publishedAt": "2026-10-22T20:23:48.000Z",
+      "score": 72,
+      "tags": [
+        "晶片",
+        "監控",
+        "FCC",
+        "國家安全",
+        "美國政策"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "TechCrunch",
+      "originalTitle": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "translatedTitle": "微軟AI診斷系統展現超越醫師潛力，挑戰「醫療超智慧」目標",
+      "summaryZh": "微軟（Microsoft）高階主管 Mustafa Suleyman 指出，一項發表於《Science》期刊的研究顯示，微軟旗下新的 AI 診斷系統在處理困難病例上，表現超越了普通科醫師，為實現「醫療超智慧」的願景邁進一步。然而，該研究同時揭示，這次性能提升的主要貢獻似乎來自於其底層的 AI 模型，而非微軟系統本身的特定創新。",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "publishedAt": "2026-10-22T18:43:53.000Z",
+      "score": 70,
+      "tags": [
+        "AI",
+        "Microsoft",
+        "醫療AI"
+      ]
+    }
+  ]
+}
