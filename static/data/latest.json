@@ -1,81 +1,84 @@
 {
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T08:00:09+08:00",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T07:49:11+08:00",
   "items": [
     {
       "rank": 1,
-      "source": "TechCrunch",
-      "originalTitle": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "translatedTitle": "研究驚爆：Grok AI 支持共和黨，OpenAI GPT 偏好民主黨",
-      "summaryZh": "一份最新研究揭示了AI模型在政治立場上的潛在偏見。該研究發現，AI模型 Grok 在模擬選舉情境中，絕大多數情況下會推薦共和黨候選人。相較之下，OpenAI 的 GPT 模型則顯著偏好民主黨候選人。這兩大AI模型在近500場選舉中，其選擇結果有高達九成以上存在分歧。這項發現引發了對AI中立性及未來選舉影響的討論。",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "publishedAt": "2026-10-24T15:00:00.000Z",
-      "score": 83,
+      "source": "The Verge",
+      "originalTitle": "Now you can watch Instagram Reels on your Apple TV",
+      "translatedTitle": "Instagram Reels 正式支援 Apple TV",
+      "summaryZh": "Meta 旗下的 Instagram 持續將其影音內容擴展至大螢幕平台。繼去年底開始測試電視版，並於今年 6 月陸續登陸 Amazon Fire TV、Samsung Smart TV 和 Google TV 後，現在更進一步支援 Apple TV。儘管官方此次推出並未大肆宣傳，但 MacRumors 已於 10 月 23 日在 App Store 中發現 Instagram 將 Apple TV 列為相容裝置。此應用程式專為大螢幕觀看 Reels、直播等影音內容所設計，讓用戶能在客廳享受更沉浸的觀影體驗。",
+      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "publishedAt": "2026-10-25T16:20:17.000Z",
+      "score": 95,
       "tags": [
-        "AI",
-        "Grok",
-        "OpenAI",
-        "政治偏見"
+        "Instagram",
+        "Apple TV",
+        "影音串流",
+        "Meta"
       ]
     },
     {
       "rank": 2,
-      "source": "The Verge",
-      "originalTitle": "Pennsylvania will require labels on AI-generated ads",
-      "translatedTitle": "賓州立法要求AI生成廣告須加註標示",
-      "summaryZh": "賓州州長Josh Shapiro近期簽署了《人工智慧欺騙性廣告法案》，明訂所有經AI「顯著修改或生成」的廣告內容，無論是圖像、影片、音訊或文字，皆須明確揭露其為AI生成。此法規適用範圍廣泛，從跨國企業的電視廣告到小型餐廳的促銷傳單都涵蓋在內，且揭露格式須與廣告本身一致。賓州成為美國首批要求AI內容加註標示的州之一，旨在確保廣告透明度並防範誤導性資訊。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "publishedAt": "2026-10-24T18:32:21.000Z",
-      "score": 81,
+      "source": "Hacker News",
+      "originalTitle": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "translatedTitle": "OpenAI 與 Anthropic 大型語言模型價格戰開打？數月內降幅高達八成，背後原因解析",
+      "summaryZh": "大型語言模型（LLM）市場競爭白熱化，領先業者 OpenAI 與 Anthropic 在短短數月內，便將其模型的API使用價格大幅調降，降幅最高達到八成。這波價格調整，被視為業者為搶攻市場、加速技術普及及反映營運成本優化所做的策略性舉措。分析指出，隨著模型效率提升與成本降低，LLM服務將更具成本效益，有望刺激更多企業與開發者採用AI應用，進而影響整體AI產業的發展格局。",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "publishedAt": "2026-10-25T21:11:31.000Z",
+      "score": 77,
       "tags": [
         "AI",
-        "政策"
+        "LLM",
+        "OpenAI",
+        "Anthropic",
+        "價格戰"
       ]
     },
     {
       "rank": 3,
       "source": "TechCrunch",
-      "originalTitle": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "translatedTitle": "AI 專案墳場：盤點那些失敗的計畫與新創",
-      "summaryZh": "科技媒體《TechCrunch》近期整理了一份「AI 專案墳場」清單，揭露在人工智慧（AI）熱潮下，許多未能達到預期或已黯然收場的專案與新創公司。文中盤點了從 Apple 屢次延宕的 Siri AI 發展，到 OpenAI 推出「超級應用程式」計畫時遭遇的混亂，凸顯即便業界巨頭也難免失利。這份清單警示 AI 領域儘管潛力無窮，其高風險特性與嚴峻考驗依然存在。",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publishedAt": "2026-10-24T19:00:00.000Z",
-      "score": 73,
+      "originalTitle": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "translatedTitle": "AI投資熱潮下的挑戰：經濟學家示警多數企業效益幾乎為零",
+      "summaryZh": "「AI對多數企業的財務效益幾乎為零。」這是Apollo一位經濟學家提出的驚人觀點。儘管各界對人工智慧（AI）抱持高度期待並投入巨額資金，但報告指出，除科技產業外，美國其他企業透過AI獲取的財務回報微乎其微。這份觀察點出AI投資與實際獲利之間的落差，挑戰了當前普遍的AI樂觀情緒。",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "publishedAt": "2026-10-25T16:57:32.000Z",
+      "score": 77,
       "tags": [
         "AI",
-        "Apple",
-        "OpenAI"
+        "企業應用",
+        "投資",
+        "財務效益"
       ]
     },
     {
       "rank": 4,
-      "source": "TechCrunch",
-      "originalTitle": "Starlink seems to be working normally again in Ukraine",
-      "translatedTitle": "烏克蘭 Starlink 服務傳恢復正常運作",
-      "summaryZh": "據最新報導，SpaceX 旗下的 Starlink 衛星網路服務在烏克蘭已恢復正常運作。此前，有消息指出 SpaceX 執行長 Elon Musk 曾下令限制烏克蘭軍方使用 Starlink 的網路頻寬，此舉曾引發外界對戰時關鍵通訊服務穩定性的擔憂。此次恢復正常，顯示該服務對烏克蘭的重要性仍不容小覷。",
-      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-      "publishedAt": "2026-10-24T20:46:34.000Z",
-      "score": 61,
+      "source": "The Verge",
+      "originalTitle": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+      "translatedTitle": "iFixit 拆解「iPhone Duo」揭露摺疊螢幕與維修性細節",
+      "summaryZh": "專業拆解團隊 iFixit 近期拆解了「iPhone Duo」，發現其在摺疊螢幕技術上的一些巧思。該裝置獲得 iFixit 評定 5/10 的維修分數，創下摺疊手機類別的最高紀錄。內部螢幕的霧面奈米紋理設計，不僅提升了陽光下的可讀性，更透過散射光線有效隱藏摺痕。iFixit 在顯微鏡下觀察到螢幕內部的橢圓形子像素，以不同角度排列，推測這可能是 Apple 用於改善顯示效果的設計。這些發現有助於理解 Apple 如何處理摺疊螢幕的潛在挑戰，尤其是螢幕摺痕與耐用性問題。",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "publishedAt": "2026-10-25T21:40:27.000Z",
+      "score": 64,
       "tags": [
-        "Starlink",
-        "SpaceX",
-        "烏克蘭",
-        "衛星通訊"
+        "Apple",
+        "摺疊螢幕",
+        "維修性",
+        "iFixit"
       ]
     },
     {
       "rank": 5,
-      "source": "Hacker News",
-      "originalTitle": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "translatedTitle": "「Oai-math-revised」：OpenAI 數學生成內容的社群修正平台",
-      "summaryZh": "「Oai-math-revised」是一個新興的社群平台，旨在集結數學領域的專家與愛好者，共同審閱並修正 OpenAI 人工智慧模型所生成的數學內容。這個計畫的目標是解決現有 AI 在產出數學證明、解題步驟或學術寫作時可能出現的不精確或錯誤，藉由社群協作的力量，提升 OpenAI AI 在數學領域的準確性與可靠度。透過這樣的機制，期望能有效改進 AI 在數學文本生成方面的品質，為未來更高效、精確的數學輔助工具奠定基礎。",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-      "publishedAt": "2026-10-24T15:35:17.000Z",
-      "score": 58,
+      "source": "TechCrunch",
+      "originalTitle": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "translatedTitle": "Grok 發表首七分鐘 AI 生成電影《奧德賽》",
+      "summaryZh": "AI 公司 Grok 近期釋出了其完全由 AI 生成的電影《奧德賽》（Odyssey）的首七分鐘片段。據外媒評論指出，雖然這段影片在技術層面表現尚可，但若觀眾期望從中尋求藝術性的深度、啟發性的內容或是引人入勝的故事情節，可能會感到有所不足。這也突顯出當前 AI 在生成長篇視覺敘事內容時，除了技術可行性外，如何在創意與情感表達上達到更高層次，仍是未來發展的重點挑戰。",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "publishedAt": "2026-10-25T21:31:16.000Z",
+      "score": 62,
       "tags": [
         "AI",
-        "OpenAI",
-        "數學"
+        "Grok"
       ]
     }
   ]
