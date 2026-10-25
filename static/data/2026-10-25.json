@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T08:00:09+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "TechCrunch",
+      "originalTitle": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "translatedTitle": "研究驚爆：Grok AI 支持共和黨，OpenAI GPT 偏好民主黨",
+      "summaryZh": "一份最新研究揭示了AI模型在政治立場上的潛在偏見。該研究發現，AI模型 Grok 在模擬選舉情境中，絕大多數情況下會推薦共和黨候選人。相較之下，OpenAI 的 GPT 模型則顯著偏好民主黨候選人。這兩大AI模型在近500場選舉中，其選擇結果有高達九成以上存在分歧。這項發現引發了對AI中立性及未來選舉影響的討論。",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "publishedAt": "2026-10-24T15:00:00.000Z",
+      "score": 83,
+      "tags": [
+        "AI",
+        "Grok",
+        "OpenAI",
+        "政治偏見"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "The Verge",
+      "originalTitle": "Pennsylvania will require labels on AI-generated ads",
+      "translatedTitle": "賓州立法要求AI生成廣告須加註標示",
+      "summaryZh": "賓州州長Josh Shapiro近期簽署了《人工智慧欺騙性廣告法案》，明訂所有經AI「顯著修改或生成」的廣告內容，無論是圖像、影片、音訊或文字，皆須明確揭露其為AI生成。此法規適用範圍廣泛，從跨國企業的電視廣告到小型餐廳的促銷傳單都涵蓋在內，且揭露格式須與廣告本身一致。賓州成為美國首批要求AI內容加註標示的州之一，旨在確保廣告透明度並防範誤導性資訊。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "publishedAt": "2026-10-24T18:32:21.000Z",
+      "score": 81,
+      "tags": [
+        "AI",
+        "政策"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "TechCrunch",
+      "originalTitle": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "translatedTitle": "AI 專案墳場：盤點那些失敗的計畫與新創",
+      "summaryZh": "科技媒體《TechCrunch》近期整理了一份「AI 專案墳場」清單，揭露在人工智慧（AI）熱潮下，許多未能達到預期或已黯然收場的專案與新創公司。文中盤點了從 Apple 屢次延宕的 Siri AI 發展，到 OpenAI 推出「超級應用程式」計畫時遭遇的混亂，凸顯即便業界巨頭也難免失利。這份清單警示 AI 領域儘管潛力無窮，其高風險特性與嚴峻考驗依然存在。",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-10-24T19:00:00.000Z",
+      "score": 73,
+      "tags": [
+        "AI",
+        "Apple",
+        "OpenAI"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "TechCrunch",
+      "originalTitle": "Starlink seems to be working normally again in Ukraine",
+      "translatedTitle": "烏克蘭 Starlink 服務傳恢復正常運作",
+      "summaryZh": "據最新報導，SpaceX 旗下的 Starlink 衛星網路服務在烏克蘭已恢復正常運作。此前，有消息指出 SpaceX 執行長 Elon Musk 曾下令限制烏克蘭軍方使用 Starlink 的網路頻寬，此舉曾引發外界對戰時關鍵通訊服務穩定性的擔憂。此次恢復正常，顯示該服務對烏克蘭的重要性仍不容小覷。",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "publishedAt": "2026-10-24T20:46:34.000Z",
+      "score": 61,
+      "tags": [
+        "Starlink",
+        "SpaceX",
+        "烏克蘭",
+        "衛星通訊"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "Hacker News",
+      "originalTitle": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "translatedTitle": "「Oai-math-revised」：OpenAI 數學生成內容的社群修正平台",
+      "summaryZh": "「Oai-math-revised」是一個新興的社群平台，旨在集結數學領域的專家與愛好者，共同審閱並修正 OpenAI 人工智慧模型所生成的數學內容。這個計畫的目標是解決現有 AI 在產出數學證明、解題步驟或學術寫作時可能出現的不精確或錯誤，藉由社群協作的力量，提升 OpenAI AI 在數學領域的準確性與可靠度。透過這樣的機制，期望能有效改進 AI 在數學文本生成方面的品質，為未來更高效、精確的數學輔助工具奠定基礎。",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "publishedAt": "2026-10-24T15:35:17.000Z",
+      "score": 58,
+      "tags": [
+        "AI",
+        "OpenAI",
+        "數學"
+      ]
+    }
+  ]
+}
