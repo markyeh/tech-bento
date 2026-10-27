@@ -1,84 +1,79 @@
 {
-  "date": "2026-10-26",
-  "generatedAt": "2026-10-26T07:49:11+08:00",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T09:09:22+08:00",
   "items": [
     {
       "rank": 1,
       "source": "The Verge",
-      "originalTitle": "Now you can watch Instagram Reels on your Apple TV",
-      "translatedTitle": "Instagram Reels 正式支援 Apple TV",
-      "summaryZh": "Meta 旗下的 Instagram 持續將其影音內容擴展至大螢幕平台。繼去年底開始測試電視版，並於今年 6 月陸續登陸 Amazon Fire TV、Samsung Smart TV 和 Google TV 後，現在更進一步支援 Apple TV。儘管官方此次推出並未大肆宣傳，但 MacRumors 已於 10 月 23 日在 App Store 中發現 Instagram 將 Apple TV 列為相容裝置。此應用程式專為大螢幕觀看 Reels、直播等影音內容所設計，讓用戶能在客廳享受更沉浸的觀影體驗。",
-      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-      "publishedAt": "2026-10-25T16:20:17.000Z",
-      "score": 95,
+      "originalTitle": "Anthropic is burning gas to feed the AI boom",
+      "translatedTitle": "Anthropic IPO文件揭露：生成式AI對天然氣高度依賴，面臨能源挑戰",
+      "summaryZh": "Anthropic在其向美國證券交易委員會提交的S-1上市申請文件中揭露，生成式AI（Generative AI）的發展高度仰賴天然氣（主要為甲烷）作為資料中心的電力來源。這份文件凸顯了AI產業對化石燃料的依賴性，並指出目前對電力供應及具充足供電能力的資料中心地點的競爭日益激烈。Anthropic坦承，這種能源依賴性使其AI資料中心建置面臨燃料成本上漲及現有供應鏈限制的風險。隨著AI熱潮持續，能源供應與成本問題將成為Anthropic及整個AI產業發展的重要挑戰。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "publishedAt": "2026-10-26T21:45:31.000Z",
+      "score": 79,
       "tags": [
-        "Instagram",
-        "Apple TV",
-        "影音串流",
-        "Meta"
+        "AI",
+        "能源",
+        "資料中心",
+        "IPO"
       ]
     },
     {
       "rank": 2,
-      "source": "Hacker News",
-      "originalTitle": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "translatedTitle": "OpenAI 與 Anthropic 大型語言模型價格戰開打？數月內降幅高達八成，背後原因解析",
-      "summaryZh": "大型語言模型（LLM）市場競爭白熱化，領先業者 OpenAI 與 Anthropic 在短短數月內，便將其模型的API使用價格大幅調降，降幅最高達到八成。這波價格調整，被視為業者為搶攻市場、加速技術普及及反映營運成本優化所做的策略性舉措。分析指出，隨著模型效率提升與成本降低，LLM服務將更具成本效益，有望刺激更多企業與開發者採用AI應用，進而影響整體AI產業的發展格局。",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/",
-      "publishedAt": "2026-10-25T21:11:31.000Z",
-      "score": 77,
+      "source": "The Verge",
+      "originalTitle": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+      "translatedTitle": "iPhone Duo 更新 iOS 27.2 後現已支援 Apple Pencil",
+      "summaryZh": "蘋果近期釋出 iOS 27.2 更新，其首款摺疊手機 iPhone Duo 現已正式支援 Apple Pencil，這項功能先前曾預告將於今年稍後推出。本次更新也新增「Edge Light」功能，能在視訊通話時為用戶臉部提供照明。iPhone Duo 搭載專為 7.6 吋內螢幕與 5.4 吋外螢幕最佳化的 iOS 27 控制介面。多數主流應用程式如 Netflix、Prime Video 和 Microsoft Outlook 已能充分利用其多螢幕設計，但仍有部分 App 需進一步優化。",
+      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+      "publishedAt": "2026-10-26T18:51:06.000Z",
+      "score": 72,
       "tags": [
-        "AI",
-        "LLM",
-        "OpenAI",
-        "Anthropic",
-        "價格戰"
+        "Apple",
+        "iOS"
       ]
     },
     {
       "rank": 3,
-      "source": "TechCrunch",
-      "originalTitle": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "translatedTitle": "AI投資熱潮下的挑戰：經濟學家示警多數企業效益幾乎為零",
-      "summaryZh": "「AI對多數企業的財務效益幾乎為零。」這是Apollo一位經濟學家提出的驚人觀點。儘管各界對人工智慧（AI）抱持高度期待並投入巨額資金，但報告指出，除科技產業外，美國其他企業透過AI獲取的財務回報微乎其微。這份觀察點出AI投資與實際獲利之間的落差，挑戰了當前普遍的AI樂觀情緒。",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "publishedAt": "2026-10-25T16:57:32.000Z",
-      "score": 77,
+      "source": "The Verge",
+      "originalTitle": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "translatedTitle": "OpenAI 發表三大科學新發現並推動學術合作新模式",
+      "summaryZh": "OpenAI 近期再次發表其在數學、電腦科學及物理領域的三項「重大」科學新發現。這與其先前大規模發布數百篇數學手稿不同，此次 OpenAI 引入了外部專家，稱之為「引導者」（shepherds），協助指導電腦科學及物理領域的研究成果。至於數學問題，OpenAI 則聽取建議，直接釋出 AI 產出的結果，供研究人員自行探究解釋。部分成果已同步上傳至 GitHub，例如「歐幾里得波動方程的局部平滑化」，展現了其在科學研究上的新嘗試與開放合作態度。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "publishedAt": "2026-10-26T23:34:58.000Z",
+      "score": 68,
       "tags": [
         "AI",
-        "企業應用",
-        "投資",
-        "財務效益"
+        "OpenAI",
+        "科學研究"
       ]
     },
     {
       "rank": 4,
-      "source": "The Verge",
-      "originalTitle": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
-      "translatedTitle": "iFixit 拆解「iPhone Duo」揭露摺疊螢幕與維修性細節",
-      "summaryZh": "專業拆解團隊 iFixit 近期拆解了「iPhone Duo」，發現其在摺疊螢幕技術上的一些巧思。該裝置獲得 iFixit 評定 5/10 的維修分數，創下摺疊手機類別的最高紀錄。內部螢幕的霧面奈米紋理設計，不僅提升了陽光下的可讀性，更透過散射光線有效隱藏摺痕。iFixit 在顯微鏡下觀察到螢幕內部的橢圓形子像素，以不同角度排列，推測這可能是 Apple 用於改善顯示效果的設計。這些發現有助於理解 Apple 如何處理摺疊螢幕的潛在挑戰，尤其是螢幕摺痕與耐用性問題。",
-      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-      "publishedAt": "2026-10-25T21:40:27.000Z",
-      "score": 64,
+      "source": "MIT Technology Review",
+      "originalTitle": "Will the real Anthropic please stand up",
+      "translatedTitle": "Anthropic IPO 說明書揭露，AI 新創公司現形",
+      "summaryZh": "在經歷數週的市場熱議後，AI 新創公司 Anthropic 已正式提交首次公開募股（IPO）說明書。這份長達 335 頁的文件，其中約百頁聚焦於風險評估，不僅詳細闡述了該公司對其 AI 技術的獨特見解與發展策略，也讓外界得以一窺其營運狀況與未來展望。此舉標誌著 Anthropic 在競爭激烈的 AI 產業中，邁向資本市場的重要一步，其所揭示的「真實面貌」將成為業界關注焦點。",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "publishedAt": "2026-10-26T17:45:43.000Z",
+      "score": 62,
       "tags": [
-        "Apple",
-        "摺疊螢幕",
-        "維修性",
-        "iFixit"
+        "AI",
+        "Anthropic",
+        "IPO"
       ]
     },
     {
       "rank": 5,
-      "source": "TechCrunch",
-      "originalTitle": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "translatedTitle": "Grok 發表首七分鐘 AI 生成電影《奧德賽》",
-      "summaryZh": "AI 公司 Grok 近期釋出了其完全由 AI 生成的電影《奧德賽》（Odyssey）的首七分鐘片段。據外媒評論指出，雖然這段影片在技術層面表現尚可，但若觀眾期望從中尋求藝術性的深度、啟發性的內容或是引人入勝的故事情節，可能會感到有所不足。這也突顯出當前 AI 在生成長篇視覺敘事內容時，除了技術可行性外，如何在創意與情感表達上達到更高層次，仍是未來發展的重點挑戰。",
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "publishedAt": "2026-10-25T21:31:16.000Z",
+      "source": "The Verge",
+      "originalTitle": "Five weird details from Anthropic’s IPO filing",
+      "translatedTitle": "Anthropic S-1 文件揭露：共同創辦人兄妹檔成最高薪高管引關注",
+      "summaryZh": "AI新創Anthropic近日向美國證券交易委員會 (SEC) 提交了首次公開募股 (IPO) 的 S-1 招股說明書。這份逾三百頁的文件旨在向投資人揭露公司營運細節、資金運用規劃及潛在風險。其中，最受外界關注的「怪異」細節之一，便是共同創辦人 Dario Amodei 與 Daniela Amodei 兄妹檔，竟是公司內部薪酬最高的兩位高階主管，其薪資水平遠超其他高管，成為討論焦點。這份文件提供外界一窺Anthropic業務策略與內部結構的機會。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "publishedAt": "2026-10-26T17:10:23.000Z",
       "score": 62,
       "tags": [
         "AI",
-        "Grok"
+        "IPO"
       ]
     }
   ]

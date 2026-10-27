@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/10/26</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/10/26 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>Anthropic IPO文件揭露：生成式AI對天然氣高度依賴，面臨能源挑戰</h2>
+        <p>Anthropic在其向美國證券交易委員會提交的S-1上市申請文件中揭露，生成式AI（Generative AI）的發展高度仰賴天然氣（主要為甲烷）作為資料中心的電力來源。這份文件凸顯了AI產業對化石燃料的依賴性，並指出目前對電力供應及具充足供電能力的資料中心地點的競爭日益激烈。Anthropic坦承，這種能源依賴性使其AI資料中心建置面臨燃料成本上漲及現有供應鏈限制的風險。隨著AI熱潮持續，能源供應與成本問題將成為Anthropic及整個AI產業發展的重要挑戰。</p>
+        <div class="tags"><span>AI</span><span>能源</span><span>資料中心</span><span>IPO</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/27 05:45</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>iPhone Duo 更新 iOS 27.2 後現已支援 Apple Pencil</h2>
+        <p>蘋果近期釋出 iOS 27.2 更新，其首款摺疊手機 iPhone Duo 現已正式支援 Apple Pencil，這項功能先前曾預告將於今年稍後推出。本次更新也新增「Edge Light」功能，能在視訊通話時為用戶臉部提供照明。iPhone Duo 搭載專為 7.6 吋內螢幕與 5.4 吋外螢幕最佳化的 iOS 27 控制介面。多數主流應用程式如 Netflix、Prime Video 和 Microsoft Outlook 已能充分利用其多螢幕設計，但仍有部分 App 需進一步優化。</p>
+        <div class="tags"><span>Apple</span><span>iOS</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/27 02:51</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>OpenAI 發表三大科學新發現並推動學術合作新模式</h2>
+        <p>OpenAI 近期再次發表其在數學、電腦科學及物理領域的三項「重大」科學新發現。這與其先前大規模發布數百篇數學手稿不同，此次 OpenAI 引入了外部專家，稱之為「引導者」（shepherds），協助指導電腦科學及物理領域的研究成果。至於數學問題，OpenAI 則聽取建議，直接釋出 AI 產出的結果，供研究人員自行探究解釋。部分成果已同步上傳至 GitHub，例如「歐幾里得波動方程的局部平滑化」，展現了其在科學研究上的新嘗試與開放合作態度。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>科學研究</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/27 07:34</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>Anthropic IPO 說明書揭露，AI 新創公司現形</h2>
+        <p>在經歷數週的市場熱議後，AI 新創公司 Anthropic 已正式提交首次公開募股（IPO）說明書。這份長達 335 頁的文件，其中約百頁聚焦於風險評估，不僅詳細闡述了該公司對其 AI 技術的獨特見解與發展策略，也讓外界得以一窺其營運狀況與未來展望。此舉標誌著 Anthropic 在競爭激烈的 AI 產業中，邁向資本市場的重要一步，其所揭示的「真實面貌」將成為業界關注焦點。</p>
+        <div class="tags"><span>AI</span><span>Anthropic</span><span>IPO</span></div>
+        <div class="meta">
+          <span>來源：MIT Technology Review</span>
+          <span>發布時間：2026/10/27 01:45</span>
+        </div>
+        <a class="read-link" href="https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>Anthropic S-1 文件揭露：共同創辦人兄妹檔成最高薪高管引關注</h2>
+        <p>AI新創Anthropic近日向美國證券交易委員會 (SEC) 提交了首次公開募股 (IPO) 的 S-1 招股說明書。這份逾三百頁的文件旨在向投資人揭露公司營運細節、資金運用規劃及潛在風險。其中，最受外界關注的「怪異」細節之一，便是共同創辦人 Dario Amodei 與 Daniela Amodei 兄妹檔，竟是公司內部薪酬最高的兩位高階主管，其薪資水平遠超其他高管，成為討論焦點。這份文件提供外界一窺Anthropic業務策略與內部結構的機會。</p>
+        <div class="tags"><span>AI</span><span>IPO</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/27 01:10</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
