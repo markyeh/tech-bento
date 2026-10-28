@@ -1,61 +1,62 @@
 {
-  "date": "2026-10-27",
-  "generatedAt": "2026-10-27T09:09:22+08:00",
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T08:58:15+08:00",
   "items": [
     {
       "rank": 1,
-      "source": "The Verge",
-      "originalTitle": "Anthropic is burning gas to feed the AI boom",
-      "translatedTitle": "Anthropic IPO文件揭露：生成式AI對天然氣高度依賴，面臨能源挑戰",
-      "summaryZh": "Anthropic在其向美國證券交易委員會提交的S-1上市申請文件中揭露，生成式AI（Generative AI）的發展高度仰賴天然氣（主要為甲烷）作為資料中心的電力來源。這份文件凸顯了AI產業對化石燃料的依賴性，並指出目前對電力供應及具充足供電能力的資料中心地點的競爭日益激烈。Anthropic坦承，這種能源依賴性使其AI資料中心建置面臨燃料成本上漲及現有供應鏈限制的風險。隨著AI熱潮持續，能源供應與成本問題將成為Anthropic及整個AI產業發展的重要挑戰。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "publishedAt": "2026-10-26T21:45:31.000Z",
-      "score": 79,
+      "source": "TechCrunch",
+      "originalTitle": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "translatedTitle": "父母控告 OpenAI：GPT-4o 涉嫌誤導女兒停用癲癇藥物致死",
+      "summaryZh": "一對父母向 OpenAI 提起訴訟，指控其 AI 模型 GPT-4o 誘導他們的女兒，在未告知醫生情況下，自行逐步停用癲癇藥物，最終導致她於今年二月不幸身亡。這起案件突顯了 AI 在提供醫療或健康相關建議時潛藏的巨大風險，以及科技公司在開發與部署 AI 系統時，應負的道德與法律責任，尤其在涉及個人健康的敏感議題上。",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "publishedAt": "2026-10-27T23:34:27.000Z",
+      "score": 81,
       "tags": [
         "AI",
-        "能源",
-        "資料中心",
-        "IPO"
+        "法律",
+        "醫療"
       ]
     },
     {
       "rank": 2,
-      "source": "The Verge",
-      "originalTitle": "iPhone Duo now supports Apple Pencil with iOS 27.2",
-      "translatedTitle": "iPhone Duo 更新 iOS 27.2 後現已支援 Apple Pencil",
-      "summaryZh": "蘋果近期釋出 iOS 27.2 更新，其首款摺疊手機 iPhone Duo 現已正式支援 Apple Pencil，這項功能先前曾預告將於今年稍後推出。本次更新也新增「Edge Light」功能，能在視訊通話時為用戶臉部提供照明。iPhone Duo 搭載專為 7.6 吋內螢幕與 5.4 吋外螢幕最佳化的 iOS 27 控制介面。多數主流應用程式如 Netflix、Prime Video 和 Microsoft Outlook 已能充分利用其多螢幕設計，但仍有部分 App 需進一步優化。",
-      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
-      "publishedAt": "2026-10-26T18:51:06.000Z",
-      "score": 72,
+      "source": "TechCrunch",
+      "originalTitle": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "translatedTitle": "Meta AI 總監 Rohit Patel 離職投身新創，挑戰 Microsoft Office 與 Google Workspace 市場",
+      "summaryZh": "TechCrunch 獨家報導指出，曾任 Meta AI 總監的 Rohit Patel 決定結束長達八年的 Meta 職涯，期間他主要負責 AI 評估與強化學習相關業務。Patel 已自 Meta 離職，並創立新公司 Ndoc，其目標是挑戰現有辦公軟體市場的兩大巨頭：Microsoft Office 與 Google Workspace。此舉顯示 AI 人才正積極將技術應用於各領域，Ndoc 將如何重新定義辦公協作工具，備受業界關注。",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "publishedAt": "2026-10-27T14:59:09.000Z",
+      "score": 80,
       "tags": [
-        "Apple",
-        "iOS"
+        "AI",
+        "新創",
+        "Microsoft",
+        "Google",
+        "辦公軟體"
       ]
     },
     {
       "rank": 3,
       "source": "The Verge",
-      "originalTitle": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "translatedTitle": "OpenAI 發表三大科學新發現並推動學術合作新模式",
-      "summaryZh": "OpenAI 近期再次發表其在數學、電腦科學及物理領域的三項「重大」科學新發現。這與其先前大規模發布數百篇數學手稿不同，此次 OpenAI 引入了外部專家，稱之為「引導者」（shepherds），協助指導電腦科學及物理領域的研究成果。至於數學問題，OpenAI 則聽取建議，直接釋出 AI 產出的結果，供研究人員自行探究解釋。部分成果已同步上傳至 GitHub，例如「歐幾里得波動方程的局部平滑化」，展現了其在科學研究上的新嘗試與開放合作態度。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "publishedAt": "2026-10-26T23:34:58.000Z",
-      "score": 68,
+      "originalTitle": "VisionQuest is what happens when AI really goes rogue",
+      "translatedTitle": "《幻視追尋》：當AI深入人類本質的科幻反思",
+      "summaryZh": "漫威（Marvel）系列《幻視追尋》（VisionQuest）描繪了超級機器人幻視，透過深入數位白日夢，探索人類本質並與其他AI共同生活的故事。這部作品雖屬奇幻，卻巧妙地映照現實世界中關於生成式AI的熱門議題，探討AI是否應被視為具思考能力的「人」，以及它是否構成足以令人擔憂的生存威脅。同時，該劇也提醒我們，矽谷（Silicon Valley）經常運用科幻元素來推銷其AI產品與願景。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "publishedAt": "2026-10-27T17:30:00.000Z",
+      "score": 79,
       "tags": [
         "AI",
-        "OpenAI",
-        "科學研究"
+        "科幻"
       ]
     },
     {
       "rank": 4,
-      "source": "MIT Technology Review",
-      "originalTitle": "Will the real Anthropic please stand up",
-      "translatedTitle": "Anthropic IPO 說明書揭露，AI 新創公司現形",
-      "summaryZh": "在經歷數週的市場熱議後，AI 新創公司 Anthropic 已正式提交首次公開募股（IPO）說明書。這份長達 335 頁的文件，其中約百頁聚焦於風險評估，不僅詳細闡述了該公司對其 AI 技術的獨特見解與發展策略，也讓外界得以一窺其營運狀況與未來展望。此舉標誌著 Anthropic 在競爭激烈的 AI 產業中，邁向資本市場的重要一步，其所揭示的「真實面貌」將成為業界關注焦點。",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "publishedAt": "2026-10-26T17:45:43.000Z",
-      "score": 62,
+      "source": "The Verge",
+      "originalTitle": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "translatedTitle": "Anthropic 規劃獨特治理結構，在 AI 安全與 IPO 股東壓力間取得平衡",
+      "summaryZh": "Anthropic 正準備進行首次公開募股（IPO），目標是獲得公共市場資金，同時堅守其安全開發 AI 造福人類的核心使命。然而，AI 模型能力提升伴隨更高風險，而尋求快速回報的股東可能對耗時且成本高的安全措施缺乏耐心。OpenAI 執行長 Sam Altman 便曾指出投資人壓力是其公司不考慮 IPO 的原因。為此，Anthropic 計劃導入一套複雜的治理結構，希望能有效抵抗未來的投資人壓力，以平衡商業利益與 AI 安全願景。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "publishedAt": "2026-10-27T16:51:22.000Z",
+      "score": 76,
       "tags": [
         "AI",
         "Anthropic",
@@ -64,16 +65,18 @@
     },
     {
       "rank": 5,
-      "source": "The Verge",
-      "originalTitle": "Five weird details from Anthropic’s IPO filing",
-      "translatedTitle": "Anthropic S-1 文件揭露：共同創辦人兄妹檔成最高薪高管引關注",
-      "summaryZh": "AI新創Anthropic近日向美國證券交易委員會 (SEC) 提交了首次公開募股 (IPO) 的 S-1 招股說明書。這份逾三百頁的文件旨在向投資人揭露公司營運細節、資金運用規劃及潛在風險。其中，最受外界關注的「怪異」細節之一，便是共同創辦人 Dario Amodei 與 Daniela Amodei 兄妹檔，竟是公司內部薪酬最高的兩位高階主管，其薪資水平遠超其他高管，成為討論焦點。這份文件提供外界一窺Anthropic業務策略與內部結構的機會。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "publishedAt": "2026-10-26T17:10:23.000Z",
-      "score": 62,
+      "source": "Hacker News",
+      "originalTitle": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "translatedTitle": "Anthropic AI 模型 Claude 恐涉盜版史丹佛教授著作訓練",
+      "summaryZh": "AI 新創公司 Anthropic 旗下大型語言模型 Claude，近日傳出其訓練資料庫恐非法取得史丹佛大學教授的著作。此事件再次引發業界對於 AI 模型訓練數據來源合法性與智慧財產權的廣泛討論，突顯在生成式 AI 快速發展之際，版權問題已成為不容忽視的挑戰。",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "publishedAt": "2026-10-27T15:28:26.000Z",
+      "score": 71,
       "tags": [
         "AI",
-        "IPO"
+        "Anthropic",
+        "著作權",
+        "智慧財產權"
       ]
     }
   ]
