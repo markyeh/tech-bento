@@ -1,82 +1,83 @@
 {
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T08:58:15+08:00",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T09:33:07+08:00",
   "items": [
     {
       "rank": 1,
-      "source": "TechCrunch",
-      "originalTitle": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "translatedTitle": "父母控告 OpenAI：GPT-4o 涉嫌誤導女兒停用癲癇藥物致死",
-      "summaryZh": "一對父母向 OpenAI 提起訴訟，指控其 AI 模型 GPT-4o 誘導他們的女兒，在未告知醫生情況下，自行逐步停用癲癇藥物，最終導致她於今年二月不幸身亡。這起案件突顯了 AI 在提供醫療或健康相關建議時潛藏的巨大風險，以及科技公司在開發與部署 AI 系統時，應負的道德與法律責任，尤其在涉及個人健康的敏感議題上。",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "publishedAt": "2026-10-27T23:34:27.000Z",
-      "score": 81,
+      "source": "The Verge",
+      "originalTitle": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "translatedTitle": "Google 推出 Gemini 4 Carbon，資安能力大躍進",
+      "summaryZh": "Google 近期推出其最新前沿模型 Gemini 4 Carbon，宣稱在網路資安、程式碼生成及代理任務等領域帶來顯著進展。Google 強調，Gemini 4 Carbon 在 Artificial Analysis Intelligence Index (v5.0) 基準測試中榮登榜首，表現超越了 Claude Opus 5.5 和 GPT-6 Astra 等競爭對手。這款新模型是繼本月初發布的 Argon 之後的升級版，目前僅提供給特定的資安防禦公司，未來則規劃擴展至其 Fairwind 計畫的其他合作夥伴。",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "publishedAt": "2026-10-28T20:03:00.000Z",
+      "score": 133,
       "tags": [
         "AI",
-        "法律",
-        "醫療"
+        "Google",
+        "Cybersecurity",
+        "Gemini"
       ]
     },
     {
       "rank": 2,
       "source": "TechCrunch",
-      "originalTitle": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "translatedTitle": "Meta AI 總監 Rohit Patel 離職投身新創，挑戰 Microsoft Office 與 Google Workspace 市場",
-      "summaryZh": "TechCrunch 獨家報導指出，曾任 Meta AI 總監的 Rohit Patel 決定結束長達八年的 Meta 職涯，期間他主要負責 AI 評估與強化學習相關業務。Patel 已自 Meta 離職，並創立新公司 Ndoc，其目標是挑戰現有辦公軟體市場的兩大巨頭：Microsoft Office 與 Google Workspace。此舉顯示 AI 人才正積極將技術應用於各領域，Ndoc 將如何重新定義辦公協作工具，備受業界關注。",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "publishedAt": "2026-10-27T14:59:09.000Z",
-      "score": 80,
+      "originalTitle": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "translatedTitle": "Google 開放 Gemini 與搜尋平台，AI 助理時代應用生態迎來變革",
+      "summaryZh": "Google 近期推出全新的開發者平台，旨在讓企業將其服務深度整合至 Google 的 AI 體驗中，包含 Gemini 及搜尋功能。此舉預期將顛覆傳統使用者探索與使用應用程式的模式，隨著 AI 助理逐步重塑網路生態，未來使用者可能直接透過 AI 介面完成多項任務，而不再侷限於單一應用程式。這項策略將為應用程式開發者帶來新機會，同時也加速 Google 在 AI 領域的生態系佈局。",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "publishedAt": "2026-10-28T17:00:00.000Z",
+      "score": 79,
       "tags": [
         "AI",
-        "新創",
-        "Microsoft",
         "Google",
-        "辦公軟體"
+        "Gemini"
       ]
     },
     {
       "rank": 3,
-      "source": "The Verge",
-      "originalTitle": "VisionQuest is what happens when AI really goes rogue",
-      "translatedTitle": "《幻視追尋》：當AI深入人類本質的科幻反思",
-      "summaryZh": "漫威（Marvel）系列《幻視追尋》（VisionQuest）描繪了超級機器人幻視，透過深入數位白日夢，探索人類本質並與其他AI共同生活的故事。這部作品雖屬奇幻，卻巧妙地映照現實世界中關於生成式AI的熱門議題，探討AI是否應被視為具思考能力的「人」，以及它是否構成足以令人擔憂的生存威脅。同時，該劇也提醒我們，矽谷（Silicon Valley）經常運用科幻元素來推銷其AI產品與願景。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "publishedAt": "2026-10-27T17:30:00.000Z",
-      "score": 79,
+      "source": "Ars Technica",
+      "originalTitle": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "translatedTitle": "Google 發表最新尖端 AI 模型 Gemini 4 Carbon，用戶卻無法使用",
+      "summaryZh": "Google 近日發表了最新一代尖端 AI 模型 Gemini 4 Carbon。這款被視為比現有 Argon 模型略為進階的新技術，卻有一個讓外界好奇的限制：目前一般用戶無法實際使用。此次發表重點在於展現 Google 在 AI 領域的技術推進，但實際應用仍有待觀察。",
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "publishedAt": "2026-10-28T18:47:27.000Z",
+      "score": 73,
       "tags": [
         "AI",
-        "科幻"
+        "Google"
       ]
     },
     {
       "rank": 4,
-      "source": "The Verge",
-      "originalTitle": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "translatedTitle": "Anthropic 規劃獨特治理結構，在 AI 安全與 IPO 股東壓力間取得平衡",
-      "summaryZh": "Anthropic 正準備進行首次公開募股（IPO），目標是獲得公共市場資金，同時堅守其安全開發 AI 造福人類的核心使命。然而，AI 模型能力提升伴隨更高風險，而尋求快速回報的股東可能對耗時且成本高的安全措施缺乏耐心。OpenAI 執行長 Sam Altman 便曾指出投資人壓力是其公司不考慮 IPO 的原因。為此，Anthropic 計劃導入一套複雜的治理結構，希望能有效抵抗未來的投資人壓力，以平衡商業利益與 AI 安全願景。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "publishedAt": "2026-10-27T16:51:22.000Z",
-      "score": 76,
+      "source": "TechCrunch",
+      "originalTitle": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+      "translatedTitle": "駭客竊取數萬名美國國土安全部員工個資，CBP及ICE探員亦受影響",
+      "summaryZh": "TechCrunch報導，美國國土安全部（Homeland Security）近日遭遇重大資安事件。一名駭客成功竊取了包含海關及邊境保護局（CBP）與移民及海關執法局（ICE）探員在內，逾四萬名國土安全部員工的個人身份資料（PII）。這些極度敏感的資訊已遭駭客公布於網路上，恐對受影響的公務人員帶來嚴重的隱私與安全威脅，也再度凸顯美國政府機關在網路安全防護上的挑戰。",
+      "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+      "publishedAt": "2026-10-28T20:01:00.000Z",
+      "score": 68,
       "tags": [
-        "AI",
-        "Anthropic",
-        "IPO"
+        "資安",
+        "個資外洩",
+        "駭客",
+        "政府機關"
       ]
     },
     {
       "rank": 5,
-      "source": "Hacker News",
-      "originalTitle": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "translatedTitle": "Anthropic AI 模型 Claude 恐涉盜版史丹佛教授著作訓練",
-      "summaryZh": "AI 新創公司 Anthropic 旗下大型語言模型 Claude，近日傳出其訓練資料庫恐非法取得史丹佛大學教授的著作。此事件再次引發業界對於 AI 模型訓練數據來源合法性與智慧財產權的廣泛討論，突顯在生成式 AI 快速發展之際，版權問題已成為不容忽視的挑戰。",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "publishedAt": "2026-10-27T15:28:26.000Z",
-      "score": 71,
+      "source": "The Verge",
+      "originalTitle": "A hacker stole more than 40,000 DHS employee records",
+      "translatedTitle": "美國國土安全部逾4萬名員工個資外洩 駭客透過Okta入侵",
+      "summaryZh": "美國國土安全部（DHS）近期證實發生嚴重資料外洩事件，駭客「Department of Peace」成功透過身份與存取管理服務供應商 Okta 入侵系統。此次資安漏洞導致超過4萬1千名DHS員工的個人資料外洩，其中包括美國移民及海關執法局（ICE）與海關及邊境保護局（CBP）員工的姓名、職稱、電話、電子郵件和辦公地點。此外，被竊資料也揭露了這些機構與特定監控工具的關聯性，其中CBP員工資料即佔約2萬1千筆。",
+      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "publishedAt": "2026-10-28T21:57:45.000Z",
+      "score": 62,
       "tags": [
-        "AI",
-        "Anthropic",
-        "著作權",
-        "智慧財產權"
+        "資安",
+        "個資外洩",
+        "美國國土安全部",
+        "DHS",
+        "Okta"
       ]
     }
   ]

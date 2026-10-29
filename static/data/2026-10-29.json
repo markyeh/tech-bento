@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T09:33:07+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "translatedTitle": "Google 推出 Gemini 4 Carbon，資安能力大躍進",
+      "summaryZh": "Google 近期推出其最新前沿模型 Gemini 4 Carbon，宣稱在網路資安、程式碼生成及代理任務等領域帶來顯著進展。Google 強調，Gemini 4 Carbon 在 Artificial Analysis Intelligence Index (v5.0) 基準測試中榮登榜首，表現超越了 Claude Opus 5.5 和 GPT-6 Astra 等競爭對手。這款新模型是繼本月初發布的 Argon 之後的升級版，目前僅提供給特定的資安防禦公司，未來則規劃擴展至其 Fairwind 計畫的其他合作夥伴。",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "publishedAt": "2026-10-28T20:03:00.000Z",
+      "score": 133,
+      "tags": [
+        "AI",
+        "Google",
+        "Cybersecurity",
+        "Gemini"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "TechCrunch",
+      "originalTitle": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "translatedTitle": "Google 開放 Gemini 與搜尋平台，AI 助理時代應用生態迎來變革",
+      "summaryZh": "Google 近期推出全新的開發者平台，旨在讓企業將其服務深度整合至 Google 的 AI 體驗中，包含 Gemini 及搜尋功能。此舉預期將顛覆傳統使用者探索與使用應用程式的模式，隨著 AI 助理逐步重塑網路生態，未來使用者可能直接透過 AI 介面完成多項任務，而不再侷限於單一應用程式。這項策略將為應用程式開發者帶來新機會，同時也加速 Google 在 AI 領域的生態系佈局。",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "publishedAt": "2026-10-28T17:00:00.000Z",
+      "score": 79,
+      "tags": [
+        "AI",
+        "Google",
+        "Gemini"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "Ars Technica",
+      "originalTitle": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "translatedTitle": "Google 發表最新尖端 AI 模型 Gemini 4 Carbon，用戶卻無法使用",
+      "summaryZh": "Google 近日發表了最新一代尖端 AI 模型 Gemini 4 Carbon。這款被視為比現有 Argon 模型略為進階的新技術，卻有一個讓外界好奇的限制：目前一般用戶無法實際使用。此次發表重點在於展現 Google 在 AI 領域的技術推進，但實際應用仍有待觀察。",
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "publishedAt": "2026-10-28T18:47:27.000Z",
+      "score": 73,
+      "tags": [
+        "AI",
+        "Google"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "TechCrunch",
+      "originalTitle": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+      "translatedTitle": "駭客竊取數萬名美國國土安全部員工個資，CBP及ICE探員亦受影響",
+      "summaryZh": "TechCrunch報導，美國國土安全部（Homeland Security）近日遭遇重大資安事件。一名駭客成功竊取了包含海關及邊境保護局（CBP）與移民及海關執法局（ICE）探員在內，逾四萬名國土安全部員工的個人身份資料（PII）。這些極度敏感的資訊已遭駭客公布於網路上，恐對受影響的公務人員帶來嚴重的隱私與安全威脅，也再度凸顯美國政府機關在網路安全防護上的挑戰。",
+      "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+      "publishedAt": "2026-10-28T20:01:00.000Z",
+      "score": 68,
+      "tags": [
+        "資安",
+        "個資外洩",
+        "駭客",
+        "政府機關"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "The Verge",
+      "originalTitle": "A hacker stole more than 40,000 DHS employee records",
+      "translatedTitle": "美國國土安全部逾4萬名員工個資外洩 駭客透過Okta入侵",
+      "summaryZh": "美國國土安全部（DHS）近期證實發生嚴重資料外洩事件，駭客「Department of Peace」成功透過身份與存取管理服務供應商 Okta 入侵系統。此次資安漏洞導致超過4萬1千名DHS員工的個人資料外洩，其中包括美國移民及海關執法局（ICE）與海關及邊境保護局（CBP）員工的姓名、職稱、電話、電子郵件和辦公地點。此外，被竊資料也揭露了這些機構與特定監控工具的關聯性，其中CBP員工資料即佔約2萬1千筆。",
+      "url": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+      "publishedAt": "2026-10-28T21:57:45.000Z",
+      "score": 62,
+      "tags": [
+        "資安",
+        "個資外洩",
+        "美國國土安全部",
+        "DHS",
+        "Okta"
+      ]
+    }
+  ]
+}
