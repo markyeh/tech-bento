@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T09:25:44+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "The biggest names in AI are backing a new way to opt out of scraping",
+      "translatedTitle": "AI巨頭支持內容爬取「退出」新標準",
+      "summaryZh": "為解決內容被用於AI模型訓練的問題，OpenAI、Google、Microsoft 和 Anthropic 等大型AI公司宣布將採納一項全新標準，讓內容供應商能更便捷地「選擇退出」(opt-out) 其網站內容的爬取。這項由 Anthropic 技術負責人 Kevin Kelley 透過 IETF 提出的「政策代碼」(policy token) 訊號，將整合至網站的 `robots.txt` 檔案中。未來，發布者只需透過統一的 `robots.txt` 設定，即可一次性地向多家 AI 業者表達其內容爬取偏好，大幅提升內容控制的便利性與效率。",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "publishedAt": "2026-10-30T20:26:10.000Z",
+      "score": 103,
+      "tags": [
+        "AI",
+        "內容控制",
+        "robots.txt"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "TechCrunch",
+      "originalTitle": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "translatedTitle": "NVIDIA 考慮為 Nscale 西維吉尼亞州 AI 資料中心擔任貸款擔保",
+      "summaryZh": "根據 TechCrunch 報導，AI 晶片龍頭 NVIDIA 正考慮為 Nscale 位於西維吉尼亞州的 AI 資料中心專案擔任貸款擔保人。此舉旨在緩解投資人對 AI 相關支出可能放緩的疑慮。在投資界對 AI 基礎建設投資信心有所動搖之際，若由身為關鍵晶片供應商的 NVIDIA 出面提供財務擔保，預期將能有效確保 Nscale 取得所需資金，並為整體 AI 產業的發展注入強心針。這也突顯了 NVIDIA 不僅提供硬體，更透過策略性財務協作來鞏固及擴展其 AI 生態系。",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "publishedAt": "2026-10-31T01:20:05.000Z",
+      "score": 91,
+      "tags": [
+        "AI",
+        "NVIDIA"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "translatedTitle": "Google AI晶片衛星成功運作，首次從太空傳回AI生成內容",
+      "summaryZh": "Google 的 AI 晶片衛星已成功從太空傳回其首個 AI 生成回應，標誌著 Project Suncatcher 實驗計畫的重要進展。Google 啟動了衛星上的 Tensor Processing Units (TPUs)，並順利運行內建的 Gemma 4 模型。該模型不僅成功回應指令，還根據太空主題創作了一首俳句。此測試旨在驗證在太空部署 AI 資料中心的可行性，為未來的太空運算應用奠定基礎。",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "publishedAt": "2026-10-30T18:21:38.000Z",
+      "score": 83,
+      "tags": [
+        "AI",
+        "Google",
+        "太空科技"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "The Verge",
+      "originalTitle": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+      "translatedTitle": "OpenAI 執行長 Sam Altman：資料中心配置記憶體效益優於個人電腦",
+      "summaryZh": "OpenAI 執行長 Sam Altman 近期針對記憶體（RAM）等供應鏈短缺問題提出觀點，直指將 RAM 大量配置於個人電腦而非資料中心，從全球資源分配來看「相當不理想」。他指出，儘管許多使用者期望能在個人裝置上進行本機推論（local inference），並認為開源模型可減少對資料中心的依賴，但 Altman 強調，考量到整體效益，將關鍵硬體集中於資料中心才能發揮最佳效能。此番言論透露其對未來 AI 運算模式的看法，可能更傾向於高效能的雲端集中式架構。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "publishedAt": "2026-10-30T20:48:43.000Z",
+      "score": 77,
+      "tags": [
+        "AI",
+        "OpenAI",
+        "Sam Altman",
+        "記憶體",
+        "資料中心",
+        "雲端運算"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "The Verge",
+      "originalTitle": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "translatedTitle": "Apple Intelligence 確定隨 iOS 27.3 登陸中國市場",
+      "summaryZh": "蘋果公司宣布，其個人智慧系統 Apple Intelligence 將隨 iOS 27.3 版本正式進軍中國市場。新功能預計於 11 月 4 日推出 iOS 27.3 Beta 版，並在 12 月釋出正式版本。值得注意的是，此次在中國推出的 Apple Intelligence 並不包含全新的 Siri AI 功能。初期提供的服務將涵蓋通知摘要、即時翻譯、寫作與校對工具、視覺智慧，以及照片物件移除等。此外，蘋果也與阿里巴巴合作，導入其本地化 AI 支援，以符合中國市場需求。",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "publishedAt": "2026-10-30T22:32:53.000Z",
+      "score": 73,
+      "tags": [
+        "AI",
+        "Apple",
+        "iOS",
+        "中國市場"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/10/30</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/10/30 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>AI巨頭支持內容爬取「退出」新標準</h2>
+        <p>為解決內容被用於AI模型訓練的問題，OpenAI、Google、Microsoft 和 Anthropic 等大型AI公司宣布將採納一項全新標準，讓內容供應商能更便捷地「選擇退出」(opt-out) 其網站內容的爬取。這項由 Anthropic 技術負責人 Kevin Kelley 透過 IETF 提出的「政策代碼」(policy token) 訊號，將整合至網站的 `robots.txt` 檔案中。未來，發布者只需透過統一的 `robots.txt` 設定，即可一次性地向多家 AI 業者表達其內容爬取偏好，大幅提升內容控制的便利性與效率。</p>
+        <div class="tags"><span>AI</span><span>內容控制</span><span>robots.txt</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/31 04:26</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>NVIDIA 考慮為 Nscale 西維吉尼亞州 AI 資料中心擔任貸款擔保</h2>
+        <p>根據 TechCrunch 報導，AI 晶片龍頭 NVIDIA 正考慮為 Nscale 位於西維吉尼亞州的 AI 資料中心專案擔任貸款擔保人。此舉旨在緩解投資人對 AI 相關支出可能放緩的疑慮。在投資界對 AI 基礎建設投資信心有所動搖之際，若由身為關鍵晶片供應商的 NVIDIA 出面提供財務擔保，預期將能有效確保 Nscale 取得所需資金，並為整體 AI 產業的發展注入強心針。這也突顯了 NVIDIA 不僅提供硬體，更透過策略性財務協作來鞏固及擴展其 AI 生態系。</p>
+        <div class="tags"><span>AI</span><span>NVIDIA</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/10/31 09:20</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>Google AI晶片衛星成功運作，首次從太空傳回AI生成內容</h2>
+        <p>Google 的 AI 晶片衛星已成功從太空傳回其首個 AI 生成回應，標誌著 Project Suncatcher 實驗計畫的重要進展。Google 啟動了衛星上的 Tensor Processing Units (TPUs)，並順利運行內建的 Gemma 4 模型。該模型不僅成功回應指令，還根據太空主題創作了一首俳句。此測試旨在驗證在太空部署 AI 資料中心的可行性，為未來的太空運算應用奠定基礎。</p>
+        <div class="tags"><span>AI</span><span>Google</span><span>太空科技</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/31 02:21</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>OpenAI 執行長 Sam Altman：資料中心配置記憶體效益優於個人電腦</h2>
+        <p>OpenAI 執行長 Sam Altman 近期針對記憶體（RAM）等供應鏈短缺問題提出觀點，直指將 RAM 大量配置於個人電腦而非資料中心，從全球資源分配來看「相當不理想」。他指出，儘管許多使用者期望能在個人裝置上進行本機推論（local inference），並認為開源模型可減少對資料中心的依賴，但 Altman 強調，考量到整體效益，將關鍵硬體集中於資料中心才能發揮最佳效能。此番言論透露其對未來 AI 運算模式的看法，可能更傾向於高效能的雲端集中式架構。</p>
+        <div class="tags"><span>AI</span><span>OpenAI</span><span>Sam Altman</span><span>記憶體</span><span>資料中心</span><span>雲端運算</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/31 04:48</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>Apple Intelligence 確定隨 iOS 27.3 登陸中國市場</h2>
+        <p>蘋果公司宣布，其個人智慧系統 Apple Intelligence 將隨 iOS 27.3 版本正式進軍中國市場。新功能預計於 11 月 4 日推出 iOS 27.3 Beta 版，並在 12 月釋出正式版本。值得注意的是，此次在中國推出的 Apple Intelligence 並不包含全新的 Siri AI 功能。初期提供的服務將涵蓋通知摘要、即時翻譯、寫作與校對工具、視覺智慧，以及照片物件移除等。此外，蘋果也與阿里巴巴合作，導入其本地化 AI 支援，以符合中國市場需求。</p>
+        <div class="tags"><span>AI</span><span>Apple</span><span>iOS</span><span>中國市場</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/10/31 06:32</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
