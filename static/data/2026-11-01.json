@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T08:41:21+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "TechCrunch",
+      "originalTitle": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "translatedTitle": "法官准許NAACP針對xAI資料中心污染的訴訟繼續進行",
+      "summaryZh": "美國全國有色人種協進會（NAACP）對馬斯克旗下AI公司xAI提起訴訟，指控其資料中心排放污染，違反了《清淨空氣法案》（Clean Air Act）。最新消息指出，法院已准許此案繼續審理，意味著NAACP與xAI之間的法律戰將正式展開。這起訴訟凸顯了AI產業在快速發展的同時，可能面臨的環境衝擊與法規挑戰。",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "publishedAt": "2026-10-31T21:17:03.000Z",
+      "score": 85,
+      "tags": [
+        "AI",
+        "xAI",
+        "環境訴訟"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "TechCrunch",
+      "originalTitle": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "translatedTitle": "NVIDIA 考慮為 Nscale 在西維吉尼亞州的 AI 資料中心提供共同擔保",
+      "summaryZh": "晶片巨頭 NVIDIA 正考慮為新創公司 Nscale 在西維吉尼亞州建設的 AI 資料中心計畫提供貸款共同擔保。此策略旨在緩解投資人對當前 AI 基礎設施龐大支出的疑慮。身為主要 AI 晶片供應商，NVIDIA 的參與不僅有助於降低相關投資風險，同時也能間接刺激其 AI 晶片的需求，確保整體 AI 生態系的健康發展。",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "publishedAt": "2026-10-31T01:20:05.000Z",
+      "score": 68,
+      "tags": [
+        "AI",
+        "NVIDIA",
+        "資料中心"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "TechCrunch",
+      "originalTitle": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "translatedTitle": "蘋果執行長強調：不為AI而AI，重視實用價值",
+      "summaryZh": "蘋果執行長近期針對人工智慧（AI）發展策略發表聲明，他強調，蘋果不願「為AI而推出AI功能」，而是會深思熟慮地將AI技術整合到產品中。此舉旨在確保所推出的AI功能能為使用者帶來實用價值與優質體驗，而非盲目跟風市場。這也間接說明蘋果在AI領域的佈局，相較於其他競品，更注重穩健與深度整合，不急於搶快。",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "publishedAt": "2026-10-31T21:41:00.000Z",
+      "score": 61,
+      "tags": [
+        "AI",
+        "Apple"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "Hacker News",
+      "originalTitle": "Anthropic blocks users for anything touching training larger models",
+      "translatedTitle": "Anthropic 祭出嚴格禁令，凡涉足大型模型訓練者恐遭封鎖",
+      "summaryZh": "據科技媒體消息，AI 公司 Anthropic 近期針對其用戶行為祭出嚴格管制。報導指出，任何涉入「訓練更大規模模型」相關活動的用戶，都可能遭到 Anthropic 平台封鎖。此舉被視為 Anthropic 在保護其核心技術資產或應對潛在的競業行為，藉此強化其市場競爭力。這項政策預料將對從事 AI 研究或大型語言模型（LLM）開發的個人及團隊產生影響，並引發業界對於 AI 平台服務條款與使用者資料權限規範的廣泛討論。",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "publishedAt": "2026-10-31T19:39:19.000Z",
+      "score": 61,
+      "tags": [
+        "AI",
+        "Anthropic",
+        "大型語言模型"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "TechCrunch",
+      "originalTitle": "OpenAI reportedly lowers funding target for new round",
+      "translatedTitle": "OpenAI 據傳下修新一輪募資目標",
+      "summaryZh": "據科技媒體 TechCrunch 報導，生成式 AI 巨頭 OpenAI 據傳已下修其最新一輪的募資目標。此舉暗示該公司的募資進度可能不如預期，儘管 OpenAI 在人工智慧領域仍具主導地位，但市場對於其估值或未來成長潛力，或許正浮現新的評估。",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "publishedAt": "2026-10-31T16:12:55.000Z",
+      "score": 60,
+      "tags": [
+        "AI"
+      ]
+    }
+  ]
+}
