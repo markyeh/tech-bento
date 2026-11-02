@@ -1,77 +1,79 @@
 {
-  "date": "2026-11-01",
-  "generatedAt": "2026-11-01T08:41:21+08:00",
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T09:18:26+08:00",
   "items": [
     {
       "rank": 1,
       "source": "TechCrunch",
-      "originalTitle": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "translatedTitle": "法官准許NAACP針對xAI資料中心污染的訴訟繼續進行",
-      "summaryZh": "美國全國有色人種協進會（NAACP）對馬斯克旗下AI公司xAI提起訴訟，指控其資料中心排放污染，違反了《清淨空氣法案》（Clean Air Act）。最新消息指出，法院已准許此案繼續審理，意味著NAACP與xAI之間的法律戰將正式展開。這起訴訟凸顯了AI產業在快速發展的同時，可能面臨的環境衝擊與法規挑戰。",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "publishedAt": "2026-10-31T21:17:03.000Z",
-      "score": 85,
+      "originalTitle": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "translatedTitle": "OpenAI 考慮將資料中心重塑為「AI 運算園區」",
+      "summaryZh": "為改善公眾對傳統資料中心普遍不佳的觀感，人工智慧巨擘 OpenAI 正在研議將其大型資料中心重新命名為「AI 運算園區」（AI compute campuses）。此舉旨在透過品牌重塑，突顯這些基礎設施在驅動 AI 發展上的關鍵戰略地位，並期望藉此軟化社區對資料中心耗能、土地使用等議題的潛在反彈，為未來的擴張計畫鋪路。這凸顯了科技公司在面對基礎建設爭議時，品牌策略與溝通的重要性。",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "publishedAt": "2026-11-01T21:55:23.000Z",
+      "score": 77,
       "tags": [
         "AI",
-        "xAI",
-        "環境訴訟"
+        "OpenAI"
       ]
     },
     {
       "rank": 2,
-      "source": "TechCrunch",
-      "originalTitle": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "translatedTitle": "NVIDIA 考慮為 Nscale 在西維吉尼亞州的 AI 資料中心提供共同擔保",
-      "summaryZh": "晶片巨頭 NVIDIA 正考慮為新創公司 Nscale 在西維吉尼亞州建設的 AI 資料中心計畫提供貸款共同擔保。此策略旨在緩解投資人對當前 AI 基礎設施龐大支出的疑慮。身為主要 AI 晶片供應商，NVIDIA 的參與不僅有助於降低相關投資風險，同時也能間接刺激其 AI 晶片的需求，確保整體 AI 生態系的健康發展。",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "publishedAt": "2026-10-31T01:20:05.000Z",
-      "score": 68,
+      "source": "The Verge",
+      "originalTitle": "NASA hopes the commercial space industry can help save Hubble",
+      "translatedTitle": "NASA尋求商業太空產業協助拯救哈伯望遠鏡",
+      "summaryZh": "哈伯望遠鏡因地球引力影響，軌道高度持續衰減，預計在2030年代初期至中期面臨墜入大氣層的風險。為延長這座仍在執行重要科學任務的望遠鏡壽命，NASA正向民間太空產業公開徵求技術提案，期盼能透過創新且具成本效益的方式，提升哈伯的軌道，使其能繼續運作。此舉不僅強調哈伯仍具備重要科學價值，也展現NASA積極尋求商業夥伴協作，以維護關鍵太空資產的策略方向。",
+      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "publishedAt": "2026-11-01T21:09:21.000Z",
+      "score": 52,
       "tags": [
-        "AI",
-        "NVIDIA",
-        "資料中心"
+        "NASA",
+        "哈伯",
+        "太空",
+        "商業太空"
       ]
     },
     {
       "rank": 3,
-      "source": "TechCrunch",
-      "originalTitle": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "translatedTitle": "蘋果執行長強調：不為AI而AI，重視實用價值",
-      "summaryZh": "蘋果執行長近期針對人工智慧（AI）發展策略發表聲明，他強調，蘋果不願「為AI而推出AI功能」，而是會深思熟慮地將AI技術整合到產品中。此舉旨在確保所推出的AI功能能為使用者帶來實用價值與優質體驗，而非盲目跟風市場。這也間接說明蘋果在AI領域的佈局，相較於其他競品，更注重穩健與深度整合，不急於搶快。",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "publishedAt": "2026-10-31T21:41:00.000Z",
-      "score": 61,
+      "source": "The Verge",
+      "originalTitle": "Flock keeps ignoring requests to cancel its contracts",
+      "translatedTitle": "Flock Safety 無視解約請求 地方政府被迫自行斷電移除監控設備",
+      "summaryZh": "根據 The Verge 報導，越來越多城市在終止與監控設備供應商 Flock Safety 的合約時，遭遇重重困難。例如，美國明尼蘇達州普利茅斯市議會雖已於九月投票決議終止合約，Flock Safety 卻持續不予回應，導致其部署在市內的監控攝影機逾月仍未移除。普利茅斯市警察局長 Eric Fadden 最終不得不親自下令，將這些攝影機斷電，以確保其停止運作。此事件凸顯了地方政府在與科技公司終止服務合約時，可能面臨的實務挑戰與僵局。",
+      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+      "publishedAt": "2026-11-01T19:58:02.000Z",
+      "score": 51,
       "tags": [
-        "AI",
-        "Apple"
+        "監控",
+        "合約糾紛",
+        "Flock Safety"
       ]
     },
     {
       "rank": 4,
-      "source": "Hacker News",
-      "originalTitle": "Anthropic blocks users for anything touching training larger models",
-      "translatedTitle": "Anthropic 祭出嚴格禁令，凡涉足大型模型訓練者恐遭封鎖",
-      "summaryZh": "據科技媒體消息，AI 公司 Anthropic 近期針對其用戶行為祭出嚴格管制。報導指出，任何涉入「訓練更大規模模型」相關活動的用戶，都可能遭到 Anthropic 平台封鎖。此舉被視為 Anthropic 在保護其核心技術資產或應對潛在的競業行為，藉此強化其市場競爭力。這項政策預料將對從事 AI 研究或大型語言模型（LLM）開發的個人及團隊產生影響，並引發業界對於 AI 平台服務條款與使用者資料權限規範的廣泛討論。",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "publishedAt": "2026-10-31T19:39:19.000Z",
-      "score": 61,
+      "source": "TechCrunch",
+      "originalTitle": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "translatedTitle": "AI讓科技巨頭生活更輕鬆，那一般大眾呢？",
+      "summaryZh": "最新科技觀察指出，人工智慧（AI）雖能顯著提升科技公司執行長的營運效率與決策便利性，但外界日益關注其對廣大社會層面的影響。分析批評，部分科技巨頭高層在談及AI發展時，其言論常顯得與普羅大眾的實際擔憂「脫節」，未能充分回應AI可能對基層勞動市場、就業機會及整體社會結構造成的衝擊。這凸顯了在AI時代，企業領導者在推動技術進步的同時，更需審慎考量其潛在的社會責任與公平性議題。",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "publishedAt": "2026-11-01T20:57:58.000Z",
+      "score": 50,
       "tags": [
         "AI",
-        "Anthropic",
-        "大型語言模型"
+        "社會議題",
+        "科技產業"
       ]
     },
     {
       "rank": 5,
-      "source": "TechCrunch",
-      "originalTitle": "OpenAI reportedly lowers funding target for new round",
-      "translatedTitle": "OpenAI 據傳下修新一輪募資目標",
-      "summaryZh": "據科技媒體 TechCrunch 報導，生成式 AI 巨頭 OpenAI 據傳已下修其最新一輪的募資目標。此舉暗示該公司的募資進度可能不如預期，儘管 OpenAI 在人工智慧領域仍具主導地位，但市場對於其估值或未來成長潛力，或許正浮現新的評估。",
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "publishedAt": "2026-10-31T16:12:55.000Z",
-      "score": 60,
+      "source": "Hacker News",
+      "originalTitle": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "translatedTitle": "「AI對多數企業財務效益為零」Apollo經濟學家示警",
+      "summaryZh": "華爾街知名投資公司 Apollo 的首席經濟學家 Torsten Slok 近期指出，儘管市場對 AI 寄予厚望，但對大多數企業而言，AI 發展至今並未帶來實質的財務回報。他認為，企業大規模導入 AI 應用，目前仍未能有效轉化為顯著的營收增長或成本節約，甚至可能帶來額外投資壓力。這番言論為當前 AI 熱潮潑了盆冷水，提醒企業界應更務實地評估 AI 導入效益。",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "publishedAt": "2026-11-01T22:10:45.000Z",
+      "score": 49,
       "tags": [
-        "AI"
+        "AI",
+        "經濟效益"
       ]
     }
   ]
