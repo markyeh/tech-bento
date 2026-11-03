@@ -1,79 +1,77 @@
 {
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T09:18:26+08:00",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T11:18:24+08:00",
   "items": [
     {
       "rank": 1,
-      "source": "TechCrunch",
-      "originalTitle": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "translatedTitle": "OpenAI 考慮將資料中心重塑為「AI 運算園區」",
-      "summaryZh": "為改善公眾對傳統資料中心普遍不佳的觀感，人工智慧巨擘 OpenAI 正在研議將其大型資料中心重新命名為「AI 運算園區」（AI compute campuses）。此舉旨在透過品牌重塑，突顯這些基礎設施在驅動 AI 發展上的關鍵戰略地位，並期望藉此軟化社區對資料中心耗能、土地使用等議題的潛在反彈，為未來的擴張計畫鋪路。這凸顯了科技公司在面對基礎建設爭議時，品牌策略與溝通的重要性。",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "publishedAt": "2026-11-01T21:55:23.000Z",
-      "score": 77,
+      "source": "The Verge",
+      "originalTitle": "Anthropic clamps down on Claude’s AI video game clones",
+      "translatedTitle": "Anthropic 限制 Claude 生成 AI 遊戲複製品",
+      "summaryZh": "Anthropic 近期針對旗下 AI 模型 Claude Code 的系統提示（system prompt）進行了更新，旨在規範其 AI 工具被用於重新創建現有電玩遊戲的行為。目前，懷舊遊戲（retro gaming）領域正充斥著大量由 AI 生成的解譯、重編譯與移植版本。Anthropic 強調，雖然仍允許使用者利用 Claude Code 開發遊戲，但明確禁止直接複製特定的既有遊戲。新的提示明確要求使用者應專注於創作原創遊戲、特定類型遊戲，或基於自身設計與素材的作品，而非再現已存在的特定遊戲。此消息最初由 Tom's Hardware 報導，並有網友在 X（前身為 Twitter）上分享",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "publishedAt": "2026-11-02T18:56:02.000Z",
+      "score": 76,
+      "tags": [
+        "AI",
+        "Gaming"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "The Verge",
+      "originalTitle": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "translatedTitle": "OpenAI推出「電網保護者計畫」，資料中心緊急時可釋出千兆瓦電力",
+      "summaryZh": "為回應資料中心大量耗電引發的爭議，OpenAI宣布啟動「電網保護者計畫」。此計畫將在喬治亞州Effingham郡的新資料中心率先試行，承諾在極端天氣或緊急情況下，可釋出高達1,000百萬瓦（MW）的電力，足以供應約70萬戶家庭的空調用電。此舉旨在減輕當地電網負擔，並回應外界對資料中心電力需求的疑慮，力求與在地社區共存共榮。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "publishedAt": "2026-11-02T18:01:30.000Z",
+      "score": 73,
       "tags": [
         "AI",
         "OpenAI"
       ]
     },
     {
-      "rank": 2,
-      "source": "The Verge",
-      "originalTitle": "NASA hopes the commercial space industry can help save Hubble",
-      "translatedTitle": "NASA尋求商業太空產業協助拯救哈伯望遠鏡",
-      "summaryZh": "哈伯望遠鏡因地球引力影響，軌道高度持續衰減，預計在2030年代初期至中期面臨墜入大氣層的風險。為延長這座仍在執行重要科學任務的望遠鏡壽命，NASA正向民間太空產業公開徵求技術提案，期盼能透過創新且具成本效益的方式，提升哈伯的軌道，使其能繼續運作。此舉不僅強調哈伯仍具備重要科學價值，也展現NASA積極尋求商業夥伴協作，以維護關鍵太空資產的策略方向。",
-      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-      "publishedAt": "2026-11-01T21:09:21.000Z",
-      "score": 52,
-      "tags": [
-        "NASA",
-        "哈伯",
-        "太空",
-        "商業太空"
-      ]
-    },
-    {
       "rank": 3,
       "source": "The Verge",
-      "originalTitle": "Flock keeps ignoring requests to cancel its contracts",
-      "translatedTitle": "Flock Safety 無視解約請求 地方政府被迫自行斷電移除監控設備",
-      "summaryZh": "根據 The Verge 報導，越來越多城市在終止與監控設備供應商 Flock Safety 的合約時，遭遇重重困難。例如，美國明尼蘇達州普利茅斯市議會雖已於九月投票決議終止合約，Flock Safety 卻持續不予回應，導致其部署在市內的監控攝影機逾月仍未移除。普利茅斯市警察局長 Eric Fadden 最終不得不親自下令，將這些攝影機斷電，以確保其停止運作。此事件凸顯了地方政府在與科技公司終止服務合約時，可能面臨的實務挑戰與僵局。",
-      "url": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
-      "publishedAt": "2026-11-01T19:58:02.000Z",
-      "score": 51,
+      "originalTitle": "Meta will end Quest 2 OS updates in 2027",
+      "translatedTitle": "Meta Quest 2與Quest Pro VR頭戴裝置將於2027年終止作業系統更新",
+      "summaryZh": "Meta日前宣布，其Quest 2和Quest Pro VR頭戴裝置的作業系統更新將於2027年3月劃下句點，最終版本為v213。不過，Meta承諾將持續提供這兩款裝置的安全修補程式與關鍵錯誤修正，並允許應用程式提交至2027年底。此舉意味著Meta的產品重心將轉向Quest 3及Quest 3S，未來它們將成為Meta VR遊戲的全新基準。這項策略調整也為Meta計畫於2027年春季推出的下一代VR眼鏡提前鋪路。",
+      "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
+      "publishedAt": "2026-11-02T21:04:20.000Z",
+      "score": 72,
       "tags": [
-        "監控",
-        "合約糾紛",
-        "Flock Safety"
+        "VR",
+        "Meta",
+        "Quest"
       ]
     },
     {
       "rank": 4,
       "source": "TechCrunch",
-      "originalTitle": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "translatedTitle": "AI讓科技巨頭生活更輕鬆，那一般大眾呢？",
-      "summaryZh": "最新科技觀察指出，人工智慧（AI）雖能顯著提升科技公司執行長的營運效率與決策便利性，但外界日益關注其對廣大社會層面的影響。分析批評，部分科技巨頭高層在談及AI發展時，其言論常顯得與普羅大眾的實際擔憂「脫節」，未能充分回應AI可能對基層勞動市場、就業機會及整體社會結構造成的衝擊。這凸顯了在AI時代，企業領導者在推動技術進步的同時，更需審慎考量其潛在的社會責任與公平性議題。",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "publishedAt": "2026-11-01T20:57:58.000Z",
-      "score": 50,
+      "originalTitle": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "translatedTitle": "蘋果暗示透過第三方AI應用拓展新營收機會",
+      "summaryZh": "蘋果公司在最新的財報會議中透露，未來可能透過與第三方AI應用程式的合作，開拓新的營收成長機會。儘管具體策略和合作細節尚未明確，此舉暗示蘋果正積極探索AI領域的商業潛力，並有望為公司帶來新的獲利模式。",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "publishedAt": "2026-11-03T01:49:52.000Z",
+      "score": 63,
       "tags": [
+        "Apple",
         "AI",
-        "社會議題",
-        "科技產業"
+        "營收"
       ]
     },
     {
       "rank": 5,
       "source": "Hacker News",
-      "originalTitle": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "translatedTitle": "「AI對多數企業財務效益為零」Apollo經濟學家示警",
-      "summaryZh": "華爾街知名投資公司 Apollo 的首席經濟學家 Torsten Slok 近期指出，儘管市場對 AI 寄予厚望，但對大多數企業而言，AI 發展至今並未帶來實質的財務回報。他認為，企業大規模導入 AI 應用，目前仍未能有效轉化為顯著的營收增長或成本節約，甚至可能帶來額外投資壓力。這番言論為當前 AI 熱潮潑了盆冷水，提醒企業界應更務實地評估 AI 導入效益。",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "publishedAt": "2026-11-01T22:10:45.000Z",
-      "score": 49,
+      "originalTitle": "Scaling Git at OpenAI",
+      "translatedTitle": "OpenAI 如何規模化 Git？",
+      "summaryZh": "OpenAI 由於其快速成長與龐大的 AI 研發規模，在管理 Git 版本控制系統時面臨許多效能與協作方面的挑戰。這篇文章揭示 OpenAI 為確保其開發工作流程順暢，如何透過創新的解決方案來規模化 Git，以有效處理大量的程式碼、模型檔案與眾多開發者的協同作業需求，進而提升整體開發效率與應變能力。",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "publishedAt": "2026-11-02T23:47:56.000Z",
+      "score": 63,
       "tags": [
         "AI",
-        "經濟效益"
+        "Git"
       ]
     }
   ]
