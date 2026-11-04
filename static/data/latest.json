@@ -1,77 +1,82 @@
 {
-  "date": "2026-11-03",
-  "generatedAt": "2026-11-03T11:18:24+08:00",
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T09:53:50+08:00",
   "items": [
     {
       "rank": 1,
       "source": "The Verge",
-      "originalTitle": "Anthropic clamps down on Claude’s AI video game clones",
-      "translatedTitle": "Anthropic 限制 Claude 生成 AI 遊戲複製品",
-      "summaryZh": "Anthropic 近期針對旗下 AI 模型 Claude Code 的系統提示（system prompt）進行了更新，旨在規範其 AI 工具被用於重新創建現有電玩遊戲的行為。目前，懷舊遊戲（retro gaming）領域正充斥著大量由 AI 生成的解譯、重編譯與移植版本。Anthropic 強調，雖然仍允許使用者利用 Claude Code 開發遊戲，但明確禁止直接複製特定的既有遊戲。新的提示明確要求使用者應專注於創作原創遊戲、特定類型遊戲，或基於自身設計與素材的作品，而非再現已存在的特定遊戲。此消息最初由 Tom's Hardware 報導，並有網友在 X（前身為 Twitter）上分享",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "publishedAt": "2026-11-02T18:56:02.000Z",
-      "score": 76,
+      "originalTitle": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
+      "translatedTitle": "Apple Watch 音訊智慧新功能初步體驗：Live Rewind 與 Siri Recap",
+      "summaryZh": "《The Verge》編輯搶先體驗 Apple Watch Series 12 與 Ultra 4 搭載的「Audio Intelligence」音訊智慧功能。在 watchOS 27.3 開發者測試版中，新加入的「Live Rewind」能讓使用者即時回溯並查看前 15 秒的語音文字轉錄，而「Siri Recap」則提供對話重點摘要，旨在提升日常溝通效率。儘管初期測試顯示 Siri 語音轉錄仍有出錯的可能，這些功能在實際應用中的潛力仍值得期待。媒體將持續進行深度評測，觀察其對用戶體驗的影響。",
+      "url": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
+      "publishedAt": "2026-11-03T21:21:04.000Z",
+      "score": 71,
       "tags": [
-        "AI",
-        "Gaming"
+        "Apple Watch",
+        "watchOS",
+        "Siri",
+        "AI"
       ]
     },
     {
       "rank": 2,
-      "source": "The Verge",
-      "originalTitle": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "translatedTitle": "OpenAI推出「電網保護者計畫」，資料中心緊急時可釋出千兆瓦電力",
-      "summaryZh": "為回應資料中心大量耗電引發的爭議，OpenAI宣布啟動「電網保護者計畫」。此計畫將在喬治亞州Effingham郡的新資料中心率先試行，承諾在極端天氣或緊急情況下，可釋出高達1,000百萬瓦（MW）的電力，足以供應約70萬戶家庭的空調用電。此舉旨在減輕當地電網負擔，並回應外界對資料中心電力需求的疑慮，力求與在地社區共存共榮。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "publishedAt": "2026-11-02T18:01:30.000Z",
-      "score": 73,
+      "source": "TechCrunch",
+      "originalTitle": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+      "translatedTitle": "CrowdStrike斥資近5億美元收購兩家AI資安新創，搶攻AI代理安全市場商機",
+      "summaryZh": "資安大廠CrowdStrike宣布斥資近5億美元，收購兩家AI資安新創Fiddler AI與Dreadnode。此舉旨在強化其在AI應用程式與AI代理（agent）安全領域的佈局。Fiddler AI專精於提供AI代理可觀測性（observability）軟體，協助企業監控AI代理的行為與效能。而Dreadnode則提供自動化AI資安測試工具，確保AI系統的安全性。隨著企業對AI技術的廣泛採用，確保AI代理與應用程式的安全已成為當前資安市場的關鍵趨勢。",
+      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+      "publishedAt": "2026-11-03T17:56:52.000Z",
+      "score": 66,
       "tags": [
         "AI",
-        "OpenAI"
+        "資安",
+        "CrowdStrike",
+        "併購"
       ]
     },
     {
       "rank": 3,
-      "source": "The Verge",
-      "originalTitle": "Meta will end Quest 2 OS updates in 2027",
-      "translatedTitle": "Meta Quest 2與Quest Pro VR頭戴裝置將於2027年終止作業系統更新",
-      "summaryZh": "Meta日前宣布，其Quest 2和Quest Pro VR頭戴裝置的作業系統更新將於2027年3月劃下句點，最終版本為v213。不過，Meta承諾將持續提供這兩款裝置的安全修補程式與關鍵錯誤修正，並允許應用程式提交至2027年底。此舉意味著Meta的產品重心將轉向Quest 3及Quest 3S，未來它們將成為Meta VR遊戲的全新基準。這項策略調整也為Meta計畫於2027年春季推出的下一代VR眼鏡提前鋪路。",
-      "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
-      "publishedAt": "2026-11-02T21:04:20.000Z",
-      "score": 72,
+      "source": "TechCrunch",
+      "originalTitle": "Anthropic is working on a system to prove AI models’ identity",
+      "translatedTitle": "Anthropic 研發 AI 模型身份驗證系統 FlashProve",
+      "summaryZh": "知名 AI 開發商 Anthropic 正積極投入一套名為「FlashProve」的系統，旨在解決 AI 生成內容的溯源與身份驗證問題。此系統將允許使用者有效查證任何 AI 模型所產生的回應，是否確實源自其所聲稱的模型本身。這對於提升 AI 輸出的透明度與可信度至關重要，有助於防範深度偽造（deepfake）與錯假資訊的散播，確保使用者能辨識 AI 內容的真實來源，進而強化對 AI 技術的信任。",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "publishedAt": "2026-11-03T22:41:03.000Z",
+      "score": 65,
       "tags": [
-        "VR",
-        "Meta",
-        "Quest"
+        "AI",
+        "Anthropic"
       ]
     },
     {
       "rank": 4,
-      "source": "TechCrunch",
-      "originalTitle": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "translatedTitle": "蘋果暗示透過第三方AI應用拓展新營收機會",
-      "summaryZh": "蘋果公司在最新的財報會議中透露，未來可能透過與第三方AI應用程式的合作，開拓新的營收成長機會。儘管具體策略和合作細節尚未明確，此舉暗示蘋果正積極探索AI領域的商業潛力，並有望為公司帶來新的獲利模式。",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "publishedAt": "2026-11-03T01:49:52.000Z",
-      "score": 63,
+      "source": "The Verge",
+      "originalTitle": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+      "translatedTitle": "幣安揭露駭客利用假面試及內部 AI 工具，成功竊取 63 億美元",
+      "summaryZh": "幣安（Binance）近期公布了史上最大加密貨幣竊盜案的詳細經過。駭客歷時數月，結合多種手法成功盜取 63 億美元。今年六月，一名開發者因下載了來自惡意 Google 廣告的偽造安裝檔，導致內部工程師資訊外洩。到了九月，另一名工程師則遭假冒招募人員鎖定，對方透過多輪視訊面試及社群媒體建立信任，最終誘騙其下載虛假面試任務，並利用了幣安的內部 AI 工具來執行竊盜。這次事件凸顯了網路資安的嚴峻挑戰。",
+      "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+      "publishedAt": "2026-11-03T22:04:02.000Z",
+      "score": 64,
       "tags": [
-        "Apple",
-        "AI",
-        "營收"
+        "資安",
+        "加密貨幣",
+        "AI"
       ]
     },
     {
       "rank": 5,
-      "source": "Hacker News",
-      "originalTitle": "Scaling Git at OpenAI",
-      "translatedTitle": "OpenAI 如何規模化 Git？",
-      "summaryZh": "OpenAI 由於其快速成長與龐大的 AI 研發規模，在管理 Git 版本控制系統時面臨許多效能與協作方面的挑戰。這篇文章揭示 OpenAI 為確保其開發工作流程順暢，如何透過創新的解決方案來規模化 Git，以有效處理大量的程式碼、模型檔案與眾多開發者的協同作業需求，進而提升整體開發效率與應變能力。",
-      "url": "https://openai.com/index/scaling-git-at-openai/",
-      "publishedAt": "2026-11-02T23:47:56.000Z",
+      "source": "The Verge",
+      "originalTitle": "Those Jeff Bezos hair transplant photos are very fake",
+      "translatedTitle": "假到爆！亞馬遜創辦人貝佐斯「植髮」照片遭揭穿為修圖合成",
+      "summaryZh": "近期社群媒體上瘋傳數張亞馬遜創辦人傑夫·貝佐斯（Jeff Bezos）與演員傑森·史塔森（Jason Statham）「長出頭髮」的照片，其中貝佐斯甚至出現剛植髮的樣貌。然而，《The Verge》指出，這些圖像皆為修圖或AI合成的假照片，兩人仍維持其經典光頭造型。儘管這些假照片的傳播廣度未明，但其在X、Threads、Bluesky等平台上已造成編輯團隊成員看見的程度，凸顯了數位時代假資訊流竄的問題。",
+      "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+      "publishedAt": "2026-11-03T21:01:07.000Z",
       "score": 63,
       "tags": [
         "AI",
-        "Git"
+        "假訊息",
+        "社群媒體",
+        "Jeff Bezos"
       ]
     }
   ]

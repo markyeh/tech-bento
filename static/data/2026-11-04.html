@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/11/03</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/11/03 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>Apple Watch 音訊智慧新功能初步體驗：Live Rewind 與 Siri Recap</h2>
+        <p>《The Verge》編輯搶先體驗 Apple Watch Series 12 與 Ultra 4 搭載的「Audio Intelligence」音訊智慧功能。在 watchOS 27.3 開發者測試版中，新加入的「Live Rewind」能讓使用者即時回溯並查看前 15 秒的語音文字轉錄，而「Siri Recap」則提供對話重點摘要，旨在提升日常溝通效率。儘管初期測試顯示 Siri 語音轉錄仍有出錯的可能，這些功能在實際應用中的潛力仍值得期待。媒體將持續進行深度評測，觀察其對用戶體驗的影響。</p>
+        <div class="tags"><span>Apple Watch</span><span>watchOS</span><span>Siri</span><span>AI</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/11/04 05:21</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>CrowdStrike斥資近5億美元收購兩家AI資安新創，搶攻AI代理安全市場商機</h2>
+        <p>資安大廠CrowdStrike宣布斥資近5億美元，收購兩家AI資安新創Fiddler AI與Dreadnode。此舉旨在強化其在AI應用程式與AI代理（agent）安全領域的佈局。Fiddler AI專精於提供AI代理可觀測性（observability）軟體，協助企業監控AI代理的行為與效能。而Dreadnode則提供自動化AI資安測試工具，確保AI系統的安全性。隨著企業對AI技術的廣泛採用，確保AI代理與應用程式的安全已成為當前資安市場的關鍵趨勢。</p>
+        <div class="tags"><span>AI</span><span>資安</span><span>CrowdStrike</span><span>併購</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/11/04 01:56</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>Anthropic 研發 AI 模型身份驗證系統 FlashProve</h2>
+        <p>知名 AI 開發商 Anthropic 正積極投入一套名為「FlashProve」的系統，旨在解決 AI 生成內容的溯源與身份驗證問題。此系統將允許使用者有效查證任何 AI 模型所產生的回應，是否確實源自其所聲稱的模型本身。這對於提升 AI 輸出的透明度與可信度至關重要，有助於防範深度偽造（deepfake）與錯假資訊的散播，確保使用者能辨識 AI 內容的真實來源，進而強化對 AI 技術的信任。</p>
+        <div class="tags"><span>AI</span><span>Anthropic</span></div>
+        <div class="meta">
+          <span>來源：TechCrunch</span>
+          <span>發布時間：2026/11/04 06:41</span>
+        </div>
+        <a class="read-link" href="https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>幣安揭露駭客利用假面試及內部 AI 工具，成功竊取 63 億美元</h2>
+        <p>幣安（Binance）近期公布了史上最大加密貨幣竊盜案的詳細經過。駭客歷時數月，結合多種手法成功盜取 63 億美元。今年六月，一名開發者因下載了來自惡意 Google 廣告的偽造安裝檔，導致內部工程師資訊外洩。到了九月，另一名工程師則遭假冒招募人員鎖定，對方透過多輪視訊面試及社群媒體建立信任，最終誘騙其下載虛假面試任務，並利用了幣安的內部 AI 工具來執行竊盜。這次事件凸顯了網路資安的嚴峻挑戰。</p>
+        <div class="tags"><span>資安</span><span>加密貨幣</span><span>AI</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/11/04 06:04</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>假到爆！亞馬遜創辦人貝佐斯「植髮」照片遭揭穿為修圖合成</h2>
+        <p>近期社群媒體上瘋傳數張亞馬遜創辦人傑夫·貝佐斯（Jeff Bezos）與演員傑森·史塔森（Jason Statham）「長出頭髮」的照片，其中貝佐斯甚至出現剛植髮的樣貌。然而，《The Verge》指出，這些圖像皆為修圖或AI合成的假照片，兩人仍維持其經典光頭造型。儘管這些假照片的傳播廣度未明，但其在X、Threads、Bluesky等平台上已造成編輯團隊成員看見的程度，凸顯了數位時代假資訊流竄的問題。</p>
+        <div class="tags"><span>AI</span><span>假訊息</span><span>社群媒體</span><span>Jeff Bezos</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/11/04 05:01</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
