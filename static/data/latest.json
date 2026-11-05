@@ -1,82 +1,80 @@
 {
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T09:53:50+08:00",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T10:10:41+08:00",
   "items": [
     {
       "rank": 1,
       "source": "The Verge",
-      "originalTitle": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
-      "translatedTitle": "Apple Watch 音訊智慧新功能初步體驗：Live Rewind 與 Siri Recap",
-      "summaryZh": "《The Verge》編輯搶先體驗 Apple Watch Series 12 與 Ultra 4 搭載的「Audio Intelligence」音訊智慧功能。在 watchOS 27.3 開發者測試版中，新加入的「Live Rewind」能讓使用者即時回溯並查看前 15 秒的語音文字轉錄，而「Siri Recap」則提供對話重點摘要，旨在提升日常溝通效率。儘管初期測試顯示 Siri 語音轉錄仍有出錯的可能，這些功能在實際應用中的潛力仍值得期待。媒體將持續進行深度評測，觀察其對用戶體驗的影響。",
-      "url": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
-      "publishedAt": "2026-11-03T21:21:04.000Z",
-      "score": 71,
+      "originalTitle": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+      "translatedTitle": "AT&T 智慧居家保全系統支援 Gemini for Home",
+      "summaryZh": "AT&T 近日宣布，其智慧居家保全系統「Connected Life」已導入 Google 旗下 `Gemini for Home`。這項整合讓系統具備多項 `Gemini` 驅動的智慧功能，例如能為家庭事件提供摘要、利用自然語言搜尋錄影歷史，以及對保全攝影機捕捉到的事件提供詳細描述。未來用戶將可直接詢問「昨晚誰動了院子？」或「誰放狗出去了？」，系統便能快速找出相關錄像。此舉被視為提升居家安全監控體驗的重要一步。",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "publishedAt": "2026-11-04T20:23:24.000Z",
+      "score": 84,
       "tags": [
-        "Apple Watch",
-        "watchOS",
-        "Siri",
-        "AI"
+        "AI",
+        "Google",
+        "智慧居家"
       ]
     },
     {
       "rank": 2,
       "source": "TechCrunch",
-      "originalTitle": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-      "translatedTitle": "CrowdStrike斥資近5億美元收購兩家AI資安新創，搶攻AI代理安全市場商機",
-      "summaryZh": "資安大廠CrowdStrike宣布斥資近5億美元，收購兩家AI資安新創Fiddler AI與Dreadnode。此舉旨在強化其在AI應用程式與AI代理（agent）安全領域的佈局。Fiddler AI專精於提供AI代理可觀測性（observability）軟體，協助企業監控AI代理的行為與效能。而Dreadnode則提供自動化AI資安測試工具，確保AI系統的安全性。隨著企業對AI技術的廣泛採用，確保AI代理與應用程式的安全已成為當前資安市場的關鍵趨勢。",
-      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-      "publishedAt": "2026-11-03T17:56:52.000Z",
-      "score": 66,
+      "originalTitle": "Meta acquires AI coding startup Conductor",
+      "translatedTitle": "Meta 收購 AI 編程新創 Conductor，強化軟體開發效率",
+      "summaryZh": "科技巨頭 Meta 近期宣布收購 AI 編程新創公司 Conductor。Conductor 的核心技術在於能讓軟體工程師部署多個 AI 代理（agents），這些代理可同步處理軟體專案的不同面向，藉此大幅提升開發流程的效率與協作能力。此舉突顯 Meta 持續投入人工智慧領域，特別是旨在優化開發者工具和提升生產力的策略佈局。",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "publishedAt": "2026-11-04T21:10:56.000Z",
+      "score": 71,
       "tags": [
         "AI",
-        "資安",
-        "CrowdStrike",
-        "併購"
+        "Meta",
+        "新創",
+        "軟體開發"
       ]
     },
     {
       "rank": 3,
       "source": "TechCrunch",
-      "originalTitle": "Anthropic is working on a system to prove AI models’ identity",
-      "translatedTitle": "Anthropic 研發 AI 模型身份驗證系統 FlashProve",
-      "summaryZh": "知名 AI 開發商 Anthropic 正積極投入一套名為「FlashProve」的系統，旨在解決 AI 生成內容的溯源與身份驗證問題。此系統將允許使用者有效查證任何 AI 模型所產生的回應，是否確實源自其所聲稱的模型本身。這對於提升 AI 輸出的透明度與可信度至關重要，有助於防範深度偽造（deepfake）與錯假資訊的散播，確保使用者能辨識 AI 內容的真實來源，進而強化對 AI 技術的信任。",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "publishedAt": "2026-11-03T22:41:03.000Z",
-      "score": 65,
+      "originalTitle": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "translatedTitle": "Google 擬限制 AI 政策學校使用搜尋服務引發反彈",
+      "summaryZh": "Google 近日因一項爭議計畫面臨各界強烈反彈。該計畫指出，若學校限制學生使用 AI 工具，Google 將停止提供這些學校搜尋服務。此舉已引發紐約市議員 Zohran Mamdani 及前聯邦貿易委員會 (FTC) 主席 Lina Khan 等政治人物的批評。他們指控 Google 行徑如同不受監管的壟斷企業，試圖利用其市場主導地位影響學校的 AI 使用政策，引發社會對科技巨頭權力過大的擔憂。",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "publishedAt": "2026-11-04T16:17:22.000Z",
+      "score": 66,
       "tags": [
         "AI",
-        "Anthropic"
+        "Google",
+        "教育科技"
       ]
     },
     {
       "rank": 4,
       "source": "The Verge",
-      "originalTitle": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-      "translatedTitle": "幣安揭露駭客利用假面試及內部 AI 工具，成功竊取 63 億美元",
-      "summaryZh": "幣安（Binance）近期公布了史上最大加密貨幣竊盜案的詳細經過。駭客歷時數月，結合多種手法成功盜取 63 億美元。今年六月，一名開發者因下載了來自惡意 Google 廣告的偽造安裝檔，導致內部工程師資訊外洩。到了九月，另一名工程師則遭假冒招募人員鎖定，對方透過多輪視訊面試及社群媒體建立信任，最終誘騙其下載虛假面試任務，並利用了幣安的內部 AI 工具來執行竊盜。這次事件凸顯了網路資安的嚴峻挑戰。",
-      "url": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-      "publishedAt": "2026-11-03T22:04:02.000Z",
+      "originalTitle": "X says its updated web app is way faster",
+      "translatedTitle": "X 網頁版應用程式改版，速度顯著加快",
+      "summaryZh": "社群平台 X 近期推出其網頁版應用程式的重大更新，宣稱新版本載入速度顯著加快，目前正逐步向各國已登入用戶推送。據 X 首席工程師 Yagiz Nizipli 說明，在網路連線緩慢的環境下，舊版應用程式載入首篇貼文需超過 22 秒，而新版則可縮短至僅 2.7 秒。技術層面上，此次改版將原本分別用於處理使用者頁面、搜尋爬蟲及連結預覽的三個伺服器，整合為單一伺服器架構，大幅提升了效率與效能，旨在提供更流暢的瀏覽體驗。",
+      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+      "publishedAt": "2026-11-05T00:25:12.000Z",
       "score": 64,
       "tags": [
-        "資安",
-        "加密貨幣",
-        "AI"
+        "X",
+        "網頁應用",
+        "效能提升"
       ]
     },
     {
       "rank": 5,
-      "source": "The Verge",
-      "originalTitle": "Those Jeff Bezos hair transplant photos are very fake",
-      "translatedTitle": "假到爆！亞馬遜創辦人貝佐斯「植髮」照片遭揭穿為修圖合成",
-      "summaryZh": "近期社群媒體上瘋傳數張亞馬遜創辦人傑夫·貝佐斯（Jeff Bezos）與演員傑森·史塔森（Jason Statham）「長出頭髮」的照片，其中貝佐斯甚至出現剛植髮的樣貌。然而，《The Verge》指出，這些圖像皆為修圖或AI合成的假照片，兩人仍維持其經典光頭造型。儘管這些假照片的傳播廣度未明，但其在X、Threads、Bluesky等平台上已造成編輯團隊成員看見的程度，凸顯了數位時代假資訊流竄的問題。",
-      "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-      "publishedAt": "2026-11-03T21:01:07.000Z",
+      "source": "TechCrunch",
+      "originalTitle": "Apple is reportedly cutting budgets for its internal AI usage",
+      "translatedTitle": "傳蘋果大幅削減內部AI應用開發預算",
+      "summaryZh": "據報導，科技巨頭蘋果（Apple）正大幅縮減其工程團隊內部AI應用的開發預算。這項決策可能影響內部工具的開發與營運效率，但目前尚不清楚是否會波及到面向消費者的產品AI研發項目。此舉在各家科技大廠積極投入AI領域的背景下，顯得格外引人關注，可能反映出蘋果對內部資源配置的策略調整。",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "publishedAt": "2026-11-05T01:26:22.000Z",
       "score": 63,
       "tags": [
         "AI",
-        "假訊息",
-        "社群媒體",
-        "Jeff Bezos"
+        "Apple"
       ]
     }
   ]

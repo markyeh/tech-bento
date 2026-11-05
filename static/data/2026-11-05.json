@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T10:10:41+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+      "translatedTitle": "AT&T 智慧居家保全系統支援 Gemini for Home",
+      "summaryZh": "AT&T 近日宣布，其智慧居家保全系統「Connected Life」已導入 Google 旗下 `Gemini for Home`。這項整合讓系統具備多項 `Gemini` 驅動的智慧功能，例如能為家庭事件提供摘要、利用自然語言搜尋錄影歷史，以及對保全攝影機捕捉到的事件提供詳細描述。未來用戶將可直接詢問「昨晚誰動了院子？」或「誰放狗出去了？」，系統便能快速找出相關錄像。此舉被視為提升居家安全監控體驗的重要一步。",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "publishedAt": "2026-11-04T20:23:24.000Z",
+      "score": 84,
+      "tags": [
+        "AI",
+        "Google",
+        "智慧居家"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "TechCrunch",
+      "originalTitle": "Meta acquires AI coding startup Conductor",
+      "translatedTitle": "Meta 收購 AI 編程新創 Conductor，強化軟體開發效率",
+      "summaryZh": "科技巨頭 Meta 近期宣布收購 AI 編程新創公司 Conductor。Conductor 的核心技術在於能讓軟體工程師部署多個 AI 代理（agents），這些代理可同步處理軟體專案的不同面向，藉此大幅提升開發流程的效率與協作能力。此舉突顯 Meta 持續投入人工智慧領域，特別是旨在優化開發者工具和提升生產力的策略佈局。",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "publishedAt": "2026-11-04T21:10:56.000Z",
+      "score": 71,
+      "tags": [
+        "AI",
+        "Meta",
+        "新創",
+        "軟體開發"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "TechCrunch",
+      "originalTitle": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "translatedTitle": "Google 擬限制 AI 政策學校使用搜尋服務引發反彈",
+      "summaryZh": "Google 近日因一項爭議計畫面臨各界強烈反彈。該計畫指出，若學校限制學生使用 AI 工具，Google 將停止提供這些學校搜尋服務。此舉已引發紐約市議員 Zohran Mamdani 及前聯邦貿易委員會 (FTC) 主席 Lina Khan 等政治人物的批評。他們指控 Google 行徑如同不受監管的壟斷企業，試圖利用其市場主導地位影響學校的 AI 使用政策，引發社會對科技巨頭權力過大的擔憂。",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+      "publishedAt": "2026-11-04T16:17:22.000Z",
+      "score": 66,
+      "tags": [
+        "AI",
+        "Google",
+        "教育科技"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "The Verge",
+      "originalTitle": "X says its updated web app is way faster",
+      "translatedTitle": "X 網頁版應用程式改版，速度顯著加快",
+      "summaryZh": "社群平台 X 近期推出其網頁版應用程式的重大更新，宣稱新版本載入速度顯著加快，目前正逐步向各國已登入用戶推送。據 X 首席工程師 Yagiz Nizipli 說明，在網路連線緩慢的環境下，舊版應用程式載入首篇貼文需超過 22 秒，而新版則可縮短至僅 2.7 秒。技術層面上，此次改版將原本分別用於處理使用者頁面、搜尋爬蟲及連結預覽的三個伺服器，整合為單一伺服器架構，大幅提升了效率與效能，旨在提供更流暢的瀏覽體驗。",
+      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+      "publishedAt": "2026-11-05T00:25:12.000Z",
+      "score": 64,
+      "tags": [
+        "X",
+        "網頁應用",
+        "效能提升"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "TechCrunch",
+      "originalTitle": "Apple is reportedly cutting budgets for its internal AI usage",
+      "translatedTitle": "傳蘋果大幅削減內部AI應用開發預算",
+      "summaryZh": "據報導，科技巨頭蘋果（Apple）正大幅縮減其工程團隊內部AI應用的開發預算。這項決策可能影響內部工具的開發與營運效率，但目前尚不清楚是否會波及到面向消費者的產品AI研發項目。此舉在各家科技大廠積極投入AI領域的背景下，顯得格外引人關注，可能反映出蘋果對內部資源配置的策略調整。",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "publishedAt": "2026-11-05T01:26:22.000Z",
+      "score": 63,
+      "tags": [
+        "AI",
+        "Apple"
+      ]
+    }
+  ]
+}
