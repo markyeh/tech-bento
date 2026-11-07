@@ -1,79 +1,78 @@
 {
-  "date": "2026-11-06",
-  "generatedAt": "2026-11-06T09:59:31+08:00",
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T09:36:29+08:00",
   "items": [
     {
       "rank": 1,
       "source": "The Verge",
-      "originalTitle": "Perplexity launches its own take on AI agents for work",
-      "translatedTitle": "Perplexity 發表企業級 AI 代理「Teammates」，進軍商用市場",
-      "summaryZh": "Perplexity 正式發表其工作導向的 AI 代理服務「Teammates」，旨在挑戰 OpenAI 和 Anthropic 等競爭對手。這些「隨時在線」的代理能扮演多種角色，並整合現有 Perplexity 工具中的專案、技能與記憶。Teammates 建立於 Perplexity Computer 系統之上，可實現協同合作並處理「持續性、大規模的工作」，同時支援多任務執行，功能類似於 OpenAI 的 Dots 或 Claude Duet。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "publishedAt": "2026-11-05T22:26:50.000Z",
-      "score": 104,
+      "originalTitle": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "translatedTitle": "傳中國情報機構滲透輝達，鎖定CEO黃仁勳",
+      "summaryZh": "根據《紐約時報》報導，中國情報機構『中國國安部』被指控招募科技公司美格速（Megaspeed）高階主管艾莉絲．黃（Alice Huang），意圖滲透輝達（NVIDIA），主要目標為執行長黃仁勳（Jensen Huang）。據稱，中國情報機構試圖透過艾莉絲．黃，刺探美國AI晶片相關情報，並可能施壓輝達，使其最先進的AI晶片能出口至中國。艾莉絲．黃不僅與輝達有業務往來，也據傳與技嘉（Gigabyte）等AI晶片產業高層建立關係，讓此案情更顯複雜。此事件再次突顯地緣政治下，半導體與AI技術競爭的敏感性。",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "publishedAt": "2026-11-06T23:00:44.000Z",
+      "score": 98,
       "tags": [
         "AI",
-        "AI Agents"
+        "NVIDIA"
       ]
     },
     {
       "rank": 2,
       "source": "The Verge",
-      "originalTitle": "OpenAI is stepping back from NDAs for data center projects",
-      "translatedTitle": "OpenAI 資料中心專案新承諾：不再要求公職人員簽署 NDA",
-      "summaryZh": "為回應近期選民對資料中心擴建的反彈聲浪，AI 巨擘 OpenAI 宣布其資料中心專案未來將不再要求公職人員簽署非公開協議（NDA）。過去許多資料中心開發案因依賴 NDA 隱藏與地方官員的討論而飽受批評。OpenAI 強調，未來僅會針對合法的安全資訊、商業機密或具競爭敏感性的專有資訊，採用「嚴格限定」的保護措施。此舉與 Amazon 在十月宣布的類似措施相呼應，顯示科技業者正朝向資料中心營運的更高透明度邁進，以緩解社區疑慮。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "publishedAt": "2026-11-06T00:37:56.000Z",
-      "score": 103,
+      "originalTitle": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+      "translatedTitle": "Meta Muse AI推出「空間」功能，打造個人化應用體驗",
+      "summaryZh": "Meta旗下的AI助理Muse近日推出「空間」（spaces）新功能。此功能讓使用者能透過描述，在Muse應用程式內打造個人化的「應用體驗」，例如購物專區、學校儀表板或音樂追蹤器等。這些「空間」能與Gmail、Google Calendar、OpenTable、Notion等外部應用程式串聯。Muse的AI助理將持續從這些外部服務中擷取資訊，確保「空間」內的價格、日期等內容即時更新，提供更便利的互動。",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "publishedAt": "2026-11-06T18:10:10.000Z",
+      "score": 73,
       "tags": [
         "AI",
-        "Data Center",
-        "NDA"
+        "Meta"
       ]
     },
     {
       "rank": 3,
-      "source": "Ars Technica",
-      "originalTitle": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "translatedTitle": "Google 教育版服務新策略：學校可不選用 Gemini，但 AI 搜尋功能不可少",
-      "summaryZh": "Google 近日公布針對教育機構的搜尋服務新策略。儘管學校可選擇不啟用或使用其大型語言模型 Gemini，但 Google 明確指出，AI 搜尋功能對教育版服務而言是「不可妥協」的核心。此舉雖看似提供更多選項，但實際上並未回應學校真正的需求，反而凸顯 Google 欲將 AI 搜尋功能強制整合至教育生態系的堅定立場。",
-      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "publishedAt": "2026-11-05T21:40:36.000Z",
-      "score": 76,
+      "source": "TechCrunch",
+      "originalTitle": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "translatedTitle": "Meta 推出 Spaces，為其 AI 助理 Muse 帶來全新協作模式",
+      "summaryZh": "Meta 持續強化旗下 AI 助理 Muse 的功能與整合。近日，Meta 發表了全新服務「Spaces」，旨在提供使用者與 Muse AI 助理更具效率的協作模式。Spaces 的導入，代表 Muse 助理將能以新穎的方式，協助用戶進行互動與任務處理，進一步拓展其應用範疇。此舉彰顯 Meta 在 AI 助手領域的積極佈局，致力於提升使用者體驗。",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "publishedAt": "2026-11-06T18:44:20.000Z",
+      "score": 69,
       "tags": [
         "AI",
-        "Google",
-        "Gemini",
-        "教育科技"
+        "Meta"
       ]
     },
     {
       "rank": 4,
-      "source": "TechCrunch",
-      "originalTitle": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "translatedTitle": "OpenAI 總裁 Greg Brockman 透露公司可能在 2027 年準備好 IPO",
-      "summaryZh": "OpenAI 總裁 Greg Brockman 近期在華爾街日報科技會議上表示，公司最快可能在 2027 年達到首次公開募股（IPO）的準備狀態。他強調，OpenAI 目前正積極深耕企業級市場，雖然競爭對手 Anthropic 已在此領域取得先機，但 OpenAI 也持續擴大其在企業解決方案的市場版圖。此訊號顯示 OpenAI 除了技術發展外，也積極推進商業化佈局，為未來的資本市場規劃鋪路。",
-      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "publishedAt": "2026-11-05T18:02:27.000Z",
-      "score": 74,
+      "source": "Ars Technica",
+      "originalTitle": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "translatedTitle": "區塊鏈分析公司 Chainalysis 證實所有客戶憑證與令牌遭竊，攻擊手法驚見 AI 代理人",
+      "summaryZh": "區塊鏈分析公司 Chainalysis 近日證實，其遭遇了一場「多面向網路攻擊」，導致所有客戶的帳號憑證與存取令牌（tokens）遭到駭客竊取。該公司指出，此次攻擊手法包含利用「AI 代理人」及「路徑資料竊取」（on-path data snatch）等高階技術。這起資安事件可能對全球區塊鏈相關業者構成嚴重威脅，凸顯了人工智慧在網路攻擊中日益重要的角色。Chainalysis 表示已展開調查並通知受影響客戶。",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "publishedAt": "2026-11-06T20:56:41.000Z",
+      "score": 61,
       "tags": [
-        "AI",
-        "IPO"
+        "資安",
+        "網路攻擊",
+        "資料外洩",
+        "區塊鏈",
+        "AI"
       ]
     },
     {
       "rank": 5,
-      "source": "TechCrunch",
-      "originalTitle": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "translatedTitle": "Meta 示警：資料中心引發政治反彈，恐阻礙 AI 發展",
-      "summaryZh": "科技巨頭 Meta 近日示警，隨著人工智慧（AI）技術的快速發展，其對龐大運算能力的需求也日益增加。然而，各地社群對興建大型資料中心的政治反彈及阻力持續升高，恐將嚴重威脅 Meta 未來在 AI 領域的投資與擴張計畫。Meta 指出，這些大規模的基礎設施專案面臨越來越多的地方阻力，可能導致 AI 發展所需的硬體建置遭遇瓶頸，進而拖累整體 AI 生態系的進程。此警訊凸顯了 AI 基礎設施部署在政治與社會層面上的挑戰，以及企業在推動 AI 創新時可能面臨的阻礙。",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "publishedAt": "2026-11-05T19:12:39.000Z",
-      "score": 71,
+      "source": "The Verge",
+      "originalTitle": "Lame-duck Congress might actually do something: speed up energy projects",
+      "translatedTitle": "美國能源許可法案加速 AI 資料中心發展，環保疑慮浮現",
+      "summaryZh": "美國國會正推動一項大規模的能源許可法案，旨在加速能源專案的批准與上線，目標是降低美國民眾的電費。此法案雖可望促進潔淨能源發展，但也引發擔憂，可能讓污染性專案加速，並限制對新資料中心的監督。隨著AI應用導致資料中心對電力需求劇增，環保倡議者憂慮開發商可能利用此改革規避公眾審查，並更依賴化石燃料。該法案為求效率犧牲謹慎，恐限縮環境審查，並降低社區阻止專案的能力。",
+      "url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
+      "publishedAt": "2026-11-06T18:42:30.000Z",
+      "score": 61,
       "tags": [
         "AI",
-        "資料中心",
-        "Meta"
+        "能源政策"
       ]
     }
   ]
