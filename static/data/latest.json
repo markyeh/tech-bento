@@ -1,78 +1,77 @@
 {
-  "date": "2026-11-07",
-  "generatedAt": "2026-11-07T09:36:29+08:00",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T09:25:40+08:00",
   "items": [
     {
       "rank": 1,
       "source": "The Verge",
-      "originalTitle": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "translatedTitle": "傳中國情報機構滲透輝達，鎖定CEO黃仁勳",
-      "summaryZh": "根據《紐約時報》報導，中國情報機構『中國國安部』被指控招募科技公司美格速（Megaspeed）高階主管艾莉絲．黃（Alice Huang），意圖滲透輝達（NVIDIA），主要目標為執行長黃仁勳（Jensen Huang）。據稱，中國情報機構試圖透過艾莉絲．黃，刺探美國AI晶片相關情報，並可能施壓輝達，使其最先進的AI晶片能出口至中國。艾莉絲．黃不僅與輝達有業務往來，也據傳與技嘉（Gigabyte）等AI晶片產業高層建立關係，讓此案情更顯複雜。此事件再次突顯地緣政治下，半導體與AI技術競爭的敏感性。",
-      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "publishedAt": "2026-11-06T23:00:44.000Z",
-      "score": 98,
+      "originalTitle": "Apple is racing to make Siri more agentic",
+      "translatedTitle": "蘋果積極打造Siri智慧助理功能",
+      "summaryZh": "據彭博報導，蘋果執行長John Ternus正施壓AI負責人Craig Federighi，要求加速Siri的AI發展藍圖，目標是打造出能與OpenAI等競爭對手匹敵的強大智慧助理。儘管Federighi已在短時間內推出Siri的初步AI功能，但蘋果內部仍認知其進度落後。未來數月Siri預計將迎來兩大重要改進，其中一項將賦予Siri對蘋果自家應用程式更細膩的控制能力，例如在「照片」App中進行圖片旋轉、裁切，以及整理Safari分頁等。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "publishedAt": "2026-11-08T19:18:19.000Z",
+      "score": 96,
+      "tags": [
+        "AI",
+        "Apple",
+        "Siri"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "The Verge",
+      "originalTitle": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "translatedTitle": "NVIDIA執行長黃仁勳捲入醜聞：因與中國AI高層關係遭調查，並承認婚外情",
+      "summaryZh": "NVIDIA執行長黃仁勳（Jensen Huang）近日傳出捲入醜聞，公司已針對他與一名中國政府AI高階主管Alice Huang的關係啟動內部調查。NVIDIA董事會正在審視此案。同時，黃仁勳也向全體員工發布內部信函，坦承自己對妻子不忠，並為此向家人及所有NVIDIA同仁致上最深的歉意。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "publishedAt": "2026-11-08T22:54:50.000Z",
+      "score": 88,
       "tags": [
         "AI",
         "NVIDIA"
       ]
     },
     {
-      "rank": 2,
-      "source": "The Verge",
-      "originalTitle": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-      "translatedTitle": "Meta Muse AI推出「空間」功能，打造個人化應用體驗",
-      "summaryZh": "Meta旗下的AI助理Muse近日推出「空間」（spaces）新功能。此功能讓使用者能透過描述，在Muse應用程式內打造個人化的「應用體驗」，例如購物專區、學校儀表板或音樂追蹤器等。這些「空間」能與Gmail、Google Calendar、OpenTable、Notion等外部應用程式串聯。Muse的AI助理將持續從這些外部服務中擷取資訊，確保「空間」內的價格、日期等內容即時更新，提供更便利的互動。",
-      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "publishedAt": "2026-11-06T18:10:10.000Z",
-      "score": 73,
-      "tags": [
-        "AI",
-        "Meta"
-      ]
-    },
-    {
       "rank": 3,
-      "source": "TechCrunch",
-      "originalTitle": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "translatedTitle": "Meta 推出 Spaces，為其 AI 助理 Muse 帶來全新協作模式",
-      "summaryZh": "Meta 持續強化旗下 AI 助理 Muse 的功能與整合。近日，Meta 發表了全新服務「Spaces」，旨在提供使用者與 Muse AI 助理更具效率的協作模式。Spaces 的導入，代表 Muse 助理將能以新穎的方式，協助用戶進行互動與任務處理，進一步拓展其應用範疇。此舉彰顯 Meta 在 AI 助手領域的積極佈局，致力於提升使用者體驗。",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "publishedAt": "2026-11-06T18:44:20.000Z",
-      "score": 69,
+      "source": "The Verge",
+      "originalTitle": "Chatbots might be coming to Apple’s HomeView",
+      "translatedTitle": "Apple HomeView 有望整合 AI 聊天機器人，iOS 27.3 Beta 揭示新功能",
+      "summaryZh": "根據外媒報導，Apple 最新釋出的 iOS 27.3 beta 版本程式碼顯示，其智慧家庭平台 HomeView 未來可能支援 AI 聊天機器人功能。程式碼中出現了「對話式應用程式 (Conversational Apps)」類別的標誌，暗示未來可望整合 ChatGPT 或 Claude 等生成式 AI 服務，讓用戶能透過 HomeView 與 AI 進行互動。此外，該 beta 版本也導入了雙向音訊路由與會話管理功能，並強化了防詐騙保護機制，要求用戶在三次失敗嘗試後，需透過 iPhone 進行身份驗證，以確保裝置安全。",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "publishedAt": "2026-11-08T15:00:30.000Z",
+      "score": 84,
       "tags": [
         "AI",
-        "Meta"
+        "Apple"
       ]
     },
     {
       "rank": 4,
-      "source": "Ars Technica",
-      "originalTitle": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "translatedTitle": "區塊鏈分析公司 Chainalysis 證實所有客戶憑證與令牌遭竊，攻擊手法驚見 AI 代理人",
-      "summaryZh": "區塊鏈分析公司 Chainalysis 近日證實，其遭遇了一場「多面向網路攻擊」，導致所有客戶的帳號憑證與存取令牌（tokens）遭到駭客竊取。該公司指出，此次攻擊手法包含利用「AI 代理人」及「路徑資料竊取」（on-path data snatch）等高階技術。這起資安事件可能對全球區塊鏈相關業者構成嚴重威脅，凸顯了人工智慧在網路攻擊中日益重要的角色。Chainalysis 表示已展開調查並通知受影響客戶。",
-      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-      "publishedAt": "2026-11-06T20:56:41.000Z",
-      "score": 61,
+      "source": "The Verge",
+      "originalTitle": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "translatedTitle": "NVIDIA 調查執行長黃仁勳與中國間諜關係",
+      "summaryZh": "繪圖晶片大廠 NVIDIA 近日宣布，已針對執行長黃仁勳與 Megaspeed 高層 Alice Huang 的關係，啟動獨立調查。據報導，Alice Huang 涉嫌被中國國家安全部招募為間諜，企圖刺探 NVIDIA 內部資訊。NVIDIA 董事會已成立獨立委員會，並由外部法律顧問協助，以確保調查公正性。聲明強調，美國國家與經濟安全是首要考量，此事件也再次突顯美中科技競爭下的資安敏感性。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "publishedAt": "2026-11-08T20:22:39.000Z",
+      "score": 66,
       "tags": [
-        "資安",
-        "網路攻擊",
-        "資料外洩",
-        "區塊鏈",
-        "AI"
+        "AI",
+        "NVIDIA"
       ]
     },
     {
       "rank": 5,
-      "source": "The Verge",
-      "originalTitle": "Lame-duck Congress might actually do something: speed up energy projects",
-      "translatedTitle": "美國能源許可法案加速 AI 資料中心發展，環保疑慮浮現",
-      "summaryZh": "美國國會正推動一項大規模的能源許可法案，旨在加速能源專案的批准與上線，目標是降低美國民眾的電費。此法案雖可望促進潔淨能源發展，但也引發擔憂，可能讓污染性專案加速，並限制對新資料中心的監督。隨著AI應用導致資料中心對電力需求劇增，環保倡議者憂慮開發商可能利用此改革規避公眾審查，並更依賴化石燃料。該法案為求效率犧牲謹慎，恐限縮環境審查，並降低社區阻止專案的能力。",
-      "url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
-      "publishedAt": "2026-11-06T18:42:30.000Z",
-      "score": 61,
+      "source": "TechCrunch",
+      "originalTitle": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "translatedTitle": "NVIDIA 將調查執行長黃仁勳與疑似中國間諜的關係",
+      "summaryZh": "NVIDIA 驚傳高層醜聞，執行長黃仁勳（Jensen Huang）因被指與一名「疑似中國間諜」有關係，公司已啟動內部調查。根據一份向公司內部發出的備忘錄，黃仁勳本人已坦承涉及「婚外情」。此事件已引發業界高度關注，NVIDIA 正審慎評估這項個人行為可能帶來的潛在影響，尤其是在地緣政治敏感的背景下。",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "publishedAt": "2026-11-08T21:00:11.000Z",
+      "score": 65,
       "tags": [
         "AI",
-        "能源政策"
+        "NVIDIA",
+        "Jensen Huang"
       ]
     }
   ]

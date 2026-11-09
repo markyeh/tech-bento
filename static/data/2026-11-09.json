@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T09:25:40+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "Apple is racing to make Siri more agentic",
+      "translatedTitle": "蘋果積極打造Siri智慧助理功能",
+      "summaryZh": "據彭博報導，蘋果執行長John Ternus正施壓AI負責人Craig Federighi，要求加速Siri的AI發展藍圖，目標是打造出能與OpenAI等競爭對手匹敵的強大智慧助理。儘管Federighi已在短時間內推出Siri的初步AI功能，但蘋果內部仍認知其進度落後。未來數月Siri預計將迎來兩大重要改進，其中一項將賦予Siri對蘋果自家應用程式更細膩的控制能力，例如在「照片」App中進行圖片旋轉、裁切，以及整理Safari分頁等。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "publishedAt": "2026-11-08T19:18:19.000Z",
+      "score": 96,
+      "tags": [
+        "AI",
+        "Apple",
+        "Siri"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "The Verge",
+      "originalTitle": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "translatedTitle": "NVIDIA執行長黃仁勳捲入醜聞：因與中國AI高層關係遭調查，並承認婚外情",
+      "summaryZh": "NVIDIA執行長黃仁勳（Jensen Huang）近日傳出捲入醜聞，公司已針對他與一名中國政府AI高階主管Alice Huang的關係啟動內部調查。NVIDIA董事會正在審視此案。同時，黃仁勳也向全體員工發布內部信函，坦承自己對妻子不忠，並為此向家人及所有NVIDIA同仁致上最深的歉意。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "publishedAt": "2026-11-08T22:54:50.000Z",
+      "score": 88,
+      "tags": [
+        "AI",
+        "NVIDIA"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Chatbots might be coming to Apple’s HomeView",
+      "translatedTitle": "Apple HomeView 有望整合 AI 聊天機器人，iOS 27.3 Beta 揭示新功能",
+      "summaryZh": "根據外媒報導，Apple 最新釋出的 iOS 27.3 beta 版本程式碼顯示，其智慧家庭平台 HomeView 未來可能支援 AI 聊天機器人功能。程式碼中出現了「對話式應用程式 (Conversational Apps)」類別的標誌，暗示未來可望整合 ChatGPT 或 Claude 等生成式 AI 服務，讓用戶能透過 HomeView 與 AI 進行互動。此外，該 beta 版本也導入了雙向音訊路由與會話管理功能，並強化了防詐騙保護機制，要求用戶在三次失敗嘗試後，需透過 iPhone 進行身份驗證，以確保裝置安全。",
+      "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "publishedAt": "2026-11-08T15:00:30.000Z",
+      "score": 84,
+      "tags": [
+        "AI",
+        "Apple"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "The Verge",
+      "originalTitle": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "translatedTitle": "NVIDIA 調查執行長黃仁勳與中國間諜關係",
+      "summaryZh": "繪圖晶片大廠 NVIDIA 近日宣布，已針對執行長黃仁勳與 Megaspeed 高層 Alice Huang 的關係，啟動獨立調查。據報導，Alice Huang 涉嫌被中國國家安全部招募為間諜，企圖刺探 NVIDIA 內部資訊。NVIDIA 董事會已成立獨立委員會，並由外部法律顧問協助，以確保調查公正性。聲明強調，美國國家與經濟安全是首要考量，此事件也再次突顯美中科技競爭下的資安敏感性。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "publishedAt": "2026-11-08T20:22:39.000Z",
+      "score": 66,
+      "tags": [
+        "AI",
+        "NVIDIA"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "TechCrunch",
+      "originalTitle": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "translatedTitle": "NVIDIA 將調查執行長黃仁勳與疑似中國間諜的關係",
+      "summaryZh": "NVIDIA 驚傳高層醜聞，執行長黃仁勳（Jensen Huang）因被指與一名「疑似中國間諜」有關係，公司已啟動內部調查。根據一份向公司內部發出的備忘錄，黃仁勳本人已坦承涉及「婚外情」。此事件已引發業界高度關注，NVIDIA 正審慎評估這項個人行為可能帶來的潛在影響，尤其是在地緣政治敏感的背景下。",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "publishedAt": "2026-11-08T21:00:11.000Z",
+      "score": 65,
+      "tags": [
+        "AI",
+        "NVIDIA",
+        "Jensen Huang"
+      ]
+    }
+  ]
+}
