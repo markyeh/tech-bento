@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/11/09</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/11/09 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>Anthropic 發表新版 Claude Fable 與 Mythos 5.2 模型</h2>
+        <p>AI 公司 Anthropic 近期正式發表兩款新版 AI 模型：Claude Fable 5.2 與 Claude Mythos 5.2。這兩款模型專為應對「艱鉅」技術挑戰而設計，宣稱在程式編碼、邏輯推理和視覺辨識能力上皆有顯著提升，且生成速度超越前一代 5.1 版本。其中，Claude Fable 5.2 特別擅長處理複雜的軟體工程問題，能協調代理團隊並執行長期專案，甚至已成功解決兩個開放的理論物理難題，展現其強大的解決問題能力。</p>
+        <div class="tags"><span>AI</span><span>Anthropic</span><span>Claude</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/11/10 03:00</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>AI助氣候變遷引熱議：全球承諾遭批「殘酷玩笑」</h2>
+        <p>聯合國第31屆氣候變遷大會（COP31）於2026年11月在土耳其安塔利亞舉行，逾190個國家代表參與。會議預計提出「安塔利亞人工智慧承諾」，旨在利用AI技術協助氣候變遷應對。然而，科技媒體《The Verge》對此表達強烈質疑，直言這項全球承諾是個「殘酷的玩笑」。報導指出，儘管推動AI應用於環保立意良善，但面對AI技術龐大的能源消耗與環境足跡，此類承諾的實質效益與背後諷刺性引人深思。</p>
+        <div class="tags"><span>AI</span><span>氣候變遷</span><span>COP31</span><span>聯合國</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/11/10 05:13</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>NVIDIA執行長婚外情疑涉中國情報滲透，引發國安疑慮</h2>
+        <p>NVIDIA執行長黃仁勳（Jensen Huang）近日傳出婚外情，該公司已證實並啟動內部調查。根據Ars Technica報導，調查重點在於中國情報機構是否利用黃仁勳的私人關係，試圖對NVIDIA進行滲透或獲取機密資訊。由於NVIDIA在全球AI晶片供應鏈中扮演關鍵角色，其技術領先地位攸關國防與經濟戰略，這起事件已從個人私事迅速演變為一場潛在的國家安全危機，引發外界高度關注。</p>
+        <div class="tags"><span>AI</span><span>NVIDIA</span><span>國家安全</span><span>情報</span></div>
+        <div class="meta">
+          <span>來源：Ars Technica</span>
+          <span>發布時間：2026/11/09 23:23</span>
+        </div>
+        <a class="read-link" href="https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>川普對 NVIDIA 黃仁勳事件的回應</h2>
+        <p>NVIDIA 執行長 Jensen Huang 近期承認對婚姻不忠，公司已啟動內部調查。此事件與他疑似和一名被指為中國間諜的 Alice Huang 有染有關。據《紐約時報》報導，美國前總統 Trump 早在約一年前，即相關資訊公開前，便已接獲情報部門簡報，得知 Huang 與該名可疑間諜的關係。Trump 在近日的白宮記者會上，也針對他對 Jensen Huang 此事的了解，向媒體作出回應。</p>
+        <div class="tags"><span>NVIDIA</span><span>黃仁勳</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/11/10 07:47</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>AI賦能特殊化學品產業創新</h2>
+        <p>科技業者正積極將AI、雲端運算與進階建模技術導入特殊化學品產業，以加速創新。然而，主要挑戰在於如何有效整合這些新科技與可靠數據、科學專業知識及實際上市需求。以特殊化學品製造商Lubrizol為例，其數位轉型策略旨在提供研究人員更完善的工具，以更快速度測試想法，並做出更精準的決策，從而提升研發效率與產品上市速度。</p>
+        <div class="tags"><span>AI</span><span>特殊化學品</span></div>
+        <div class="meta">
+          <span>來源：MIT Technology Review</span>
+          <span>發布時間：2026/11/09 21:00</span>
+        </div>
+        <a class="read-link" href="https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>

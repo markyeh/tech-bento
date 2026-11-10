@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T11:57:54+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "translatedTitle": "Anthropic 發表新版 Claude Fable 與 Mythos 5.2 模型",
+      "summaryZh": "AI 公司 Anthropic 近期正式發表兩款新版 AI 模型：Claude Fable 5.2 與 Claude Mythos 5.2。這兩款模型專為應對「艱鉅」技術挑戰而設計，宣稱在程式編碼、邏輯推理和視覺辨識能力上皆有顯著提升，且生成速度超越前一代 5.1 版本。其中，Claude Fable 5.2 特別擅長處理複雜的軟體工程問題，能協調代理團隊並執行長期專案，甚至已成功解決兩個開放的理論物理難題，展現其強大的解決問題能力。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "publishedAt": "2026-11-09T19:00:00.000Z",
+      "score": 85,
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Claude"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "The Verge",
+      "originalTitle": "The global pledge to use AI for climate good is a cruel joke",
+      "translatedTitle": "AI助氣候變遷引熱議：全球承諾遭批「殘酷玩笑」",
+      "summaryZh": "聯合國第31屆氣候變遷大會（COP31）於2026年11月在土耳其安塔利亞舉行，逾190個國家代表參與。會議預計提出「安塔利亞人工智慧承諾」，旨在利用AI技術協助氣候變遷應對。然而，科技媒體《The Verge》對此表達強烈質疑，直言這項全球承諾是個「殘酷的玩笑」。報導指出，儘管推動AI應用於環保立意良善，但面對AI技術龐大的能源消耗與環境足跡，此類承諾的實質效益與背後諷刺性引人深思。",
+      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+      "publishedAt": "2026-11-09T21:13:16.000Z",
+      "score": 79,
+      "tags": [
+        "AI",
+        "氣候變遷",
+        "COP31",
+        "聯合國"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "Ars Technica",
+      "originalTitle": "Nvidia CEO's affair becomes a national security problem",
+      "translatedTitle": "NVIDIA執行長婚外情疑涉中國情報滲透，引發國安疑慮",
+      "summaryZh": "NVIDIA執行長黃仁勳（Jensen Huang）近日傳出婚外情，該公司已證實並啟動內部調查。根據Ars Technica報導，調查重點在於中國情報機構是否利用黃仁勳的私人關係，試圖對NVIDIA進行滲透或獲取機密資訊。由於NVIDIA在全球AI晶片供應鏈中扮演關鍵角色，其技術領先地位攸關國防與經濟戰略，這起事件已從個人私事迅速演變為一場潛在的國家安全危機，引發外界高度關注。",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "publishedAt": "2026-11-09T15:23:20.000Z",
+      "score": 78,
+      "tags": [
+        "AI",
+        "NVIDIA",
+        "國家安全",
+        "情報"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "The Verge",
+      "originalTitle": "Here’s what Trump said he knew about Jensen Huang",
+      "translatedTitle": "川普對 NVIDIA 黃仁勳事件的回應",
+      "summaryZh": "NVIDIA 執行長 Jensen Huang 近期承認對婚姻不忠，公司已啟動內部調查。此事件與他疑似和一名被指為中國間諜的 Alice Huang 有染有關。據《紐約時報》報導，美國前總統 Trump 早在約一年前，即相關資訊公開前，便已接獲情報部門簡報，得知 Huang 與該名可疑間諜的關係。Trump 在近日的白宮記者會上，也針對他對 Jensen Huang 此事的了解，向媒體作出回應。",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "publishedAt": "2026-11-09T23:47:46.000Z",
+      "score": 77,
+      "tags": [
+        "NVIDIA",
+        "黃仁勳"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "MIT Technology Review",
+      "originalTitle": "Innovating with AI in the special chemicals industry",
+      "translatedTitle": "AI賦能特殊化學品產業創新",
+      "summaryZh": "科技業者正積極將AI、雲端運算與進階建模技術導入特殊化學品產業，以加速創新。然而，主要挑戰在於如何有效整合這些新科技與可靠數據、科學專業知識及實際上市需求。以特殊化學品製造商Lubrizol為例，其數位轉型策略旨在提供研究人員更完善的工具，以更快速度測試想法，並做出更精準的決策，從而提升研發效率與產品上市速度。",
+      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "score": 70,
+      "tags": [
+        "AI",
+        "特殊化學品"
+      ]
+    }
+  ]
+}
