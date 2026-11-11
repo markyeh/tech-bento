@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T09:42:49+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "TechCrunch",
+      "originalTitle": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "translatedTitle": "OpenAI 為 ChatGPT 推出新「企業檔案」功能，朝 Google 探索模式邁進",
+      "summaryZh": "OpenAI 近期為其 AI 聊天機器人 ChatGPT 推出全新的「企業檔案」（business profiles）功能。此舉旨在將 ChatGPT 打造為更強大的「消費者探索引擎」，使其在特定方面更接近 Google 的搜尋模式。透過這些新功能，OpenAI 賦予企業更多機會，讓其產品、服務或內容能更容易被 ChatGPT 用戶發現。這顯示 OpenAI 正積極擴展 ChatGPT 的應用廣度，期望它不僅是資訊問答工具，也能成為用戶尋找商業資訊與進行探索的重要平台。",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "publishedAt": "2026-11-10T18:49:52.000Z",
+      "score": 87,
+      "tags": [
+        "AI",
+        "OpenAI",
+        "ChatGPT"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "Ars Technica",
+      "originalTitle": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "translatedTitle": "「Ring 攝影機」行動化！Amazon 發表 AI 智慧保全無人機與機器人",
+      "summaryZh": "Amazon 近期預告將透過旗下 Ring Robotics 品牌，推出具備 AI 技術的行動保全無人機與機器人。這項創新旨在將現有的 Ring 攝影機概念進一步行動化，使其能夠在使用者環境中巡邏，提供更全面的安全監控。這些搭載 AI 的安全設備預計將於 2026 年底至 2027 年初陸續上市，有望為智慧家庭保全市場帶來新變革。",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "publishedAt": "2026-11-10T22:35:01.000Z",
+      "score": 85,
+      "tags": [
+        "AI",
+        "Amazon",
+        "Ring",
+        "智慧保全",
+        "機器人",
+        "無人機"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "TechCrunch",
+      "originalTitle": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "translatedTitle": "紐約州AI安全法規生效，OpenAI、Anthropic等業者面臨新監管",
+      "summaryZh": "紐約州正準備正式實施其全面的AI安全法規，要求 OpenAI、Anthropic 等主要 AI 開發商註冊並公開安全措施，同時須通報重大事故。違者將面臨罰鍰。這項法規旨在強化AI技術的監管，確保其發展符合公共安全規範。",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "publishedAt": "2026-11-10T20:52:13.000Z",
+      "score": 77,
+      "tags": [
+        "AI",
+        "法規"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "TechCrunch",
+      "originalTitle": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "translatedTitle": "Meta AI 助理 Muse 登陸 Apple Watch 與 Wear OS 智慧手錶",
+      "summaryZh": "Meta 的 AI 助理「Muse」近日正式在 Apple Watch 和 Android Wear OS 智慧手錶上線，大幅擴展其服務範圍。智慧手錶使用者現在可以直接透過語音通話、文字訊息，或使用語音輸入（聽寫）的方式，輕鬆與 Muse 進行互動。此更新讓使用者無需拿出手機，即可在手腕上體驗 AI 助理的便利性，展現 Meta 在跨平台整合的積極佈局。",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "publishedAt": "2026-11-10T15:29:30.000Z",
+      "score": 76,
+      "tags": [
+        "AI",
+        "Meta",
+        "智慧手錶"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "The Verge",
+      "originalTitle": "The US is winning the AI race. Jensen Huang could have blown it",
+      "translatedTitle": "黃仁勳桃色風暴恐動搖美國 AI 領導地位",
+      "summaryZh": "NVIDIA 執行長黃仁勳日前驚傳與一名疑似中國間諜的女性發生關係，且據報在戀情期間，該女子早已被美國情報單位及前總統川普掌握其間諜身份。此事件引發美國各界震驚，因為黃仁勳領導的 NVIDIA 掌握了推動全球 AI 浪潮的關鍵技術，專家擔憂這起桃色風暴恐將對美國在 AI 競賽中的領先地位構成國家安全威脅，影響深遠。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "publishedAt": "2026-11-10T19:04:05.000Z",
+      "score": 74,
+      "tags": [
+        "AI",
+        "NVIDIA"
+      ]
+    }
+  ]
+}

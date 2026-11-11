@@ -1,80 +1,81 @@
 {
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T11:57:54+08:00",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T09:42:49+08:00",
   "items": [
     {
       "rank": 1,
-      "source": "The Verge",
-      "originalTitle": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "translatedTitle": "Anthropic 發表新版 Claude Fable 與 Mythos 5.2 模型",
-      "summaryZh": "AI 公司 Anthropic 近期正式發表兩款新版 AI 模型：Claude Fable 5.2 與 Claude Mythos 5.2。這兩款模型專為應對「艱鉅」技術挑戰而設計，宣稱在程式編碼、邏輯推理和視覺辨識能力上皆有顯著提升，且生成速度超越前一代 5.1 版本。其中，Claude Fable 5.2 特別擅長處理複雜的軟體工程問題，能協調代理團隊並執行長期專案，甚至已成功解決兩個開放的理論物理難題，展現其強大的解決問題能力。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "publishedAt": "2026-11-09T19:00:00.000Z",
-      "score": 85,
+      "source": "TechCrunch",
+      "originalTitle": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "translatedTitle": "OpenAI 為 ChatGPT 推出新「企業檔案」功能，朝 Google 探索模式邁進",
+      "summaryZh": "OpenAI 近期為其 AI 聊天機器人 ChatGPT 推出全新的「企業檔案」（business profiles）功能。此舉旨在將 ChatGPT 打造為更強大的「消費者探索引擎」，使其在特定方面更接近 Google 的搜尋模式。透過這些新功能，OpenAI 賦予企業更多機會，讓其產品、服務或內容能更容易被 ChatGPT 用戶發現。這顯示 OpenAI 正積極擴展 ChatGPT 的應用廣度，期望它不僅是資訊問答工具，也能成為用戶尋找商業資訊與進行探索的重要平台。",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "publishedAt": "2026-11-10T18:49:52.000Z",
+      "score": 87,
       "tags": [
         "AI",
-        "Anthropic",
-        "Claude"
+        "OpenAI",
+        "ChatGPT"
       ]
     },
     {
       "rank": 2,
-      "source": "The Verge",
-      "originalTitle": "The global pledge to use AI for climate good is a cruel joke",
-      "translatedTitle": "AI助氣候變遷引熱議：全球承諾遭批「殘酷玩笑」",
-      "summaryZh": "聯合國第31屆氣候變遷大會（COP31）於2026年11月在土耳其安塔利亞舉行，逾190個國家代表參與。會議預計提出「安塔利亞人工智慧承諾」，旨在利用AI技術協助氣候變遷應對。然而，科技媒體《The Verge》對此表達強烈質疑，直言這項全球承諾是個「殘酷的玩笑」。報導指出，儘管推動AI應用於環保立意良善，但面對AI技術龐大的能源消耗與環境足跡，此類承諾的實質效益與背後諷刺性引人深思。",
-      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
-      "publishedAt": "2026-11-09T21:13:16.000Z",
-      "score": 79,
+      "source": "Ars Technica",
+      "originalTitle": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "translatedTitle": "「Ring 攝影機」行動化！Amazon 發表 AI 智慧保全無人機與機器人",
+      "summaryZh": "Amazon 近期預告將透過旗下 Ring Robotics 品牌，推出具備 AI 技術的行動保全無人機與機器人。這項創新旨在將現有的 Ring 攝影機概念進一步行動化，使其能夠在使用者環境中巡邏，提供更全面的安全監控。這些搭載 AI 的安全設備預計將於 2026 年底至 2027 年初陸續上市，有望為智慧家庭保全市場帶來新變革。",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "publishedAt": "2026-11-10T22:35:01.000Z",
+      "score": 85,
       "tags": [
         "AI",
-        "氣候變遷",
-        "COP31",
-        "聯合國"
+        "Amazon",
+        "Ring",
+        "智慧保全",
+        "機器人",
+        "無人機"
       ]
     },
     {
       "rank": 3,
-      "source": "Ars Technica",
-      "originalTitle": "Nvidia CEO's affair becomes a national security problem",
-      "translatedTitle": "NVIDIA執行長婚外情疑涉中國情報滲透，引發國安疑慮",
-      "summaryZh": "NVIDIA執行長黃仁勳（Jensen Huang）近日傳出婚外情，該公司已證實並啟動內部調查。根據Ars Technica報導，調查重點在於中國情報機構是否利用黃仁勳的私人關係，試圖對NVIDIA進行滲透或獲取機密資訊。由於NVIDIA在全球AI晶片供應鏈中扮演關鍵角色，其技術領先地位攸關國防與經濟戰略，這起事件已從個人私事迅速演變為一場潛在的國家安全危機，引發外界高度關注。",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-      "publishedAt": "2026-11-09T15:23:20.000Z",
-      "score": 78,
+      "source": "TechCrunch",
+      "originalTitle": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "translatedTitle": "紐約州AI安全法規生效，OpenAI、Anthropic等業者面臨新監管",
+      "summaryZh": "紐約州正準備正式實施其全面的AI安全法規，要求 OpenAI、Anthropic 等主要 AI 開發商註冊並公開安全措施，同時須通報重大事故。違者將面臨罰鍰。這項法規旨在強化AI技術的監管，確保其發展符合公共安全規範。",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "publishedAt": "2026-11-10T20:52:13.000Z",
+      "score": 77,
       "tags": [
         "AI",
-        "NVIDIA",
-        "國家安全",
-        "情報"
+        "法規"
       ]
     },
     {
       "rank": 4,
-      "source": "The Verge",
-      "originalTitle": "Here’s what Trump said he knew about Jensen Huang",
-      "translatedTitle": "川普對 NVIDIA 黃仁勳事件的回應",
-      "summaryZh": "NVIDIA 執行長 Jensen Huang 近期承認對婚姻不忠，公司已啟動內部調查。此事件與他疑似和一名被指為中國間諜的 Alice Huang 有染有關。據《紐約時報》報導，美國前總統 Trump 早在約一年前，即相關資訊公開前，便已接獲情報部門簡報，得知 Huang 與該名可疑間諜的關係。Trump 在近日的白宮記者會上，也針對他對 Jensen Huang 此事的了解，向媒體作出回應。",
-      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "publishedAt": "2026-11-09T23:47:46.000Z",
-      "score": 77,
+      "source": "TechCrunch",
+      "originalTitle": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "translatedTitle": "Meta AI 助理 Muse 登陸 Apple Watch 與 Wear OS 智慧手錶",
+      "summaryZh": "Meta 的 AI 助理「Muse」近日正式在 Apple Watch 和 Android Wear OS 智慧手錶上線，大幅擴展其服務範圍。智慧手錶使用者現在可以直接透過語音通話、文字訊息，或使用語音輸入（聽寫）的方式，輕鬆與 Muse 進行互動。此更新讓使用者無需拿出手機，即可在手腕上體驗 AI 助理的便利性，展現 Meta 在跨平台整合的積極佈局。",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "publishedAt": "2026-11-10T15:29:30.000Z",
+      "score": 76,
       "tags": [
-        "NVIDIA",
-        "黃仁勳"
+        "AI",
+        "Meta",
+        "智慧手錶"
       ]
     },
     {
       "rank": 5,
-      "source": "MIT Technology Review",
-      "originalTitle": "Innovating with AI in the special chemicals industry",
-      "translatedTitle": "AI賦能特殊化學品產業創新",
-      "summaryZh": "科技業者正積極將AI、雲端運算與進階建模技術導入特殊化學品產業，以加速創新。然而，主要挑戰在於如何有效整合這些新科技與可靠數據、科學專業知識及實際上市需求。以特殊化學品製造商Lubrizol為例，其數位轉型策略旨在提供研究人員更完善的工具，以更快速度測試想法，並做出更精準的決策，從而提升研發效率與產品上市速度。",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
-      "publishedAt": "2026-11-09T13:00:00.000Z",
-      "score": 70,
+      "source": "The Verge",
+      "originalTitle": "The US is winning the AI race. Jensen Huang could have blown it",
+      "translatedTitle": "黃仁勳桃色風暴恐動搖美國 AI 領導地位",
+      "summaryZh": "NVIDIA 執行長黃仁勳日前驚傳與一名疑似中國間諜的女性發生關係，且據報在戀情期間，該女子早已被美國情報單位及前總統川普掌握其間諜身份。此事件引發美國各界震驚，因為黃仁勳領導的 NVIDIA 掌握了推動全球 AI 浪潮的關鍵技術，專家擔憂這起桃色風暴恐將對美國在 AI 競賽中的領先地位構成國家安全威脅，影響深遠。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "publishedAt": "2026-11-10T19:04:05.000Z",
+      "score": 74,
       "tags": [
         "AI",
-        "特殊化學品"
+        "NVIDIA"
       ]
     }
   ]
