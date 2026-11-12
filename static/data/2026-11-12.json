@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T10:41:31+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "Ars Technica",
+      "originalTitle": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "translatedTitle": "台積電斥資10億美元投資AI新創Anthropic與OpenAI",
+      "summaryZh": "台灣晶圓代工龍頭台積電（TSMC）近期宣布，將對兩家領先的生成式AI新創公司Anthropic和OpenAI合計投入10億美元資金。這項策略性投資不僅彰顯了當前AI產業中，上游半導體供應商與下游AI應用開發商之間日益緊密的資金與技術整合趨勢，也再次凸顯了AI熱潮下的產業鏈循環。儘管AI市場面臨部分波動，台積電此舉仍展現其對AI未來發展的信心，並有望進一步鞏固其在AI生態系中的關鍵地位。",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "publishedAt": "2026-11-11T18:16:40.000Z",
+      "score": 101,
+      "tags": [
+        "AI",
+        "TSMC"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "TechCrunch",
+      "originalTitle": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "translatedTitle": "黃仁勳再傳婚外情，對象是NVIDIA高層",
+      "summaryZh": "NVIDIA執行長黃仁勳近期再次成為媒體焦點。繼日前被指控與一名疑似中國情報人員的女性發展不倫關係後，最新爆料指出，黃仁勳又與NVIDIA內部某位高階主管傳出婚外情。此事再度引發外界對這位AI產業領袖個人行為的議論，恐將影響其形象與公司聲譽。",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "publishedAt": "2026-11-11T23:17:05.000Z",
+      "score": 86,
+      "tags": [
+        "NVIDIA",
+        "AI"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "translatedTitle": "傳NVIDIA將解僱執行長黃仁勳",
+      "summaryZh": "NVIDIA 執行長黃仁勳近期再傳個人風波。繼日前坦承與一名疑為中國間諜的女性有染後，據《紐約時報》報導，他被爆出與其旗下醫療保健副總裁 Kimberly Powell 存在第二段不倫關係。根據《華爾街日報》消息，NVIDIA 董事會預計將於今日召開會議，討論黃仁勳在公司的未來去留。",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "publishedAt": "2026-11-11T22:44:36.000Z",
+      "score": 67,
+      "tags": [
+        "AI",
+        "NVIDIA"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "TechCrunch",
+      "originalTitle": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "translatedTitle": "美國會傳喚NVIDIA執行長黃仁勳 釐清疑似中國間諜案",
+      "summaryZh": "美國國會眾議院共和黨籍議員已要求NVIDIA執行長黃仁勳（Jensen Huang）出席閉門聽證會，針對他與一名疑似中國間諜的關係進行說明。此舉顯示美國對科技業高層與潛在國家安全風險的關注。黃仁勳需在限期前回應國會的傳喚。",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "publishedAt": "2026-11-11T19:22:22.000Z",
+      "score": 62,
+      "tags": [
+        "NVIDIA",
+        "AI"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "TechCrunch",
+      "originalTitle": "The unfolding Jensen Huang scandal: a timeline",
+      "translatedTitle": "NVIDIA 黃仁勳醜聞始末時間軸",
+      "summaryZh": "TechCrunch 報導，NVIDIA 執行長黃仁勳近期捲入一宗備受關注的醜聞。事件核心是黃仁勳與一位「據稱」為中國間諜人士的關係，引發各界譁然。該報導特別指出，這起事件可能對國家安全造成深遠影響，尤其在全球兩大強權美國與中國正積極競逐最先進 AI 基礎設施的關鍵時刻。此爭議不僅讓外界關注 NVIDIA，也突顯美國在 AI 發展上對於敏感技術外流的疑慮。",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publishedAt": "2026-11-11T23:50:00.000Z",
+      "score": 61,
+      "tags": [
+        "AI",
+        "NVIDIA"
+      ]
+    }
+  ]
+}

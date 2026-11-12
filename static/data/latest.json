@@ -1,78 +1,72 @@
 {
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T09:42:49+08:00",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T10:41:31+08:00",
   "items": [
     {
       "rank": 1,
-      "source": "TechCrunch",
-      "originalTitle": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "translatedTitle": "OpenAI 為 ChatGPT 推出新「企業檔案」功能，朝 Google 探索模式邁進",
-      "summaryZh": "OpenAI 近期為其 AI 聊天機器人 ChatGPT 推出全新的「企業檔案」（business profiles）功能。此舉旨在將 ChatGPT 打造為更強大的「消費者探索引擎」，使其在特定方面更接近 Google 的搜尋模式。透過這些新功能，OpenAI 賦予企業更多機會，讓其產品、服務或內容能更容易被 ChatGPT 用戶發現。這顯示 OpenAI 正積極擴展 ChatGPT 的應用廣度，期望它不僅是資訊問答工具，也能成為用戶尋找商業資訊與進行探索的重要平台。",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "publishedAt": "2026-11-10T18:49:52.000Z",
-      "score": 87,
+      "source": "Ars Technica",
+      "originalTitle": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "translatedTitle": "台積電斥資10億美元投資AI新創Anthropic與OpenAI",
+      "summaryZh": "台灣晶圓代工龍頭台積電（TSMC）近期宣布，將對兩家領先的生成式AI新創公司Anthropic和OpenAI合計投入10億美元資金。這項策略性投資不僅彰顯了當前AI產業中，上游半導體供應商與下游AI應用開發商之間日益緊密的資金與技術整合趨勢，也再次凸顯了AI熱潮下的產業鏈循環。儘管AI市場面臨部分波動，台積電此舉仍展現其對AI未來發展的信心，並有望進一步鞏固其在AI生態系中的關鍵地位。",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "publishedAt": "2026-11-11T18:16:40.000Z",
+      "score": 101,
       "tags": [
         "AI",
-        "OpenAI",
-        "ChatGPT"
+        "TSMC"
       ]
     },
     {
       "rank": 2,
-      "source": "Ars Technica",
-      "originalTitle": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "translatedTitle": "「Ring 攝影機」行動化！Amazon 發表 AI 智慧保全無人機與機器人",
-      "summaryZh": "Amazon 近期預告將透過旗下 Ring Robotics 品牌，推出具備 AI 技術的行動保全無人機與機器人。這項創新旨在將現有的 Ring 攝影機概念進一步行動化，使其能夠在使用者環境中巡邏，提供更全面的安全監控。這些搭載 AI 的安全設備預計將於 2026 年底至 2027 年初陸續上市，有望為智慧家庭保全市場帶來新變革。",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "publishedAt": "2026-11-10T22:35:01.000Z",
-      "score": 85,
+      "source": "TechCrunch",
+      "originalTitle": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "translatedTitle": "黃仁勳再傳婚外情，對象是NVIDIA高層",
+      "summaryZh": "NVIDIA執行長黃仁勳近期再次成為媒體焦點。繼日前被指控與一名疑似中國情報人員的女性發展不倫關係後，最新爆料指出，黃仁勳又與NVIDIA內部某位高階主管傳出婚外情。此事再度引發外界對這位AI產業領袖個人行為的議論，恐將影響其形象與公司聲譽。",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "publishedAt": "2026-11-11T23:17:05.000Z",
+      "score": 86,
       "tags": [
-        "AI",
-        "Amazon",
-        "Ring",
-        "智慧保全",
-        "機器人",
-        "無人機"
+        "NVIDIA",
+        "AI"
       ]
     },
     {
       "rank": 3,
-      "source": "TechCrunch",
-      "originalTitle": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-      "translatedTitle": "紐約州AI安全法規生效，OpenAI、Anthropic等業者面臨新監管",
-      "summaryZh": "紐約州正準備正式實施其全面的AI安全法規，要求 OpenAI、Anthropic 等主要 AI 開發商註冊並公開安全措施，同時須通報重大事故。違者將面臨罰鍰。這項法規旨在強化AI技術的監管，確保其發展符合公共安全規範。",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "publishedAt": "2026-11-10T20:52:13.000Z",
-      "score": 77,
+      "source": "The Verge",
+      "originalTitle": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "translatedTitle": "傳NVIDIA將解僱執行長黃仁勳",
+      "summaryZh": "NVIDIA 執行長黃仁勳近期再傳個人風波。繼日前坦承與一名疑為中國間諜的女性有染後，據《紐約時報》報導，他被爆出與其旗下醫療保健副總裁 Kimberly Powell 存在第二段不倫關係。根據《華爾街日報》消息，NVIDIA 董事會預計將於今日召開會議，討論黃仁勳在公司的未來去留。",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "publishedAt": "2026-11-11T22:44:36.000Z",
+      "score": 67,
       "tags": [
         "AI",
-        "法規"
+        "NVIDIA"
       ]
     },
     {
       "rank": 4,
       "source": "TechCrunch",
-      "originalTitle": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "translatedTitle": "Meta AI 助理 Muse 登陸 Apple Watch 與 Wear OS 智慧手錶",
-      "summaryZh": "Meta 的 AI 助理「Muse」近日正式在 Apple Watch 和 Android Wear OS 智慧手錶上線，大幅擴展其服務範圍。智慧手錶使用者現在可以直接透過語音通話、文字訊息，或使用語音輸入（聽寫）的方式，輕鬆與 Muse 進行互動。此更新讓使用者無需拿出手機，即可在手腕上體驗 AI 助理的便利性，展現 Meta 在跨平台整合的積極佈局。",
-      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-      "publishedAt": "2026-11-10T15:29:30.000Z",
-      "score": 76,
+      "originalTitle": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "translatedTitle": "美國會傳喚NVIDIA執行長黃仁勳 釐清疑似中國間諜案",
+      "summaryZh": "美國國會眾議院共和黨籍議員已要求NVIDIA執行長黃仁勳（Jensen Huang）出席閉門聽證會，針對他與一名疑似中國間諜的關係進行說明。此舉顯示美國對科技業高層與潛在國家安全風險的關注。黃仁勳需在限期前回應國會的傳喚。",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "publishedAt": "2026-11-11T19:22:22.000Z",
+      "score": 62,
       "tags": [
-        "AI",
-        "Meta",
-        "智慧手錶"
+        "NVIDIA",
+        "AI"
       ]
     },
     {
       "rank": 5,
-      "source": "The Verge",
-      "originalTitle": "The US is winning the AI race. Jensen Huang could have blown it",
-      "translatedTitle": "黃仁勳桃色風暴恐動搖美國 AI 領導地位",
-      "summaryZh": "NVIDIA 執行長黃仁勳日前驚傳與一名疑似中國間諜的女性發生關係，且據報在戀情期間，該女子早已被美國情報單位及前總統川普掌握其間諜身份。此事件引發美國各界震驚，因為黃仁勳領導的 NVIDIA 掌握了推動全球 AI 浪潮的關鍵技術，專家擔憂這起桃色風暴恐將對美國在 AI 競賽中的領先地位構成國家安全威脅，影響深遠。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-      "publishedAt": "2026-11-10T19:04:05.000Z",
-      "score": 74,
+      "source": "TechCrunch",
+      "originalTitle": "The unfolding Jensen Huang scandal: a timeline",
+      "translatedTitle": "NVIDIA 黃仁勳醜聞始末時間軸",
+      "summaryZh": "TechCrunch 報導，NVIDIA 執行長黃仁勳近期捲入一宗備受關注的醜聞。事件核心是黃仁勳與一位「據稱」為中國間諜人士的關係，引發各界譁然。該報導特別指出，這起事件可能對國家安全造成深遠影響，尤其在全球兩大強權美國與中國正積極競逐最先進 AI 基礎設施的關鍵時刻。此爭議不僅讓外界關注 NVIDIA，也突顯美國在 AI 發展上對於敏感技術外流的疑慮。",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publishedAt": "2026-11-11T23:50:00.000Z",
+      "score": 61,
       "tags": [
         "AI",
         "NVIDIA"
