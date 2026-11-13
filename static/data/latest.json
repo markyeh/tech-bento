@@ -1,72 +1,74 @@
 {
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T10:41:31+08:00",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T10:23:19+08:00",
   "items": [
     {
       "rank": 1,
-      "source": "Ars Technica",
-      "originalTitle": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
-      "translatedTitle": "台積電斥資10億美元投資AI新創Anthropic與OpenAI",
-      "summaryZh": "台灣晶圓代工龍頭台積電（TSMC）近期宣布，將對兩家領先的生成式AI新創公司Anthropic和OpenAI合計投入10億美元資金。這項策略性投資不僅彰顯了當前AI產業中，上游半導體供應商與下游AI應用開發商之間日益緊密的資金與技術整合趨勢，也再次凸顯了AI熱潮下的產業鏈循環。儘管AI市場面臨部分波動，台積電此舉仍展現其對AI未來發展的信心，並有望進一步鞏固其在AI生態系中的關鍵地位。",
-      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
-      "publishedAt": "2026-11-11T18:16:40.000Z",
-      "score": 101,
+      "source": "The Verge",
+      "originalTitle": "Donald Trump really wants Tim Cook to run Nvidia",
+      "translatedTitle": "黃仁勳辭去NVIDIA執行長職位，川普力薦Tim Cook接手",
+      "summaryZh": "美國晶片巨擘 NVIDIA 執行長黃仁勳（Jensen Huang）近日因私人事務請辭，據報導涉及婚外情，其中甚至牽涉一名疑似中國間諜，震驚科技業界。目前公司由財務長暫代執行長一職。然而，前美國總統川普（Donald Trump）已迅速透過社群媒體Truth Social發表意見，公開點名他心目中最適合接掌這家AI晶片龍頭的人選，竟是已於9月1日卸下蘋果（Apple）執行長職務並轉任董事會主席的提姆·庫克（Tim Cook）。川普認為黃仁勳雖表現出色，但現在唯一能勝任NVIDIA新領導者的非庫克莫屬，此番言論立即引發廣泛討論。",
+      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
+      "publishedAt": "2026-11-13T00:46:07.000Z",
+      "score": 89,
       "tags": [
         "AI",
-        "TSMC"
+        "NVIDIA",
+        "Tim Cook",
+        "Donald Trump"
       ]
     },
     {
       "rank": 2,
-      "source": "TechCrunch",
-      "originalTitle": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "translatedTitle": "黃仁勳再傳婚外情，對象是NVIDIA高層",
-      "summaryZh": "NVIDIA執行長黃仁勳近期再次成為媒體焦點。繼日前被指控與一名疑似中國情報人員的女性發展不倫關係後，最新爆料指出，黃仁勳又與NVIDIA內部某位高階主管傳出婚外情。此事再度引發外界對這位AI產業領袖個人行為的議論，恐將影響其形象與公司聲譽。",
-      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "publishedAt": "2026-11-11T23:17:05.000Z",
-      "score": 86,
-      "tags": [
-        "NVIDIA",
-        "AI"
-      ]
-    },
-    {
-      "rank": 3,
-      "source": "The Verge",
-      "originalTitle": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "translatedTitle": "傳NVIDIA將解僱執行長黃仁勳",
-      "summaryZh": "NVIDIA 執行長黃仁勳近期再傳個人風波。繼日前坦承與一名疑為中國間諜的女性有染後，據《紐約時報》報導，他被爆出與其旗下醫療保健副總裁 Kimberly Powell 存在第二段不倫關係。根據《華爾街日報》消息，NVIDIA 董事會預計將於今日召開會議，討論黃仁勳在公司的未來去留。",
-      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-      "publishedAt": "2026-11-11T22:44:36.000Z",
-      "score": 67,
+      "source": "MIT Technology Review",
+      "originalTitle": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "translatedTitle": "NVIDIA 內部證實晶片追蹤可行性，與產業公開質疑聲浪相左",
+      "summaryZh": "輝達（NVIDIA）近期向美國眾議員 Bill Foster 內部證實，技術上可實現晶片追蹤機制，以遏止走私行為。此舉是為因應《晶片安全法案》（Chip Security Act）防堵晶片非法轉運的要求。然而，NVIDIA 此一說法，卻與業界團體公開質疑晶片追蹤措施的可行性形成鮮明對比。",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "publishedAt": "2026-11-12T20:16:24.000Z",
+      "score": 84,
       "tags": [
         "AI",
         "NVIDIA"
       ]
     },
     {
-      "rank": 4,
-      "source": "TechCrunch",
-      "originalTitle": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-      "translatedTitle": "美國會傳喚NVIDIA執行長黃仁勳 釐清疑似中國間諜案",
-      "summaryZh": "美國國會眾議院共和黨籍議員已要求NVIDIA執行長黃仁勳（Jensen Huang）出席閉門聽證會，針對他與一名疑似中國間諜的關係進行說明。此舉顯示美國對科技業高層與潛在國家安全風險的關注。黃仁勳需在限期前回應國會的傳喚。",
-      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-      "publishedAt": "2026-11-11T19:22:22.000Z",
-      "score": 62,
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+      "translatedTitle": "Whoop 推出 Humans 社群平台，主打「心率驗證」杜絕假帳號",
+      "summaryZh": "健身穿戴裝置品牌 Whoop 近日推出名為 Whoop Humans 的全新社群網路平台。此平台最大特色在於，每位用戶的帳號都透過「心率驗證」確保其真實性，目的是打造一個「完全人類」的互動空間。Whoop 用戶可在此分享來自穿戴裝置的生理數據、活動紀錄與成就，並透過「Moments」功能發佈圖文內容，進行留言與互動。Whoop 強調，相較於充斥 AI 與機器人帳號的其他社群平台，Humans 將提供一個更真實、可信賴的社群體驗。其執行長 Will Ahmed 更稱這是「史上最可驗證的人類網路」。",
+      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+      "publishedAt": "2026-11-12T23:43:22.000Z",
+      "score": 83,
       "tags": [
-        "NVIDIA",
-        "AI"
+        "穿戴裝置",
+        "社群平台"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "The Verge",
+      "originalTitle": "Google’s new Gemini model is better at understanding complicated questions",
+      "translatedTitle": "Google 新版 Gemini 模型強化複雜提問解析能力",
+      "summaryZh": "Google 發表其最新大型語言模型 Gemini 4 Hydrogen，強調在複雜問題理解方面有顯著突破。這款模型能精準解析多重提問、難辨錯字及高度特定要求，並拆解問題各部分後給予詳盡回應。即日起，Gemini 4 Hydrogen 已導入 Google 搜尋（作為 AI 模式預設模型及 AI 總覽處理困難問題的核心）、Gemini 應用程式、Google AI Studio、Gemini API、Gemini for business，以及 Google Antigravity 服務（限 Google AI Pro 與 Ultra 訂閱戶）。Google 搜尋產品副總裁 Robby Ste",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "publishedAt": "2026-11-12T21:55:32.000Z",
+      "score": 76,
+      "tags": [
+        "AI",
+        "Google"
       ]
     },
     {
       "rank": 5,
       "source": "TechCrunch",
       "originalTitle": "The unfolding Jensen Huang scandal: a timeline",
-      "translatedTitle": "NVIDIA 黃仁勳醜聞始末時間軸",
-      "summaryZh": "TechCrunch 報導，NVIDIA 執行長黃仁勳近期捲入一宗備受關注的醜聞。事件核心是黃仁勳與一位「據稱」為中國間諜人士的關係，引發各界譁然。該報導特別指出，這起事件可能對國家安全造成深遠影響，尤其在全球兩大強權美國與中國正積極競逐最先進 AI 基礎設施的關鍵時刻。此爭議不僅讓外界關注 NVIDIA，也突顯美國在 AI 發展上對於敏感技術外流的疑慮。",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "publishedAt": "2026-11-11T23:50:00.000Z",
-      "score": 61,
+      "translatedTitle": "NVIDIA 黃仁勳醜聞案延燒：事件時間軸",
+      "summaryZh": "NVIDIA執行長黃仁勳（Jensen Huang）近日因爆發外遇醜聞，宣布辭去執行長一職。這項突如其來的消息，已引發國家安全疑慮，尤其是在美中兩大強權爭奪AI基礎建設領先地位的關鍵時刻。更引人關注的是，外傳此醜聞涉及一名疑為中國間諜的人士，使事件複雜度急遽升高。此舉恐為NVIDIA及其在全球AI晶片霸主地位投下震撼彈，並對全球AI產業發展埋下深遠的不確定性。",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "publishedAt": "2026-11-12T21:35:00.000Z",
+      "score": 74,
       "tags": [
         "AI",
         "NVIDIA"
