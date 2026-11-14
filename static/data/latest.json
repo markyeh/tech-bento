@@ -1,74 +1,80 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T10:23:19+08:00",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T09:58:48+08:00",
   "items": [
     {
       "rank": 1,
       "source": "The Verge",
-      "originalTitle": "Donald Trump really wants Tim Cook to run Nvidia",
-      "translatedTitle": "黃仁勳辭去NVIDIA執行長職位，川普力薦Tim Cook接手",
-      "summaryZh": "美國晶片巨擘 NVIDIA 執行長黃仁勳（Jensen Huang）近日因私人事務請辭，據報導涉及婚外情，其中甚至牽涉一名疑似中國間諜，震驚科技業界。目前公司由財務長暫代執行長一職。然而，前美國總統川普（Donald Trump）已迅速透過社群媒體Truth Social發表意見，公開點名他心目中最適合接掌這家AI晶片龍頭的人選，竟是已於9月1日卸下蘋果（Apple）執行長職務並轉任董事會主席的提姆·庫克（Tim Cook）。川普認為黃仁勳雖表現出色，但現在唯一能勝任NVIDIA新領導者的非庫克莫屬，此番言論立即引發廣泛討論。",
-      "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
-      "publishedAt": "2026-11-13T00:46:07.000Z",
-      "score": 89,
+      "originalTitle": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "translatedTitle": "OpenAI 推出 ChatGPT Wallet：AI 助理也能幫你購物結帳",
+      "summaryZh": "OpenAI 近期為旗下 AI 代理平台 Dots 推出「ChatGPT Wallet」服務。這項新功能讓 AI 助理能依據使用者指令執行線上購物，大幅擴展 AI 的應用範疇。為確保交易安全，每次結帳前，AI 都會先向使用者進行確認，並要求透過 Face ID 或指紋等生物辨識進行驗證。此服務目前率先開放給美國境內符合資格的 ChatGPT Pro 訂閱戶使用。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "publishedAt": "2026-11-13T20:45:10.000Z",
+      "score": 99,
       "tags": [
         "AI",
-        "NVIDIA",
-        "Tim Cook",
-        "Donald Trump"
+        "OpenAI",
+        "ChatGPT"
       ]
     },
     {
       "rank": 2,
       "source": "MIT Technology Review",
-      "originalTitle": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "translatedTitle": "NVIDIA 內部證實晶片追蹤可行性，與產業公開質疑聲浪相左",
-      "summaryZh": "輝達（NVIDIA）近期向美國眾議員 Bill Foster 內部證實，技術上可實現晶片追蹤機制，以遏止走私行為。此舉是為因應《晶片安全法案》（Chip Security Act）防堵晶片非法轉運的要求。然而，NVIDIA 此一說法，卻與業界團體公開質疑晶片追蹤措施的可行性形成鮮明對比。",
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "publishedAt": "2026-11-12T20:16:24.000Z",
-      "score": 84,
+      "originalTitle": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "translatedTitle": "矽谷領袖自詡「預見未來」，卻為何在中期選舉上失準？",
+      "summaryZh": "矽谷科技巨頭如 OpenAI 執行長 Sam Altman、SpaceX 創辦人 Elon Musk 等，長期以來以其「預見未來」的能力聞名。這些領袖們透過提出如 Meta 的 Mark Zuckerberg 所規劃的十年藍圖、或 Google 早年對投資人強調的長遠願景，將其長期洞察力視為產業貨幣。然而，MIT Technology Review 的報導質疑，如果這些自詡的未來主義者真能預知趨勢，為何他們在最近的中期選舉中卻頻頻失準？這篇報導旨在探討矽谷在「預測未來」上的矛盾與挑戰。",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "publishedAt": "2026-11-13T10:00:00.000Z",
+      "score": 87,
+      "tags": [
+        "矽谷",
+        "未來預測",
+        "科技領袖",
+        "OpenAI",
+        "Meta",
+        "Google"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Jensen Huang was reckless with the environment, too",
+      "translatedTitle": "NVIDIA 助推 AI 熱潮，黃仁勳卻面臨環境永續質疑",
+      "summaryZh": "NVIDIA 執行長黃仁勳帶領公司成為 AI 產業的關鍵引擎，然而，NVIDIA 也被點名是科技業最大的環境負擔之一。其熱銷晶片導致高耗水、高化學用量的晶圓廠增加，資料中心耗電加劇電網負擔，並預示了嚴峻的電子廢棄物問題。儘管黃仁勳曾公開倡議利用 AI 對抗氣候變遷，NVIDIA 的供應鏈碳排放量卻持續飆升，公司因此與環保團體產生衝突，面臨追究「隱藏」碳排的壓力。這讓外界質疑 NVIDIA 在環境永續上的實際作為與其企業承諾。",
+      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+      "publishedAt": "2026-11-13T17:44:22.000Z",
+      "score": 85,
       "tags": [
         "AI",
         "NVIDIA"
       ]
     },
     {
-      "rank": 3,
-      "source": "The Verge",
-      "originalTitle": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-      "translatedTitle": "Whoop 推出 Humans 社群平台，主打「心率驗證」杜絕假帳號",
-      "summaryZh": "健身穿戴裝置品牌 Whoop 近日推出名為 Whoop Humans 的全新社群網路平台。此平台最大特色在於，每位用戶的帳號都透過「心率驗證」確保其真實性，目的是打造一個「完全人類」的互動空間。Whoop 用戶可在此分享來自穿戴裝置的生理數據、活動紀錄與成就，並透過「Moments」功能發佈圖文內容，進行留言與互動。Whoop 強調，相較於充斥 AI 與機器人帳號的其他社群平台，Humans 將提供一個更真實、可信賴的社群體驗。其執行長 Will Ahmed 更稱這是「史上最可驗證的人類網路」。",
-      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-      "publishedAt": "2026-11-12T23:43:22.000Z",
-      "score": 83,
-      "tags": [
-        "穿戴裝置",
-        "社群平台"
-      ]
-    },
-    {
       "rank": 4,
-      "source": "The Verge",
-      "originalTitle": "Google’s new Gemini model is better at understanding complicated questions",
-      "translatedTitle": "Google 新版 Gemini 模型強化複雜提問解析能力",
-      "summaryZh": "Google 發表其最新大型語言模型 Gemini 4 Hydrogen，強調在複雜問題理解方面有顯著突破。這款模型能精準解析多重提問、難辨錯字及高度特定要求，並拆解問題各部分後給予詳盡回應。即日起，Gemini 4 Hydrogen 已導入 Google 搜尋（作為 AI 模式預設模型及 AI 總覽處理困難問題的核心）、Gemini 應用程式、Google AI Studio、Gemini API、Gemini for business，以及 Google Antigravity 服務（限 Google AI Pro 與 Ultra 訂閱戶）。Google 搜尋產品副總裁 Robby Ste",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "publishedAt": "2026-11-12T21:55:32.000Z",
-      "score": 76,
+      "source": "Hacker News",
+      "originalTitle": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "translatedTitle": "Anthropic 升級 Claude 開發專案，實現 AI 助理免手動平行運作",
+      "summaryZh": "AI 新創 Anthropic 近期針對其大型語言模型 Claude 的程式開發專案進行功能升級。新版 Claude 支援「免手動（hands-free）」模式，能讓多個 AI 助理（或稱 AI worker）平行運作，共同執行開發任務。這項改進大幅提升了 AI 在軟體開發流程中的自動化程度與效率，有助於加速程式碼生成、測試及優化等工作，減少人工介入需求。",
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "publishedAt": "2026-11-14T00:28:11.000Z",
+      "score": 79,
       "tags": [
         "AI",
-        "Google"
+        "Anthropic",
+        "Claude",
+        "軟體開發",
+        "自動化"
       ]
     },
     {
       "rank": 5,
       "source": "TechCrunch",
-      "originalTitle": "The unfolding Jensen Huang scandal: a timeline",
-      "translatedTitle": "NVIDIA 黃仁勳醜聞案延燒：事件時間軸",
-      "summaryZh": "NVIDIA執行長黃仁勳（Jensen Huang）近日因爆發外遇醜聞，宣布辭去執行長一職。這項突如其來的消息，已引發國家安全疑慮，尤其是在美中兩大強權爭奪AI基礎建設領先地位的關鍵時刻。更引人關注的是，外傳此醜聞涉及一名疑為中國間諜的人士，使事件複雜度急遽升高。此舉恐為NVIDIA及其在全球AI晶片霸主地位投下震撼彈，並對全球AI產業發展埋下深遠的不確定性。",
-      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "publishedAt": "2026-11-12T21:35:00.000Z",
-      "score": 74,
+      "originalTitle": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "translatedTitle": "中國最強大 AI 模型竟用禁售 NVIDIA 晶片訓練，NVIDIA 恐陷爭議",
+      "summaryZh": "最新研究揭露，中國境內最先進的 AI 模型，其訓練基礎竟然仰賴美國出口禁令明文限制的 NVIDIA 高階運算晶片。此發現不僅讓外界質疑美國晶片管制措施的有效性，更可能使 NVIDIA 面臨其產品如何流入中國市場的嚴格審查，尤其對執行長黃仁勳（Jensen Huang）來說，無疑是個棘手問題。這些晶片在中國發展頂尖人工智慧技術的過程中，扮演著舉足輕重的角色。",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "publishedAt": "2026-11-13T18:40:30.000Z",
+      "score": 72,
       "tags": [
         "AI",
         "NVIDIA"

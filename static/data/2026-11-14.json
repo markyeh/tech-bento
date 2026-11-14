@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T09:58:48+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "translatedTitle": "OpenAI 推出 ChatGPT Wallet：AI 助理也能幫你購物結帳",
+      "summaryZh": "OpenAI 近期為旗下 AI 代理平台 Dots 推出「ChatGPT Wallet」服務。這項新功能讓 AI 助理能依據使用者指令執行線上購物，大幅擴展 AI 的應用範疇。為確保交易安全，每次結帳前，AI 都會先向使用者進行確認，並要求透過 Face ID 或指紋等生物辨識進行驗證。此服務目前率先開放給美國境內符合資格的 ChatGPT Pro 訂閱戶使用。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "publishedAt": "2026-11-13T20:45:10.000Z",
+      "score": 99,
+      "tags": [
+        "AI",
+        "OpenAI",
+        "ChatGPT"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "MIT Technology Review",
+      "originalTitle": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "translatedTitle": "矽谷領袖自詡「預見未來」，卻為何在中期選舉上失準？",
+      "summaryZh": "矽谷科技巨頭如 OpenAI 執行長 Sam Altman、SpaceX 創辦人 Elon Musk 等，長期以來以其「預見未來」的能力聞名。這些領袖們透過提出如 Meta 的 Mark Zuckerberg 所規劃的十年藍圖、或 Google 早年對投資人強調的長遠願景，將其長期洞察力視為產業貨幣。然而，MIT Technology Review 的報導質疑，如果這些自詡的未來主義者真能預知趨勢，為何他們在最近的中期選舉中卻頻頻失準？這篇報導旨在探討矽谷在「預測未來」上的矛盾與挑戰。",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "publishedAt": "2026-11-13T10:00:00.000Z",
+      "score": 87,
+      "tags": [
+        "矽谷",
+        "未來預測",
+        "科技領袖",
+        "OpenAI",
+        "Meta",
+        "Google"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Jensen Huang was reckless with the environment, too",
+      "translatedTitle": "NVIDIA 助推 AI 熱潮，黃仁勳卻面臨環境永續質疑",
+      "summaryZh": "NVIDIA 執行長黃仁勳帶領公司成為 AI 產業的關鍵引擎，然而，NVIDIA 也被點名是科技業最大的環境負擔之一。其熱銷晶片導致高耗水、高化學用量的晶圓廠增加，資料中心耗電加劇電網負擔，並預示了嚴峻的電子廢棄物問題。儘管黃仁勳曾公開倡議利用 AI 對抗氣候變遷，NVIDIA 的供應鏈碳排放量卻持續飆升，公司因此與環保團體產生衝突，面臨追究「隱藏」碳排的壓力。這讓外界質疑 NVIDIA 在環境永續上的實際作為與其企業承諾。",
+      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+      "publishedAt": "2026-11-13T17:44:22.000Z",
+      "score": 85,
+      "tags": [
+        "AI",
+        "NVIDIA"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "Hacker News",
+      "originalTitle": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "translatedTitle": "Anthropic 升級 Claude 開發專案，實現 AI 助理免手動平行運作",
+      "summaryZh": "AI 新創 Anthropic 近期針對其大型語言模型 Claude 的程式開發專案進行功能升級。新版 Claude 支援「免手動（hands-free）」模式，能讓多個 AI 助理（或稱 AI worker）平行運作，共同執行開發任務。這項改進大幅提升了 AI 在軟體開發流程中的自動化程度與效率，有助於加速程式碼生成、測試及優化等工作，減少人工介入需求。",
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "publishedAt": "2026-11-14T00:28:11.000Z",
+      "score": 79,
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Claude",
+        "軟體開發",
+        "自動化"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "TechCrunch",
+      "originalTitle": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "translatedTitle": "中國最強大 AI 模型竟用禁售 NVIDIA 晶片訓練，NVIDIA 恐陷爭議",
+      "summaryZh": "最新研究揭露，中國境內最先進的 AI 模型，其訓練基礎竟然仰賴美國出口禁令明文限制的 NVIDIA 高階運算晶片。此發現不僅讓外界質疑美國晶片管制措施的有效性，更可能使 NVIDIA 面臨其產品如何流入中國市場的嚴格審查，尤其對執行長黃仁勳（Jensen Huang）來說，無疑是個棘手問題。這些晶片在中國發展頂尖人工智慧技術的過程中，扮演著舉足輕重的角色。",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "publishedAt": "2026-11-13T18:40:30.000Z",
+      "score": 72,
+      "tags": [
+        "AI",
+        "NVIDIA"
+      ]
+    }
+  ]
+}
