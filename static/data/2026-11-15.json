@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T09:30:47+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "TechCrunch",
+      "originalTitle": "Where was Nvidia’s security team?",
+      "translatedTitle": "NVIDIA資安防線失守？",
+      "summaryZh": "NVIDIA執行長黃仁勳近期因個人關係爭議而卸任，其中包含與一家涉嫌向中國走私晶片的企業高層往來。此事件引發外界對NVIDIA內部資安防護的疑慮。報導指出，NVIDIA資安長已於八月悄然離職。有前情報官員評論，此類透過日常對話產生的資訊洩露，是企業資安團隊難以察覺的漏洞。此案突顯NVIDIA在內部管理及資安監控上的潛在問題。",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "publishedAt": "2026-11-15T00:08:07.000Z",
+      "score": 78,
+      "tags": [
+        "NVIDIA",
+        "資安"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "TechCrunch",
+      "originalTitle": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "translatedTitle": "AI計畫陣亡名單：盤點那些失敗或未達預期的AI專案與新創",
+      "summaryZh": "TechCrunch報導指出，儘管全球AI浪潮洶湧，許多AI專案與新創卻未能如預期成功。文章盤點了這些「AI墳場」中的案例，包括Apple的Siri人工智慧多次延宕，以及OpenAI「超級應用程式」推出過程混亂。這反映出AI開發所面臨的嚴峻挑戰與市場的現實考驗。",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-11-14T17:30:00.000Z",
+      "score": 70,
+      "tags": [
+        "AI",
+        "新創",
+        "產業觀察"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "translatedTitle": "輝達黃仁勳卸任 魅力型遠見CEO時代落幕？",
+      "summaryZh": "「The Verge」報導揭露，曾風光一時的 NVIDIA 共同創辦人暨執行長 Jensen Huang 已卸任。文章回顧，Jensen Huang 在 2025 年 CES 展上曾享有巨星般待遇，在萬人歡呼中高調登場。然而，他如今卻因涉入兩起晶片走私醜聞，以及傳出三起婚外情而黯然離開公司，其中一起更被指控與中國間諜有關，且時機點敏感，發生在他與前美國總統 Donald Trump 會面期間。這篇報導探討了 Jensen Huang 的殞落，並引發外界思考，這是否象徵著「魅力型、有遠見」創辦人執行長時代的告終。",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "score": 68,
+      "tags": [
+        "NVIDIA",
+        "Jensen Huang",
+        "CEO",
+        "AI"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "The Verge",
+      "originalTitle": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "translatedTitle": "SpaceX 達成創舉！「Mechazilla」巨型機械臂首次成功捕捉 Starship 星艦",
+      "summaryZh": "太空探索科技公司（SpaceX）在取消前一次捕獲計畫後，首次成功利用其「Mechazilla」發射回收塔的巨型「筷子」機械臂，成功捕獲了 Starship 星艦。這是 SpaceX 在火箭回收技術上的一大里程碑，儘管過去曾成功攔截助推器，但此次是首次針對 Starship 星艦載具本身進行捕獲。雖然此次作業未能完全回收整個發射載具，SpaceX 執行長 Elon Musk 仍表示，未來飛行成功的機率較高，這一步仍是邁向全面回收的重要進展。",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "publishedAt": "2026-11-14T21:44:44.000Z",
+      "score": 62,
+      "tags": [
+        "SpaceX",
+        "Starship",
+        "航太",
+        "火箭回收"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "The Verge",
+      "originalTitle": "A gadget to make your dumb house smarter",
+      "translatedTitle": "讓傳統家居升級智慧化：一款全新裝置亮相",
+      "summaryZh": "科技媒體 The Verge 近期報導一款全新智慧家庭裝置，旨在讓現有「非智慧型」房屋輕鬆實現智能化。這款新產品預計將採用桌上型或腳架式設計，提供使用者簡便的解決方案，將傳統家居環境升級為更具智慧機能的現代空間，為用戶帶來更便捷的居家生活體驗。",
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "publishedAt": "2026-11-14T13:00:00.000Z",
+      "score": 58,
+      "tags": [
+        "智慧家庭",
+        "物聯網",
+        "智能裝置"
+      ]
+    }
+  ]
+}

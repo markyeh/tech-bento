@@ -1,83 +1,81 @@
 {
-  "date": "2026-11-14",
-  "generatedAt": "2026-11-14T09:58:48+08:00",
+  "date": "2026-11-15",
+  "generatedAt": "2026-11-15T09:30:47+08:00",
   "items": [
     {
       "rank": 1,
-      "source": "The Verge",
-      "originalTitle": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "translatedTitle": "OpenAI 推出 ChatGPT Wallet：AI 助理也能幫你購物結帳",
-      "summaryZh": "OpenAI 近期為旗下 AI 代理平台 Dots 推出「ChatGPT Wallet」服務。這項新功能讓 AI 助理能依據使用者指令執行線上購物，大幅擴展 AI 的應用範疇。為確保交易安全，每次結帳前，AI 都會先向使用者進行確認，並要求透過 Face ID 或指紋等生物辨識進行驗證。此服務目前率先開放給美國境內符合資格的 ChatGPT Pro 訂閱戶使用。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "publishedAt": "2026-11-13T20:45:10.000Z",
-      "score": 99,
+      "source": "TechCrunch",
+      "originalTitle": "Where was Nvidia’s security team?",
+      "translatedTitle": "NVIDIA資安防線失守？",
+      "summaryZh": "NVIDIA執行長黃仁勳近期因個人關係爭議而卸任，其中包含與一家涉嫌向中國走私晶片的企業高層往來。此事件引發外界對NVIDIA內部資安防護的疑慮。報導指出，NVIDIA資安長已於八月悄然離職。有前情報官員評論，此類透過日常對話產生的資訊洩露，是企業資安團隊難以察覺的漏洞。此案突顯NVIDIA在內部管理及資安監控上的潛在問題。",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "publishedAt": "2026-11-15T00:08:07.000Z",
+      "score": 78,
       "tags": [
-        "AI",
-        "OpenAI",
-        "ChatGPT"
+        "NVIDIA",
+        "資安"
       ]
     },
     {
       "rank": 2,
-      "source": "MIT Technology Review",
-      "originalTitle": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "translatedTitle": "矽谷領袖自詡「預見未來」，卻為何在中期選舉上失準？",
-      "summaryZh": "矽谷科技巨頭如 OpenAI 執行長 Sam Altman、SpaceX 創辦人 Elon Musk 等，長期以來以其「預見未來」的能力聞名。這些領袖們透過提出如 Meta 的 Mark Zuckerberg 所規劃的十年藍圖、或 Google 早年對投資人強調的長遠願景，將其長期洞察力視為產業貨幣。然而，MIT Technology Review 的報導質疑，如果這些自詡的未來主義者真能預知趨勢，為何他們在最近的中期選舉中卻頻頻失準？這篇報導旨在探討矽谷在「預測未來」上的矛盾與挑戰。",
-      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-      "publishedAt": "2026-11-13T10:00:00.000Z",
-      "score": 87,
+      "source": "TechCrunch",
+      "originalTitle": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "translatedTitle": "AI計畫陣亡名單：盤點那些失敗或未達預期的AI專案與新創",
+      "summaryZh": "TechCrunch報導指出，儘管全球AI浪潮洶湧，許多AI專案與新創卻未能如預期成功。文章盤點了這些「AI墳場」中的案例，包括Apple的Siri人工智慧多次延宕，以及OpenAI「超級應用程式」推出過程混亂。這反映出AI開發所面臨的嚴峻挑戰與市場的現實考驗。",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "publishedAt": "2026-11-14T17:30:00.000Z",
+      "score": 70,
       "tags": [
-        "矽谷",
-        "未來預測",
-        "科技領袖",
-        "OpenAI",
-        "Meta",
-        "Google"
+        "AI",
+        "新創",
+        "產業觀察"
       ]
     },
     {
       "rank": 3,
       "source": "The Verge",
-      "originalTitle": "Jensen Huang was reckless with the environment, too",
-      "translatedTitle": "NVIDIA 助推 AI 熱潮，黃仁勳卻面臨環境永續質疑",
-      "summaryZh": "NVIDIA 執行長黃仁勳帶領公司成為 AI 產業的關鍵引擎，然而，NVIDIA 也被點名是科技業最大的環境負擔之一。其熱銷晶片導致高耗水、高化學用量的晶圓廠增加，資料中心耗電加劇電網負擔，並預示了嚴峻的電子廢棄物問題。儘管黃仁勳曾公開倡議利用 AI 對抗氣候變遷，NVIDIA 的供應鏈碳排放量卻持續飆升，公司因此與環保團體產生衝突，面臨追究「隱藏」碳排的壓力。這讓外界質疑 NVIDIA 在環境永續上的實際作為與其企業承諾。",
-      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
-      "publishedAt": "2026-11-13T17:44:22.000Z",
-      "score": 85,
+      "originalTitle": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "translatedTitle": "輝達黃仁勳卸任 魅力型遠見CEO時代落幕？",
+      "summaryZh": "「The Verge」報導揭露，曾風光一時的 NVIDIA 共同創辦人暨執行長 Jensen Huang 已卸任。文章回顧，Jensen Huang 在 2025 年 CES 展上曾享有巨星般待遇，在萬人歡呼中高調登場。然而，他如今卻因涉入兩起晶片走私醜聞，以及傳出三起婚外情而黯然離開公司，其中一起更被指控與中國間諜有關，且時機點敏感，發生在他與前美國總統 Donald Trump 會面期間。這篇報導探討了 Jensen Huang 的殞落，並引發外界思考，這是否象徵著「魅力型、有遠見」創辦人執行長時代的告終。",
+      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "score": 68,
       "tags": [
-        "AI",
-        "NVIDIA"
+        "NVIDIA",
+        "Jensen Huang",
+        "CEO",
+        "AI"
       ]
     },
     {
       "rank": 4,
-      "source": "Hacker News",
-      "originalTitle": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-      "translatedTitle": "Anthropic 升級 Claude 開發專案，實現 AI 助理免手動平行運作",
-      "summaryZh": "AI 新創 Anthropic 近期針對其大型語言模型 Claude 的程式開發專案進行功能升級。新版 Claude 支援「免手動（hands-free）」模式，能讓多個 AI 助理（或稱 AI worker）平行運作，共同執行開發任務。這項改進大幅提升了 AI 在軟體開發流程中的自動化程度與效率，有助於加速程式碼生成、測試及優化等工作，減少人工介入需求。",
-      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-      "publishedAt": "2026-11-14T00:28:11.000Z",
-      "score": 79,
+      "source": "The Verge",
+      "originalTitle": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "translatedTitle": "SpaceX 達成創舉！「Mechazilla」巨型機械臂首次成功捕捉 Starship 星艦",
+      "summaryZh": "太空探索科技公司（SpaceX）在取消前一次捕獲計畫後，首次成功利用其「Mechazilla」發射回收塔的巨型「筷子」機械臂，成功捕獲了 Starship 星艦。這是 SpaceX 在火箭回收技術上的一大里程碑，儘管過去曾成功攔截助推器，但此次是首次針對 Starship 星艦載具本身進行捕獲。雖然此次作業未能完全回收整個發射載具，SpaceX 執行長 Elon Musk 仍表示，未來飛行成功的機率較高，這一步仍是邁向全面回收的重要進展。",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "publishedAt": "2026-11-14T21:44:44.000Z",
+      "score": 62,
       "tags": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "軟體開發",
-        "自動化"
+        "SpaceX",
+        "Starship",
+        "航太",
+        "火箭回收"
       ]
     },
     {
       "rank": 5,
-      "source": "TechCrunch",
-      "originalTitle": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "translatedTitle": "中國最強大 AI 模型竟用禁售 NVIDIA 晶片訓練，NVIDIA 恐陷爭議",
-      "summaryZh": "最新研究揭露，中國境內最先進的 AI 模型，其訓練基礎竟然仰賴美國出口禁令明文限制的 NVIDIA 高階運算晶片。此發現不僅讓外界質疑美國晶片管制措施的有效性，更可能使 NVIDIA 面臨其產品如何流入中國市場的嚴格審查，尤其對執行長黃仁勳（Jensen Huang）來說，無疑是個棘手問題。這些晶片在中國發展頂尖人工智慧技術的過程中，扮演著舉足輕重的角色。",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "publishedAt": "2026-11-13T18:40:30.000Z",
-      "score": 72,
+      "source": "The Verge",
+      "originalTitle": "A gadget to make your dumb house smarter",
+      "translatedTitle": "讓傳統家居升級智慧化：一款全新裝置亮相",
+      "summaryZh": "科技媒體 The Verge 近期報導一款全新智慧家庭裝置，旨在讓現有「非智慧型」房屋輕鬆實現智能化。這款新產品預計將採用桌上型或腳架式設計，提供使用者簡便的解決方案，將傳統家居環境升級為更具智慧機能的現代空間，為用戶帶來更便捷的居家生活體驗。",
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "publishedAt": "2026-11-14T13:00:00.000Z",
+      "score": 58,
       "tags": [
-        "AI",
-        "NVIDIA"
+        "智慧家庭",
+        "物聯網",
+        "智能裝置"
       ]
     }
   ]
