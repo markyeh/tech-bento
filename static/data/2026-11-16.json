@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T09:34:45+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "translatedTitle": "美國國會因NVIDIA間諜疑雲，擬收緊AI晶片出口限制",
+      "summaryZh": "美國國會近期因NVIDIA執行長黃仁勳牽涉一起疑似中國間諜醜聞，正積極推動收緊AI晶片出口管制措施。此舉獲得民主、共和兩黨跨黨派支持，目標是防止先進AI技術外流。參議院少數黨領袖Chuck Schumer和參議院銀行委員會主席Tim Scott已發函要求黃仁勳及NVIDIA其他高層赴國會作證，以釐清事件並確保國家安全及技術優勢。此波管制重點將放在AI晶片相關產品，可能對NVIDIA等領先業者帶來影響。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "publishedAt": "2026-11-15T19:15:43.000Z",
+      "score": 75,
+      "tags": [
+        "AI",
+        "NVIDIA",
+        "出口管制",
+        "美國國會"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "The Verge",
+      "originalTitle": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "translatedTitle": "ULA 火神號火箭發射失利，40 枚 Amazon Leo 衛星全毀",
+      "summaryZh": "美國聯合發射聯盟 (ULA) 的 Vulcan 火神號火箭於 2026 年 11 月 15 日發射時發生異常，在升空約十分鐘後任務失敗，導致其搭載的 40 枚 Amazon Leo 寬頻衛星全數毀損。這據傳是 ULA 成立 20 年來的首次發射失敗。Amazon 的 Leo 衛星網路計畫是 SpaceX Starlink 的競爭者，但其衛星部署進度一直不如預期。此次失敗不僅讓 Amazon 損失慘重，更影響其低軌衛星網路服務的推動。原本此次發射是 Amazon 向 ULA 採購的 38 次任務中的首次。",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "publishedAt": "2026-11-15T21:05:02.000Z",
+      "score": 74,
+      "tags": [
+        "太空科技",
+        "火箭發射",
+        "低軌衛星",
+        "Amazon",
+        "ULA"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Apple’s first smart glasses are coming together",
+      "translatedTitle": "蘋果首款智慧眼鏡即將問世",
+      "summaryZh": "蘋果智慧眼鏡的傳聞已久，據彭博社 Mark Gurman 報導，這款備受矚目的產品將在明年六月的 WWDC 開發者大會上亮相，預計年底前出貨。這款智慧眼鏡原型代號 N50，初期將不具備擴增實境（AR）功能，外觀設計據稱比 Meta 第二代 Ray-Ban 智慧眼鏡更為輕薄。蘋果期望透過全新改版的 Siri AI，提供對應用程式的精細控制，並讓開發者先行在 iPhone 上支援相關功能，確保智慧眼鏡上市後能順利接軌生態系。",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "publishedAt": "2026-11-15T16:59:16.000Z",
+      "score": 69,
+      "tags": [
+        "Apple",
+        "智慧眼鏡",
+        "AI",
+        "Siri",
+        "WWDC"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "The Verge",
+      "originalTitle": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "translatedTitle": "蘋果攜手 OpenEvidence 啟動 AI 醫療研究，優化對話式 AI 健康工具成效",
+      "summaryZh": "蘋果公司近期啟動一項名為「Apple 健康 AI 使用研究」的計畫，旨在深入探討使用者與對話式 AI 健康工具的互動模式，並評估其回應的實用性與成效。此研究與臨床 AI 平台 OpenEvidence 合作，該平台能根據權威醫療資訊生成回答。參與者將透過專屬 iOS App 提出醫療相關問題，並針對 AI 的回覆內容進行準確性、細節與相關性等面向的評分。目前該 App 已開放下載，並同步開放招募受試者，期能藉此優化未來 AI 醫療保健應用。",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "publishedAt": "2026-11-16T01:26:56.000Z",
+      "score": 66,
+      "tags": [
+        "AI",
+        "Apple",
+        "Health",
+        "iOS"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "The Verge",
+      "originalTitle": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "translatedTitle": "NVIDIA黃仁勳重返執行長職位傳聞再起？",
+      "summaryZh": "NVIDIA前共同創辦人暨執行長黃仁勳近期成為科技圈熱議焦點，關於他可能重掌NVIDIA執行長大位傳聞甚囂塵上。這波「請願」行動獲得Tesla執行長Elon Musk與Epic Games執行長Tim Sweeney等業界大咖公開支持，共同呼籲NVIDIA「讓黃仁勳回來」。同時，Megaspeed公司一則關於Alice Huang已於2025年8月離職的聲明，卻意外增添了更多懸念。",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "publishedAt": "2026-11-15T20:43:49.000Z",
+      "score": 66,
+      "tags": [
+        "AI",
+        "NVIDIA"
+      ]
+    }
+  ]
+}

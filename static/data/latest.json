@@ -1,81 +1,85 @@
 {
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T09:30:47+08:00",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T09:34:45+08:00",
   "items": [
     {
       "rank": 1,
-      "source": "TechCrunch",
-      "originalTitle": "Where was Nvidia’s security team?",
-      "translatedTitle": "NVIDIA資安防線失守？",
-      "summaryZh": "NVIDIA執行長黃仁勳近期因個人關係爭議而卸任，其中包含與一家涉嫌向中國走私晶片的企業高層往來。此事件引發外界對NVIDIA內部資安防護的疑慮。報導指出，NVIDIA資安長已於八月悄然離職。有前情報官員評論，此類透過日常對話產生的資訊洩露，是企業資安團隊難以察覺的漏洞。此案突顯NVIDIA在內部管理及資安監控上的潛在問題。",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "publishedAt": "2026-11-15T00:08:07.000Z",
-      "score": 78,
+      "source": "The Verge",
+      "originalTitle": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "translatedTitle": "美國國會因NVIDIA間諜疑雲，擬收緊AI晶片出口限制",
+      "summaryZh": "美國國會近期因NVIDIA執行長黃仁勳牽涉一起疑似中國間諜醜聞，正積極推動收緊AI晶片出口管制措施。此舉獲得民主、共和兩黨跨黨派支持，目標是防止先進AI技術外流。參議院少數黨領袖Chuck Schumer和參議院銀行委員會主席Tim Scott已發函要求黃仁勳及NVIDIA其他高層赴國會作證，以釐清事件並確保國家安全及技術優勢。此波管制重點將放在AI晶片相關產品，可能對NVIDIA等領先業者帶來影響。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "publishedAt": "2026-11-15T19:15:43.000Z",
+      "score": 75,
       "tags": [
+        "AI",
         "NVIDIA",
-        "資安"
+        "出口管制",
+        "美國國會"
       ]
     },
     {
       "rank": 2,
-      "source": "TechCrunch",
-      "originalTitle": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "translatedTitle": "AI計畫陣亡名單：盤點那些失敗或未達預期的AI專案與新創",
-      "summaryZh": "TechCrunch報導指出，儘管全球AI浪潮洶湧，許多AI專案與新創卻未能如預期成功。文章盤點了這些「AI墳場」中的案例，包括Apple的Siri人工智慧多次延宕，以及OpenAI「超級應用程式」推出過程混亂。這反映出AI開發所面臨的嚴峻挑戰與市場的現實考驗。",
-      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "publishedAt": "2026-11-14T17:30:00.000Z",
-      "score": 70,
+      "source": "The Verge",
+      "originalTitle": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "translatedTitle": "ULA 火神號火箭發射失利，40 枚 Amazon Leo 衛星全毀",
+      "summaryZh": "美國聯合發射聯盟 (ULA) 的 Vulcan 火神號火箭於 2026 年 11 月 15 日發射時發生異常，在升空約十分鐘後任務失敗，導致其搭載的 40 枚 Amazon Leo 寬頻衛星全數毀損。這據傳是 ULA 成立 20 年來的首次發射失敗。Amazon 的 Leo 衛星網路計畫是 SpaceX Starlink 的競爭者，但其衛星部署進度一直不如預期。此次失敗不僅讓 Amazon 損失慘重，更影響其低軌衛星網路服務的推動。原本此次發射是 Amazon 向 ULA 採購的 38 次任務中的首次。",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "publishedAt": "2026-11-15T21:05:02.000Z",
+      "score": 74,
       "tags": [
-        "AI",
-        "新創",
-        "產業觀察"
+        "太空科技",
+        "火箭發射",
+        "低軌衛星",
+        "Amazon",
+        "ULA"
       ]
     },
     {
       "rank": 3,
       "source": "The Verge",
-      "originalTitle": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "translatedTitle": "輝達黃仁勳卸任 魅力型遠見CEO時代落幕？",
-      "summaryZh": "「The Verge」報導揭露，曾風光一時的 NVIDIA 共同創辦人暨執行長 Jensen Huang 已卸任。文章回顧，Jensen Huang 在 2025 年 CES 展上曾享有巨星般待遇，在萬人歡呼中高調登場。然而，他如今卻因涉入兩起晶片走私醜聞，以及傳出三起婚外情而黯然離開公司，其中一起更被指控與中國間諜有關，且時機點敏感，發生在他與前美國總統 Donald Trump 會面期間。這篇報導探討了 Jensen Huang 的殞落，並引發外界思考，這是否象徵著「魅力型、有遠見」創辦人執行長時代的告終。",
-      "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "publishedAt": "2026-11-14T12:00:00.000Z",
-      "score": 68,
+      "originalTitle": "Apple’s first smart glasses are coming together",
+      "translatedTitle": "蘋果首款智慧眼鏡即將問世",
+      "summaryZh": "蘋果智慧眼鏡的傳聞已久，據彭博社 Mark Gurman 報導，這款備受矚目的產品將在明年六月的 WWDC 開發者大會上亮相，預計年底前出貨。這款智慧眼鏡原型代號 N50，初期將不具備擴增實境（AR）功能，外觀設計據稱比 Meta 第二代 Ray-Ban 智慧眼鏡更為輕薄。蘋果期望透過全新改版的 Siri AI，提供對應用程式的精細控制，並讓開發者先行在 iPhone 上支援相關功能，確保智慧眼鏡上市後能順利接軌生態系。",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "publishedAt": "2026-11-15T16:59:16.000Z",
+      "score": 69,
       "tags": [
-        "NVIDIA",
-        "Jensen Huang",
-        "CEO",
-        "AI"
+        "Apple",
+        "智慧眼鏡",
+        "AI",
+        "Siri",
+        "WWDC"
       ]
     },
     {
       "rank": 4,
       "source": "The Verge",
-      "originalTitle": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-      "translatedTitle": "SpaceX 達成創舉！「Mechazilla」巨型機械臂首次成功捕捉 Starship 星艦",
-      "summaryZh": "太空探索科技公司（SpaceX）在取消前一次捕獲計畫後，首次成功利用其「Mechazilla」發射回收塔的巨型「筷子」機械臂，成功捕獲了 Starship 星艦。這是 SpaceX 在火箭回收技術上的一大里程碑，儘管過去曾成功攔截助推器，但此次是首次針對 Starship 星艦載具本身進行捕獲。雖然此次作業未能完全回收整個發射載具，SpaceX 執行長 Elon Musk 仍表示，未來飛行成功的機率較高，這一步仍是邁向全面回收的重要進展。",
-      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
-      "publishedAt": "2026-11-14T21:44:44.000Z",
-      "score": 62,
+      "originalTitle": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "translatedTitle": "蘋果攜手 OpenEvidence 啟動 AI 醫療研究，優化對話式 AI 健康工具成效",
+      "summaryZh": "蘋果公司近期啟動一項名為「Apple 健康 AI 使用研究」的計畫，旨在深入探討使用者與對話式 AI 健康工具的互動模式，並評估其回應的實用性與成效。此研究與臨床 AI 平台 OpenEvidence 合作，該平台能根據權威醫療資訊生成回答。參與者將透過專屬 iOS App 提出醫療相關問題，並針對 AI 的回覆內容進行準確性、細節與相關性等面向的評分。目前該 App 已開放下載，並同步開放招募受試者，期能藉此優化未來 AI 醫療保健應用。",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "publishedAt": "2026-11-16T01:26:56.000Z",
+      "score": 66,
       "tags": [
-        "SpaceX",
-        "Starship",
-        "航太",
-        "火箭回收"
+        "AI",
+        "Apple",
+        "Health",
+        "iOS"
       ]
     },
     {
       "rank": 5,
       "source": "The Verge",
-      "originalTitle": "A gadget to make your dumb house smarter",
-      "translatedTitle": "讓傳統家居升級智慧化：一款全新裝置亮相",
-      "summaryZh": "科技媒體 The Verge 近期報導一款全新智慧家庭裝置，旨在讓現有「非智慧型」房屋輕鬆實現智能化。這款新產品預計將採用桌上型或腳架式設計，提供使用者簡便的解決方案，將傳統家居環境升級為更具智慧機能的現代空間，為用戶帶來更便捷的居家生活體驗。",
-      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
-      "publishedAt": "2026-11-14T13:00:00.000Z",
-      "score": 58,
+      "originalTitle": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "translatedTitle": "NVIDIA黃仁勳重返執行長職位傳聞再起？",
+      "summaryZh": "NVIDIA前共同創辦人暨執行長黃仁勳近期成為科技圈熱議焦點，關於他可能重掌NVIDIA執行長大位傳聞甚囂塵上。這波「請願」行動獲得Tesla執行長Elon Musk與Epic Games執行長Tim Sweeney等業界大咖公開支持，共同呼籲NVIDIA「讓黃仁勳回來」。同時，Megaspeed公司一則關於Alice Huang已於2025年8月離職的聲明，卻意外增添了更多懸念。",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "publishedAt": "2026-11-15T20:43:49.000Z",
+      "score": 66,
       "tags": [
-        "智慧家庭",
-        "物聯網",
-        "智能裝置"
+        "AI",
+        "NVIDIA"
       ]
     }
   ]
