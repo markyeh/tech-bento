@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T12:19:33+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "translatedTitle": "核能巨頭Constellation不畏民主黨阻擋資料中心擴建",
+      "summaryZh": "美國最大核電廠營運商 Constellation Energy 執行長 Joe Dominguez 近期於第三季財報會議上表示，他並不擔心民主黨政治人物會阻礙資料中心的發展，並認為華爾街市場對此的擔憂是「過度反應」。儘管部分在期中選舉中勝選的民主黨人士曾以反對資料中心興建為競選政見，但 Constellation 仍看好核能發電在資料中心產業中的角色，例如 Meta 已與其簽訂長達 20 年的核電購電協議，確保其資料中心的能源供應。這顯示核能巨頭對資料中心未來擴張的信心。",
+      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "publishedAt": "2026-11-16T20:29:37.000Z",
+      "score": 82,
+      "tags": [
+        "核能",
+        "資料中心",
+        "能源"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "TechCrunch",
+      "originalTitle": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "translatedTitle": "川普指前 NVIDIA CEO 黃仁勳與疑似中國間諜的關係不威脅國安",
+      "summaryZh": "美國前總統川普近日表示，前 NVIDIA 執行長黃仁勳與據稱是中國間諜的 Alice Huang 的個人關係，並未對美國國家安全構成威脅。此番言論與美國情治單位的情報報告結論相左，據報情治單位認為 Alice Huang 確實為中國間諜。",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "publishedAt": "2026-11-16T19:12:02.000Z",
+      "score": 80,
+      "tags": [
+        "NVIDIA",
+        "AI"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "TechCrunch",
+      "originalTitle": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "translatedTitle": "Apple 揭露 Mac 新安全機制，強化 AI 應用程式隱私防護",
+      "summaryZh": "Apple 近期公布 macOS 27.3 的多項全新安全機制，旨在強化 Mac 使用者的隱私防護，以應對 AI 代理程式及其他應用程式可能帶來的潛在風險。這些新功能包含更細緻的權限管控、警示通知，以及提升資訊透明化的設計，確保用戶資料安全。這項更新延續了 Apple 十月份首次揭露的資安承諾。",
+      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "publishedAt": "2026-11-16T21:01:02.000Z",
+      "score": 77,
+      "tags": [
+        "AI",
+        "Apple",
+        "資安"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "The Verge",
+      "originalTitle": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "translatedTitle": "OpenAI 執行長 Sam Altman 強調人人應擁大量 RAM",
+      "summaryZh": "OpenAI 執行長 Sam Altman 近期針對個人電腦記憶體 (RAM) 的爭議言論再次做出回應。上個月他曾表示，一般人使用 RAM 不如集中於資料中心，引發熱烈討論。但本週在 Semafor 峰會上，Altman 澄清並強調，他希望每個人都能為自己的電腦購買大量 RAM，並認為這種「個人組裝」的模式非常棒。此番發言，顯示他對個人運算與 DIY 精神的支持。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "publishedAt": "2026-11-16T20:41:28.000Z",
+      "score": 74,
+      "tags": [
+        "AI",
+        "個人電腦"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "TechCrunch",
+      "originalTitle": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "translatedTitle": "Sam Altman 談 NVIDIA 黃仁勳：AI 產業少了他也「沒問題」",
+      "summaryZh": "OpenAI 執行長 Sam Altman 近期對 NVIDIA 共同創辦人暨執行長黃仁勳在 AI 產業中的關鍵地位發表看法。Altman 坦言黃仁勳對於當前 AI 浪潮的貢獻至關重要，但他同時也指出，即使未來黃仁勳不再掌舵 NVIDIA，AI 產業的整體發展仍將「沒問題」，暗示產業具備足夠的韌性與動能，不會因此停滯不前。這番言論突顯了 Altman 對 AI 產業前景的信心。",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "publishedAt": "2026-11-16T18:11:10.000Z",
+      "score": 73,
+      "tags": [
+        "AI",
+        "NVIDIA"
+      ]
+    }
+  ]
+}
