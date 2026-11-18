@@ -1,77 +1,80 @@
 {
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T12:19:33+08:00",
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T11:25:47+08:00",
   "items": [
     {
       "rank": 1,
       "source": "The Verge",
-      "originalTitle": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-      "translatedTitle": "核能巨頭Constellation不畏民主黨阻擋資料中心擴建",
-      "summaryZh": "美國最大核電廠營運商 Constellation Energy 執行長 Joe Dominguez 近期於第三季財報會議上表示，他並不擔心民主黨政治人物會阻礙資料中心的發展，並認為華爾街市場對此的擔憂是「過度反應」。儘管部分在期中選舉中勝選的民主黨人士曾以反對資料中心興建為競選政見，但 Constellation 仍看好核能發電在資料中心產業中的角色，例如 Meta 已與其簽訂長達 20 年的核電購電協議，確保其資料中心的能源供應。這顯示核能巨頭對資料中心未來擴張的信心。",
-      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-      "publishedAt": "2026-11-16T20:29:37.000Z",
-      "score": 82,
+      "originalTitle": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "translatedTitle": "「AI 換臉」無孔不入！OpenAI 執行長 Sam Altman 也成 Instagram 上的惡搞對象",
+      "summaryZh": "Meta AI 負責人 Alexandr Wang 近期在 Instagram 發布一段 AI 生成影片，引發業界關注。該影片內容為 Meta 執行長 Mark Zuckerberg、OpenAI 執行長 Sam Altman 與 Meta 消費性 AI 助理 Muse 吉祥物 Jolly 的「四方視訊會議」。影片中，Sam Altman 被 AI 換臉成 Jolly 的毛茸茸造型，極具惡搞意味。儘管影片用意是推廣 Meta 的 AI 產品 Muse，卻也再次突顯了 AI 換臉（Deepfake）內容在社群媒體上的普及性，即使是 OpenAI 執行長 Sam Altman 這類重量級人物，也難",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "publishedAt": "2026-11-17T21:00:55.000Z",
+      "score": 86,
       "tags": [
-        "核能",
-        "資料中心",
-        "能源"
+        "AI",
+        "Deepfake"
       ]
     },
     {
       "rank": 2,
-      "source": "TechCrunch",
-      "originalTitle": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "translatedTitle": "川普指前 NVIDIA CEO 黃仁勳與疑似中國間諜的關係不威脅國安",
-      "summaryZh": "美國前總統川普近日表示，前 NVIDIA 執行長黃仁勳與據稱是中國間諜的 Alice Huang 的個人關係，並未對美國國家安全構成威脅。此番言論與美國情治單位的情報報告結論相左，據報情治單位認為 Alice Huang 確實為中國間諜。",
-      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "publishedAt": "2026-11-16T19:12:02.000Z",
-      "score": 80,
+      "source": "The Verge",
+      "originalTitle": "Satya Nadella says he’s AGI-pilled now",
+      "translatedTitle": "Satya Nadella 自稱已「AGI入教」",
+      "summaryZh": "微軟執行長 Satya Nadella 近期在 Microsoft Ignite 活動後圓桌會議上表示，他已「AGI入教」，深信通用人工智慧（AGI）將對全球經濟結構與政治帶來劇烈且深遠的變革。儘管如此，Nadella 不認為目前如 Claude 等尖端 AI 模型已具備意識，並認同 Microsoft AI 執行長 Mustafa Suleyman 的看法，即企業不應賦予 AI 模型權利或將其視為具備主體地位。他強調應關注 AGI 在經濟層面的組織與政治經濟學的變革。",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "publishedAt": "2026-11-17T23:41:18.000Z",
+      "score": 78,
       "tags": [
-        "NVIDIA",
-        "AI"
+        "AI",
+        "AGI",
+        "Microsoft",
+        "Satya Nadella"
       ]
     },
     {
       "rank": 3,
-      "source": "TechCrunch",
-      "originalTitle": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-      "translatedTitle": "Apple 揭露 Mac 新安全機制，強化 AI 應用程式隱私防護",
-      "summaryZh": "Apple 近期公布 macOS 27.3 的多項全新安全機制，旨在強化 Mac 使用者的隱私防護，以應對 AI 代理程式及其他應用程式可能帶來的潛在風險。這些新功能包含更細緻的權限管控、警示通知，以及提升資訊透明化的設計，確保用戶資料安全。這項更新延續了 Apple 十月份首次揭露的資安承諾。",
-      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-      "publishedAt": "2026-11-16T21:01:02.000Z",
-      "score": 77,
+      "source": "The Verge",
+      "originalTitle": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+      "translatedTitle": "NVIDIA 財報會議聚焦：前執行長黃仁勳辭職風波及潛在國安疑慮",
+      "summaryZh": "NVIDIA 近期面臨高層人事變動，前執行長黃仁勳（Jensen Huang）上週因涉入多起婚外情而辭職，其中包含與據稱是中國資產的前 Megaspeed 主管 Alice Huang，以及一位直屬下屬 Kimberly Powell。NVIDIA 董事會正調查黃仁勳與 Alice Huang 的關係是否危及國家安全或公司機密。本週二的財報會議由財務長暨臨時執行長 Colette Kress 和首任董事長 Harvey C. Jones 共同主持。黃仁勳也預計於 12 月 1 日出席國會聽證會作證。",
+      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+      "publishedAt": "2026-11-17T22:32:50.000Z",
+      "score": 76,
       "tags": [
         "AI",
-        "Apple",
-        "資安"
+        "NVIDIA"
       ]
     },
     {
       "rank": 4,
-      "source": "The Verge",
-      "originalTitle": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "translatedTitle": "OpenAI 執行長 Sam Altman 強調人人應擁大量 RAM",
-      "summaryZh": "OpenAI 執行長 Sam Altman 近期針對個人電腦記憶體 (RAM) 的爭議言論再次做出回應。上個月他曾表示，一般人使用 RAM 不如集中於資料中心，引發熱烈討論。但本週在 Semafor 峰會上，Altman 澄清並強調，他希望每個人都能為自己的電腦購買大量 RAM，並認為這種「個人組裝」的模式非常棒。此番發言，顯示他對個人運算與 DIY 精神的支持。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-      "publishedAt": "2026-11-16T20:41:28.000Z",
-      "score": 74,
+      "source": "Ars Technica",
+      "originalTitle": "Google makes it easier to use Gemini without training AI on your data",
+      "translatedTitle": "Google Gemini 強化隱私選項：訓練資料與聊天記錄可分開管理",
+      "summaryZh": "Google 宣布為其 AI 模型 Gemini 推出隱私設定更新，讓使用者能更彈性地管理個人資料。未來在 Gemini 的活動設定中，將提供「AI 訓練」與「聊天記錄」的獨立開關。這項改動意味著用戶可以選擇不讓 Google 將他們的互動內容用於 AI 模型訓練，同時仍能保留過往的聊天記錄，大幅提升了資料運用的透明度與隱私保障。",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "publishedAt": "2026-11-17T16:50:10.000Z",
+      "score": 69,
       "tags": [
         "AI",
-        "個人電腦"
+        "Google",
+        "Gemini",
+        "隱私"
       ]
     },
     {
       "rank": 5,
-      "source": "TechCrunch",
-      "originalTitle": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-      "translatedTitle": "Sam Altman 談 NVIDIA 黃仁勳：AI 產業少了他也「沒問題」",
-      "summaryZh": "OpenAI 執行長 Sam Altman 近期對 NVIDIA 共同創辦人暨執行長黃仁勳在 AI 產業中的關鍵地位發表看法。Altman 坦言黃仁勳對於當前 AI 浪潮的貢獻至關重要，但他同時也指出，即使未來黃仁勳不再掌舵 NVIDIA，AI 產業的整體發展仍將「沒問題」，暗示產業具備足夠的韌性與動能，不會因此停滯不前。這番言論突顯了 Altman 對 AI 產業前景的信心。",
-      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "publishedAt": "2026-11-16T18:11:10.000Z",
-      "score": 73,
+      "source": "The Verge",
+      "originalTitle": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
+      "translatedTitle": "NVIDIA董事會聲明不讓黃仁勳復職執行長",
+      "summaryZh": "NVIDIA 董事會新任主席 Harvey Jones 週二明確指出，董事會已一致接受前執行長黃仁勳的辭呈，並無意讓他復職。Jones 強調，公司不會針對黃仁勳辭職的背景及相關調查進行討論或提問。此前，黃仁勳曾公開暗示可能回鍋，並透過 X 平台發文表示自己未能達到公司標準，對錯誤感到後悔，並承諾會配合調查。此聲明正式終結了外界對黃仁勳可能重掌 NVIDIA 兵符的猜測。",
+      "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
+      "publishedAt": "2026-11-17T22:05:05.000Z",
+      "score": 66,
       "tags": [
-        "AI",
-        "NVIDIA"
+        "NVIDIA",
+        "黃仁勳",
+        "高層人事"
       ]
     }
   ]

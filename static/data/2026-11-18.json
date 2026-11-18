@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T11:25:47+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "translatedTitle": "「AI 換臉」無孔不入！OpenAI 執行長 Sam Altman 也成 Instagram 上的惡搞對象",
+      "summaryZh": "Meta AI 負責人 Alexandr Wang 近期在 Instagram 發布一段 AI 生成影片，引發業界關注。該影片內容為 Meta 執行長 Mark Zuckerberg、OpenAI 執行長 Sam Altman 與 Meta 消費性 AI 助理 Muse 吉祥物 Jolly 的「四方視訊會議」。影片中，Sam Altman 被 AI 換臉成 Jolly 的毛茸茸造型，極具惡搞意味。儘管影片用意是推廣 Meta 的 AI 產品 Muse，卻也再次突顯了 AI 換臉（Deepfake）內容在社群媒體上的普及性，即使是 OpenAI 執行長 Sam Altman 這類重量級人物，也難",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "publishedAt": "2026-11-17T21:00:55.000Z",
+      "score": 86,
+      "tags": [
+        "AI",
+        "Deepfake"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "The Verge",
+      "originalTitle": "Satya Nadella says he’s AGI-pilled now",
+      "translatedTitle": "Satya Nadella 自稱已「AGI入教」",
+      "summaryZh": "微軟執行長 Satya Nadella 近期在 Microsoft Ignite 活動後圓桌會議上表示，他已「AGI入教」，深信通用人工智慧（AGI）將對全球經濟結構與政治帶來劇烈且深遠的變革。儘管如此，Nadella 不認為目前如 Claude 等尖端 AI 模型已具備意識，並認同 Microsoft AI 執行長 Mustafa Suleyman 的看法，即企業不應賦予 AI 模型權利或將其視為具備主體地位。他強調應關注 AGI 在經濟層面的組織與政治經濟學的變革。",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "publishedAt": "2026-11-17T23:41:18.000Z",
+      "score": 78,
+      "tags": [
+        "AI",
+        "AGI",
+        "Microsoft",
+        "Satya Nadella"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+      "translatedTitle": "NVIDIA 財報會議聚焦：前執行長黃仁勳辭職風波及潛在國安疑慮",
+      "summaryZh": "NVIDIA 近期面臨高層人事變動，前執行長黃仁勳（Jensen Huang）上週因涉入多起婚外情而辭職，其中包含與據稱是中國資產的前 Megaspeed 主管 Alice Huang，以及一位直屬下屬 Kimberly Powell。NVIDIA 董事會正調查黃仁勳與 Alice Huang 的關係是否危及國家安全或公司機密。本週二的財報會議由財務長暨臨時執行長 Colette Kress 和首任董事長 Harvey C. Jones 共同主持。黃仁勳也預計於 12 月 1 日出席國會聽證會作證。",
+      "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+      "publishedAt": "2026-11-17T22:32:50.000Z",
+      "score": 76,
+      "tags": [
+        "AI",
+        "NVIDIA"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "Ars Technica",
+      "originalTitle": "Google makes it easier to use Gemini without training AI on your data",
+      "translatedTitle": "Google Gemini 強化隱私選項：訓練資料與聊天記錄可分開管理",
+      "summaryZh": "Google 宣布為其 AI 模型 Gemini 推出隱私設定更新，讓使用者能更彈性地管理個人資料。未來在 Gemini 的活動設定中，將提供「AI 訓練」與「聊天記錄」的獨立開關。這項改動意味著用戶可以選擇不讓 Google 將他們的互動內容用於 AI 模型訓練，同時仍能保留過往的聊天記錄，大幅提升了資料運用的透明度與隱私保障。",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "publishedAt": "2026-11-17T16:50:10.000Z",
+      "score": 69,
+      "tags": [
+        "AI",
+        "Google",
+        "Gemini",
+        "隱私"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "The Verge",
+      "originalTitle": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
+      "translatedTitle": "NVIDIA董事會聲明不讓黃仁勳復職執行長",
+      "summaryZh": "NVIDIA 董事會新任主席 Harvey Jones 週二明確指出，董事會已一致接受前執行長黃仁勳的辭呈，並無意讓他復職。Jones 強調，公司不會針對黃仁勳辭職的背景及相關調查進行討論或提問。此前，黃仁勳曾公開暗示可能回鍋，並透過 X 平台發文表示自己未能達到公司標準，對錯誤感到後悔，並承諾會配合調查。此聲明正式終結了外界對黃仁勳可能重掌 NVIDIA 兵符的猜測。",
+      "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
+      "publishedAt": "2026-11-17T22:05:05.000Z",
+      "score": 66,
+      "tags": [
+        "NVIDIA",
+        "黃仁勳",
+        "高層人事"
+      ]
+    }
+  ]
+}
