@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T10:56:39+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "Apple is hiring engineers to build its own AI agent",
+      "translatedTitle": "蘋果積極招募 AI 代理人工程師，傳將推自主 AI 助理",
+      "summaryZh": "蘋果正積極投入開發自家 AI 代理人（AI agent），根據彭博社報導，蘋果已發布職缺，徵求資深工程師領導這類「代理式 AI 助理」的開發。這款 AI 代理人預期能執行多種任務，包括網路瀏覽、跨應用程式操作、程式碼編寫以及呼叫各項服務。此舉將讓蘋果與 Meta 的 Muse、OpenAI 的 Dots、Anthropic 的 Duet 以及 Google 的 Tasks/Gemini 等競爭對手直接對抗。目前，部分競爭產品如 ChatGPT、Perplexity 和 Google 的 Gemini 已能透過 Mac 應用程式或直接整合來掌控電腦功能，顯示 AI 代理人已成為科技巨頭新戰場。",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "publishedAt": "2026-11-19T22:31:41.000Z",
+      "score": 150,
+      "tags": [
+        "AI",
+        "Apple"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "The Verge",
+      "originalTitle": "Google is putting AI chats right on the homepage",
+      "translatedTitle": "Google 搜尋首頁整合 AI 聊天功能",
+      "summaryZh": "Google 正全面更新其桌面版搜尋首頁，導入全新的 AI 聊天功能。Google 產品副總裁 Robby Stein 在 X (推特) 上宣布，使用者現在可透過首頁左側的可收合側邊欄，直接存取並繼續先前的 AI 聊天對話。此側邊欄將顯示使用者在 AI 模式下的搜尋紀錄，並提供建立新對話、搜尋歷史紀錄或連結 Gemini Notebook 等選項，旨在提升 AI 搜尋體驗的便利性。這項更新預計在全球範圍內推出。",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "publishedAt": "2026-11-19T20:05:06.000Z",
+      "score": 73,
+      "tags": [
+        "AI",
+        "Google",
+        "搜尋",
+        "Gemini"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Meta now sells 3D movies on Quest VR headsets",
+      "translatedTitle": "Meta Quest VR 開賣 3D 電影，提供沉浸式劇院體驗",
+      "summaryZh": "Meta 近日宣布，旗下 Quest VR 頭戴裝置（包含 Quest 3 和 3S）用戶現在可透過 Meta TV 應用程式，購買或租賃超過 150 部 3D 電影。這項服務提供沉浸式的觀影體驗，並推出「劇院模式」（Theater view），讓使用者在虛擬空間中享有大螢幕的個人電影院感受。電影庫將持續擴充，首波片單涵蓋《阿凡達》、《蜘蛛人：離家日》等多部知名作品，甚至包含 Billie Eilish 與 James Cameron 共同執導的演唱會電影。",
+      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+      "publishedAt": "2026-11-19T21:12:06.000Z",
+      "score": 62,
+      "tags": [
+        "VR",
+        "Meta",
+        "Quest",
+        "娛樂"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "Ars Technica",
+      "originalTitle": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+      "translatedTitle": "Google 攜手 Blue Origin 發展火箭計畫，然長期挑戰依舊",
+      "summaryZh": "科技巨擘 Google 據傳正與太空公司 Blue Origin 攜手，共同推動一項涉及火箭發展的合作計畫。這項被稱為「Project Suncatcher」的專案，定位為一項雄心勃勃的長期「登月計畫」（moonshot）。然而，儘管 Google 在太空領域積極投入，外界分析指出，此舉可能仍無法完全化解該公司長期以來所面臨的根本性挑戰。",
+      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+      "publishedAt": "2026-11-19T19:52:54.000Z",
+      "score": 61,
+      "tags": [
+        "Google",
+        "Blue Origin",
+        "太空",
+        "火箭"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "Hacker News",
+      "originalTitle": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "translatedTitle": "Postgres 19 正式推出，並已可於 Neon 與 Databricks Lakebase 使用",
+      "summaryZh": "開源關聯式資料庫系統 Postgres 最新版本 19 已正式問世。使用者目前已可在雲端資料庫服務平台 Neon 上存取及運用。此外，資料與 AI 公司 Databricks 也透過其 Lakebase 平台提供 Postgres 19 的支援。此舉讓用戶能透過這兩個雲端服務平台，立即體驗 Postgres 19 的最新功能與效能提升。",
+      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+      "publishedAt": "2026-11-20T00:37:31.000Z",
+      "score": 50,
+      "tags": [
+        "Postgres",
+        "資料庫",
+        "雲端服務",
+        "Databricks",
+        "Neon"
+      ]
+    }
+  ]
+}

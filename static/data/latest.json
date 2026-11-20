@@ -1,78 +1,84 @@
 {
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T11:04:18+08:00",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T10:56:39+08:00",
   "items": [
     {
       "rank": 1,
       "source": "The Verge",
-      "originalTitle": "The nation’s largest school districts consider ditching Google Search",
-      "translatedTitle": "Google強制綁定AI功能，美國大型學區研擬放棄Google搜尋",
-      "summaryZh": "Google 近期宣布一項新政策，自明年起，美國各級學校若選擇關閉其AI功能，將同步停用Google搜尋服務。這項政策意味著學校將無法單獨禁用由 Gemini 驅動的AI功能。此舉引發軒然大波，包括紐約、洛杉磯和芝加哥等美國大型學區已開始評估Google搜尋的替代方案。Google教育部門副總裁 Chris Phillips 表示，搜尋與AI已深度整合，此為必要措施。然而，紐約市議員 Zohran Mamdani 和參議員 Bernie Sanders 等多位民意代表對此表達強烈不滿，認為此舉限制了學校的選擇權，並引發資料隱私疑慮。此事件恐促使教育機構重新審視其科技供應商策略。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "publishedAt": "2026-11-18T23:18:35.000Z",
-      "score": 86,
+      "originalTitle": "Apple is hiring engineers to build its own AI agent",
+      "translatedTitle": "蘋果積極招募 AI 代理人工程師，傳將推自主 AI 助理",
+      "summaryZh": "蘋果正積極投入開發自家 AI 代理人（AI agent），根據彭博社報導，蘋果已發布職缺，徵求資深工程師領導這類「代理式 AI 助理」的開發。這款 AI 代理人預期能執行多種任務，包括網路瀏覽、跨應用程式操作、程式碼編寫以及呼叫各項服務。此舉將讓蘋果與 Meta 的 Muse、OpenAI 的 Dots、Anthropic 的 Duet 以及 Google 的 Tasks/Gemini 等競爭對手直接對抗。目前，部分競爭產品如 ChatGPT、Perplexity 和 Google 的 Gemini 已能透過 Mac 應用程式或直接整合來掌控電腦功能，顯示 AI 代理人已成為科技巨頭新戰場。",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "publishedAt": "2026-11-19T22:31:41.000Z",
+      "score": 150,
       "tags": [
         "AI",
-        "Google"
+        "Apple"
       ]
     },
     {
       "rank": 2,
       "source": "The Verge",
-      "originalTitle": "Trump’s latest land grab is an AI hub in the Philippines",
-      "translatedTitle": "川普赴菲律賓啟動AI樞紐 計畫鞏固晶片及關鍵礦物",
-      "summaryZh": "據報導，美國前總統川普於2026年11月訪問菲律賓，主要目標是推動建立一座AI數據中心。此舉為美國主導的「Pax Silica」國際倡議一環，旨在確保全球晶片及關鍵礦物的供應安全。此計畫突顯美國在AI與半導體供應鏈上的戰略佈局，意圖在印太區域鞏固其科技影響力。",
-      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-      "publishedAt": "2026-11-18T19:40:36.000Z",
-      "score": 69,
+      "originalTitle": "Google is putting AI chats right on the homepage",
+      "translatedTitle": "Google 搜尋首頁整合 AI 聊天功能",
+      "summaryZh": "Google 正全面更新其桌面版搜尋首頁，導入全新的 AI 聊天功能。Google 產品副總裁 Robby Stein 在 X (推特) 上宣布，使用者現在可透過首頁左側的可收合側邊欄，直接存取並繼續先前的 AI 聊天對話。此側邊欄將顯示使用者在 AI 模式下的搜尋紀錄，並提供建立新對話、搜尋歷史紀錄或連結 Gemini Notebook 等選項，旨在提升 AI 搜尋體驗的便利性。這項更新預計在全球範圍內推出。",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "publishedAt": "2026-11-19T20:05:06.000Z",
+      "score": 73,
       "tags": [
         "AI",
-        "NVIDIA"
+        "Google",
+        "搜尋",
+        "Gemini"
       ]
     },
     {
       "rank": 3,
-      "source": "Hacker News",
-      "originalTitle": "Advancing chip design with OpenAI models",
-      "translatedTitle": "OpenAI 模型助力晶片設計",
-      "summaryZh": "OpenAI 近期揭露其在 AI 模型應用於晶片設計上的新進展，指出該公司正利用其 AI 模型協助加速晶片設計流程。此舉不僅可望大幅提升晶片開發效率並縮短產品上市時程，對半導體產業的未來發展亦具有關鍵影響。透過 AI 模型優化複雜的設計環節，OpenAI 致力於為高效能晶片提供更智慧的設計解決方案，預期將有助於突破現有晶片設計瓶頸，加速產業創新腳步。",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-      "publishedAt": "2026-11-18T17:45:47.000Z",
-      "score": 67,
+      "source": "The Verge",
+      "originalTitle": "Meta now sells 3D movies on Quest VR headsets",
+      "translatedTitle": "Meta Quest VR 開賣 3D 電影，提供沉浸式劇院體驗",
+      "summaryZh": "Meta 近日宣布，旗下 Quest VR 頭戴裝置（包含 Quest 3 和 3S）用戶現在可透過 Meta TV 應用程式，購買或租賃超過 150 部 3D 電影。這項服務提供沉浸式的觀影體驗，並推出「劇院模式」（Theater view），讓使用者在虛擬空間中享有大螢幕的個人電影院感受。電影庫將持續擴充，首波片單涵蓋《阿凡達》、《蜘蛛人：離家日》等多部知名作品，甚至包含 Billie Eilish 與 James Cameron 共同執導的演唱會電影。",
+      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+      "publishedAt": "2026-11-19T21:12:06.000Z",
+      "score": 62,
       "tags": [
-        "AI",
-        "OpenAI",
-        "晶片設計",
-        "半導體"
+        "VR",
+        "Meta",
+        "Quest",
+        "娛樂"
       ]
     },
     {
       "rank": 4,
       "source": "Ars Technica",
-      "originalTitle": "Windows Server 2028 trades compatibility for out-of-the-box security",
-      "translatedTitle": "Windows Server 2028 強調預設資安，可能考驗應用程式相容性",
-      "summaryZh": "Microsoft 即將推出的 Windows Server 2028 公眾預覽版，採取「資安優先」策略。新版本強化了預設組態，使其與美國國防部（DoD）的嚴格標準保持一致，旨在提供更強大的開箱即用安全性。然而，這項變革可能導致部分應用程式面臨相容性挑戰，考驗企業在資安與既有系統整合間的權衡。",
-      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
-      "publishedAt": "2026-11-18T20:41:12.000Z",
-      "score": 60,
+      "originalTitle": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
+      "translatedTitle": "Google 攜手 Blue Origin 發展火箭計畫，然長期挑戰依舊",
+      "summaryZh": "科技巨擘 Google 據傳正與太空公司 Blue Origin 攜手，共同推動一項涉及火箭發展的合作計畫。這項被稱為「Project Suncatcher」的專案，定位為一項雄心勃勃的長期「登月計畫」（moonshot）。然而，儘管 Google 在太空領域積極投入，外界分析指出，此舉可能仍無法完全化解該公司長期以來所面臨的根本性挑戰。",
+      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+      "publishedAt": "2026-11-19T19:52:54.000Z",
+      "score": 61,
       "tags": [
-        "Microsoft",
-        "Windows Server",
-        "資安"
+        "Google",
+        "Blue Origin",
+        "太空",
+        "火箭"
       ]
     },
     {
       "rank": 5,
-      "source": "MIT Technology Review",
-      "originalTitle": "The AI Hype Index: AI is everywhere",
-      "translatedTitle": "AI 瘋潮指數：人工智慧無所不在",
-      "summaryZh": "根據《MIT Technology Review》報導，當前人工智慧（AI）已成為一股無所不在的「AI 瘋潮」。從科技巨頭 Google 不惜損失數十億美元廣告收益，仍積極推動其 AI Overviews 功能，到日常生活中隨處可見的應用，例如 AI 驅動的人形機器人已能進入家庭提供清潔服務，都顯示 AI 正快速且全面地滲透各行各業與個人生活，其擴散速度有如一場難以阻擋的浪潮。",
-      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-      "publishedAt": "2026-11-18T14:42:44.000Z",
-      "score": 55,
+      "source": "Hacker News",
+      "originalTitle": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "translatedTitle": "Postgres 19 正式推出，並已可於 Neon 與 Databricks Lakebase 使用",
+      "summaryZh": "開源關聯式資料庫系統 Postgres 最新版本 19 已正式問世。使用者目前已可在雲端資料庫服務平台 Neon 上存取及運用。此外，資料與 AI 公司 Databricks 也透過其 Lakebase 平台提供 Postgres 19 的支援。此舉讓用戶能透過這兩個雲端服務平台，立即體驗 Postgres 19 的最新功能與效能提升。",
+      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+      "publishedAt": "2026-11-20T00:37:31.000Z",
+      "score": 50,
       "tags": [
-        "AI",
-        "Google"
+        "Postgres",
+        "資料庫",
+        "雲端服務",
+        "Databricks",
+        "Neon"
       ]
     }
   ]
