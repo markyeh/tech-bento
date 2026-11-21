@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T11:06:49+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "translatedTitle": "AI 數學新突破？Anthropic 研究員稱靠 Claude 破解黎曼假說",
+      "summaryZh": "Anthropic 公司的數學家 Levent Alpöge 近日聲稱，他透過運用自家開發的 AI 模型 Claude，成功解決了困擾數學界數十年，並列為「千禧年大獎難題」之一的黎曼假說。這項挑戰若經獨立驗證屬實，將是繼 OpenAI 之後，AI 在高等數學領域又一重大里程碑。不過，Alpöge 的證明目前仍待專家學者檢視與確認，Anthropic 官方也尚未對此發表任何評論。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "publishedAt": "2026-11-20T16:34:13.000Z",
+      "score": 87,
+      "tags": [
+        "AI",
+        "Anthropic"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "Ars Technica",
+      "originalTitle": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "translatedTitle": "Meta 因 AI 資料中心碳排放創新高，重新評估 2030 年淨零目標",
+      "summaryZh": "科技巨頭 Meta 證實正在重新評估其 2030 年淨零碳排目標。主要原因是，隨著 AI 技術發展與龐大運算需求，旗下 AI 資料中心的碳排放量已創下歷史新高。這項調整引發外界關注，在 AI 浪潮下，資料中心的能源消耗與碳足跡持續攀升，其他科技大廠是否也會重新審視其永續發展承諾，預示著產業在追求 AI 創新的同時，面臨嚴峻的環保挑戰。",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "publishedAt": "2026-11-20T21:47:10.000Z",
+      "score": 75,
+      "tags": [
+        "AI",
+        "Meta",
+        "永續發展"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "translatedTitle": "川普揚言對將AI資料中心遷出美國的企業課徵「鉅額關稅」",
+      "summaryZh": "前美國總統川普（Donald Trump）近日再次針對AI資料中心議題發言，揚言若美國企業將AI資料中心移往海外，將課徵「鉅額關稅」。他強調此舉旨在避免重蹈過去晶片產業技術外流的覆轍，確保美國關鍵基礎設施與技術的在地化。此政策提議引發關注，特別是美國境內部分州與城市，也正對新建資料中心施加限制，顯示美國無論是從國家安全或在地資源角度，都對AI運算設施的佈局採取更嚴謹的戰略考量。",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "publishedAt": "2026-11-20T18:50:19.000Z",
+      "score": 70,
+      "tags": [
+        "AI",
+        "資料中心",
+        "美國政策"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "Ars Technica",
+      "originalTitle": "Google rolls out new search homepage with AI chat history and no search button",
+      "translatedTitle": "Google 搜尋首頁大改版：整合 AI 聊天紀錄，移除搜尋按鈕",
+      "summaryZh": "Google 近期針對其核心搜尋服務首頁推出重大改版，旨在提供用戶更便捷的 AI 工具存取體驗。新版頁面不僅整合了 AI 聊天紀錄功能，更令人矚目的是，傳統的「搜尋」按鈕已不復見。此設計理念反映 Google 期望用戶能更直覺地透過 AI 功能互動，或在輸入查詢後即刻獲得搜尋結果。此舉顯見 Google 正積極將 AI 技術深度融入其招牌搜尋產品，以全面提升使用者體驗並加速 AI 應用普及化。",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "publishedAt": "2026-11-20T21:58:29.000Z",
+      "score": 63,
+      "tags": [
+        "AI",
+        "Google",
+        "搜尋"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "Ars Technica",
+      "originalTitle": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "translatedTitle": "SpaceX Starshield 烏克蘭困境恐衝擊其整體軍事業務",
+      "summaryZh": "SpaceX 專為國防應用設計的衛星通訊服務 Starshield，傳出在烏克蘭遭遇困境。據了解，2026 年 10 月 Starshield 服務進行了調整，可能導致一些問題浮現。這些挑戰不僅衝擊其在烏克蘭戰場的表現，更可能對 SpaceX 拓展其整體軍事業務構成威脅。尤其有消息指出，美國眾議院主席已針對烏克蘭爭議，暗示可能影響 SpaceX 的相關資金挹注。這使得 Starshield 未來在軍事領域的發展前景，以及 SpaceX 與各國政府的合作關係，面臨嚴峻考驗。",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "publishedAt": "2026-11-20T22:16:51.000Z",
+      "score": 61,
+      "tags": [
+        "SpaceX",
+        "Starshield",
+        "烏克蘭",
+        "軍事通訊"
+      ]
+    }
+  ]
+}
