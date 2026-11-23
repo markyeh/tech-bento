@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T10:21:16+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "We haven’t seen the last of the major tech outages",
+      "translatedTitle": "大規模科技服務中斷事件恐非終點",
+      "summaryZh": "近期科技界頻傳大規模服務中斷事件，例如美國FAA地面航班管制系統癱瘓、Microsoft Outlook服務大規模中斷數日，以及摩根大通（JPMorgan Chase）銀行系統故障。業界普遍認為，未來類似事件恐將層出不窮。美國國家情報總監Jay Clayton指出，隨著科技（無論是運算或應用）大幅躍進，系統難免面臨挑戰，因此應加強投資系統升級與網路安全。Microsoft總裁Brad Smith亦持類似觀點。",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "publishedAt": "2026-11-22T22:48:02.000Z",
+      "score": 64,
+      "tags": [
+        "科技",
+        "資安"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "The Verge",
+      "originalTitle": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "translatedTitle": "《以撒的結合》開發商移除遊戲內 AI 音樂止血",
+      "summaryZh": "知名獨立遊戲《以撒的結合：償還 Plus》（Binding of Isaac: Repentance Plus）近日在 Steam 平台遭遇大量負評洗版。起因是 Reddit 玩家揭露，遊戲內一段致敬《俠盜獵車手》的橋段，被發現使用了 AI 生成音樂。該音樂檔案含有 Suno 的中繼資料，直接指向 Suno 網站上的曲目。遊戲製作人 Edmund McMillen 隨後在 X 平台公開道歉，聲稱對遊戲內使用 AI 音樂毫不知情。此事件也突顯了 Valve 對開發商要求揭露 AI 工具使用狀況的規定。製作團隊 Nicalis, Inc. 後續已將相關 AI 音樂從遊戲中移除，以平息爭議。",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "publishedAt": "2026-11-22T17:25:20.000Z",
+      "score": 59,
+      "tags": [
+        "AI",
+        "遊戲",
+        "爭議"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Protesters storm Meta offices in India",
+      "translatedTitle": "印度抗議群眾闖入 Meta 辦公室",
+      "summaryZh": "印度反對黨國大黨成員週五闖入 Meta 位於德里的辦公室，抗議 Meta 涉嫌言論審查，並要求恢復其黨領袖的社群帳號。他們指控 Meta 偏袒總理莫迪的執政黨印度人民黨，審查對其不利的言論，甚至掛上布條控訴 Mark Zuckerberg。儘管 Meta 當天恢復了兩個受影響的帳號，但國大黨青年翼官員表示仍有數千個帳號被停用，並揚言將發動更多抗議行動。",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+      "publishedAt": "2026-11-22T15:15:07.000Z",
+      "score": 57,
+      "tags": [
+        "Meta",
+        "社群平台",
+        "印度",
+        "政治審查"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "Hacker News",
+      "originalTitle": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "translatedTitle": "0rwx：受 Unix 權限啟發的 AI 使用模型",
+      "summaryZh": "「0rwx」是一個受 Unix 檔案系統權限（讀取、寫入、執行）啟發的簡易 AI 使用模型。此模型旨在提供一套框架，以簡化並規範人工智慧系統的應用與互動方式。它可能透過類似權限設定的機制，來管理使用者或應用程式對 AI 功能、資料存取或行為的控制級別，期望解決 AI 廣泛應用帶來的潛在管理挑戰。",
+      "url": "https://0rwx.com/",
+      "publishedAt": "2026-11-22T23:53:00.000Z",
+      "score": 50,
+      "tags": [
+        "AI",
+        "AI治理"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "Hacker News",
+      "originalTitle": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "translatedTitle": "Inkling、Qwen 與 Unsloth 本地端 AI 入門指南",
+      "summaryZh": "這篇報導聚焦於如何在本地端執行 AI 模型，為初學者提供了利用 Inkling、Qwen 及 Unsloth 等工具的實用指引。內容探討了如何運用 Inkling 這類平台或工具，搭配如 Qwen 的大型語言模型，並可能透過 Unsloth 進行模型訓練加速或推論優化。此指南旨在降低 AI 模型部署的技術門檻，讓開發者或 AI 愛好者能在個人電腦上輕鬆設置與客製化 AI 應用，進一步發揮本地端 AI 在隱私保護、運算效率與個人化方面的潛力。",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "publishedAt": "2026-11-22T21:01:16.000Z",
+      "score": 47,
+      "tags": [
+        "AI",
+        "本地端AI",
+        "大型語言模型",
+        "開發工具"
+      ]
+    }
+  ]
+}
