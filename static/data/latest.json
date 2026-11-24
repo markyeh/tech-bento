@@ -1,80 +1,83 @@
 {
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-23T10:21:16+08:00",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T13:51:05+08:00",
   "items": [
     {
       "rank": 1,
       "source": "The Verge",
-      "originalTitle": "We haven’t seen the last of the major tech outages",
-      "translatedTitle": "大規模科技服務中斷事件恐非終點",
-      "summaryZh": "近期科技界頻傳大規模服務中斷事件，例如美國FAA地面航班管制系統癱瘓、Microsoft Outlook服務大規模中斷數日，以及摩根大通（JPMorgan Chase）銀行系統故障。業界普遍認為，未來類似事件恐將層出不窮。美國國家情報總監Jay Clayton指出，隨著科技（無論是運算或應用）大幅躍進，系統難免面臨挑戰，因此應加強投資系統升級與網路安全。Microsoft總裁Brad Smith亦持類似觀點。",
-      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "publishedAt": "2026-11-22T22:48:02.000Z",
-      "score": 64,
+      "originalTitle": "Trump engineered a risky comeback for Jensen Huang",
+      "translatedTitle": "川普促成黃仁勳NVIDIA爭議性回歸",
+      "summaryZh": "美國科技媒體報導，NVIDIA執行長黃仁勳曾因涉入與疑似中國間諜的緋聞風波而請辭。儘管NVIDIA董事會已接受辭呈，美國前總統川普卻出手干預。川普起初雖表示黃仁勳可被取代，甚至點名蘋果前執行長Tim Cook，但他隨後改變態度，明確表態歡迎黃仁勳回任。消息指出，川普在幕後積極運作，最終促成了黃仁勳重返NVIDIA執行長一職，這場復職行動充滿爭議與風險。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "publishedAt": "2026-11-23T22:25:12.000Z",
+      "score": 74,
       "tags": [
-        "科技",
-        "資安"
+        "AI",
+        "NVIDIA"
       ]
     },
     {
       "rank": 2,
       "source": "The Verge",
-      "originalTitle": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "translatedTitle": "《以撒的結合》開發商移除遊戲內 AI 音樂止血",
-      "summaryZh": "知名獨立遊戲《以撒的結合：償還 Plus》（Binding of Isaac: Repentance Plus）近日在 Steam 平台遭遇大量負評洗版。起因是 Reddit 玩家揭露，遊戲內一段致敬《俠盜獵車手》的橋段，被發現使用了 AI 生成音樂。該音樂檔案含有 Suno 的中繼資料，直接指向 Suno 網站上的曲目。遊戲製作人 Edmund McMillen 隨後在 X 平台公開道歉，聲稱對遊戲內使用 AI 音樂毫不知情。此事件也突顯了 Valve 對開發商要求揭露 AI 工具使用狀況的規定。製作團隊 Nicalis, Inc. 後續已將相關 AI 音樂從遊戲中移除，以平息爭議。",
-      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-      "publishedAt": "2026-11-22T17:25:20.000Z",
-      "score": 59,
+      "originalTitle": "AI data centers throw another wrench into chaotic UN climate talks",
+      "translatedTitle": "AI資料中心電力需求為聯合國氣候談判增添新變數",
+      "summaryZh": "隨著全球致力推動潔淨能源轉型，人工智慧（AI）資料中心的龐大電力需求，正對此一進程構成嚴峻挑戰。近日混亂落幕的聯合國氣候峰會（COP31）上，各國代表便面臨如何平衡全球電氣化與AI資料中心激增耗電量的難題。為達成2015年《巴黎氣候協定》的減排承諾、避免極端氣候惡化，需大幅削減溫室氣體排放，然而AI資料中心的用電量卻不斷攀升，讓氣候談判複雜性倍增。",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "publishedAt": "2026-11-23T21:09:37.000Z",
+      "score": 69,
       "tags": [
         "AI",
-        "遊戲",
-        "爭議"
+        "氣候變遷",
+        "能源",
+        "資料中心"
       ]
     },
     {
       "rank": 3,
       "source": "The Verge",
-      "originalTitle": "Protesters storm Meta offices in India",
-      "translatedTitle": "印度抗議群眾闖入 Meta 辦公室",
-      "summaryZh": "印度反對黨國大黨成員週五闖入 Meta 位於德里的辦公室，抗議 Meta 涉嫌言論審查，並要求恢復其黨領袖的社群帳號。他們指控 Meta 偏袒總理莫迪的執政黨印度人民黨，審查對其不利的言論，甚至掛上布條控訴 Mark Zuckerberg。儘管 Meta 當天恢復了兩個受影響的帳號，但國大黨青年翼官員表示仍有數千個帳號被停用，並揚言將發動更多抗議行動。",
-      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
-      "publishedAt": "2026-11-22T15:15:07.000Z",
-      "score": 57,
+      "originalTitle": "Welcome to elite impunity, Jensen Huang",
+      "translatedTitle": "黃仁勳回鍋輝達執行長 科技界憂政治力介入自由市場",
+      "summaryZh": "輝達（NVIDIA）執行長黃仁勳近日高調回鍋，引發業界譁然與熱議。有報導指出，美國前總統Donald Trump和副總統JD Vance是其復職的幕後推手，此舉與外界普遍認知的「自由市場」原則顯然背道而馳。文章批評矽谷科技巨擘對自由市場的雙重標準，並指出當前趨勢恐讓外界擔憂政治力量正逐步干預企業運作，甚至可能導向「計畫經濟」模式，凸顯部分科技領袖在追求自身利益時，對傳統商業規範的漠視，引發外界對於科技界菁英特權的深切質疑。",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "publishedAt": "2026-11-23T22:09:26.000Z",
+      "score": 63,
       "tags": [
-        "Meta",
-        "社群平台",
-        "印度",
-        "政治審查"
+        "AI",
+        "NVIDIA",
+        "Politics"
       ]
     },
     {
       "rank": 4,
-      "source": "Hacker News",
-      "originalTitle": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "translatedTitle": "0rwx：受 Unix 權限啟發的 AI 使用模型",
-      "summaryZh": "「0rwx」是一個受 Unix 檔案系統權限（讀取、寫入、執行）啟發的簡易 AI 使用模型。此模型旨在提供一套框架，以簡化並規範人工智慧系統的應用與互動方式。它可能透過類似權限設定的機制，來管理使用者或應用程式對 AI 功能、資料存取或行為的控制級別，期望解決 AI 廣泛應用帶來的潛在管理挑戰。",
-      "url": "https://0rwx.com/",
-      "publishedAt": "2026-11-22T23:53:00.000Z",
-      "score": 50,
+      "source": "The Verge",
+      "originalTitle": "Google alternative Kagi launches an email service",
+      "translatedTitle": "Kagi 推出 Kagi Mail 公開測試版，隱私導向挑戰 Google Gmail",
+      "summaryZh": "隱私導向的搜尋引擎 Kagi 持續擴展其對 Google 服務的替代方案。繼付費搜尋與 Orion 瀏覽器後，Kagi 現宣布推出 Kagi Mail 電子郵件服務的公開測試版，目標直指 Google Gmail。Kagi Mail 強調「無監控、無廣告、開放標準、無綁定」，提供 @kagimail.com 地址、支援無限別名與自訂網域，並內建 50GB 儲存空間及行事曆功能。未來規劃於 2027 年第一季推出聯絡人功能，原生行動應用程式則預計在 2027 年第三季上線。此舉顯示 Kagi 欲在重視隱私的市場中，提供全方位的替代選擇。",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "publishedAt": "2026-11-24T00:02:52.000Z",
+      "score": 62,
       "tags": [
-        "AI",
-        "AI治理"
+        "電子郵件",
+        "網路服務",
+        "隱私"
       ]
     },
     {
       "rank": 5,
-      "source": "Hacker News",
-      "originalTitle": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "translatedTitle": "Inkling、Qwen 與 Unsloth 本地端 AI 入門指南",
-      "summaryZh": "這篇報導聚焦於如何在本地端執行 AI 模型，為初學者提供了利用 Inkling、Qwen 及 Unsloth 等工具的實用指引。內容探討了如何運用 Inkling 這類平台或工具，搭配如 Qwen 的大型語言模型，並可能透過 Unsloth 進行模型訓練加速或推論優化。此指南旨在降低 AI 模型部署的技術門檻，讓開發者或 AI 愛好者能在個人電腦上輕鬆設置與客製化 AI 應用，進一步發揮本地端 AI 在隱私保護、運算效率與個人化方面的潛力。",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "publishedAt": "2026-11-22T21:01:16.000Z",
-      "score": 47,
+      "source": "MIT Technology Review",
+      "originalTitle": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "translatedTitle": "岩石碳捕捉技術：科技巨頭力推，卻潛藏作物減產風險",
+      "summaryZh": "科技巨頭 Google 和 Microsoft 等公司正投入數億美元，積極推動一項基於「增強型風化作用」(enhanced rock weathering) 的碳捕捉技術。這項技術透過在農田中撒佈玄武岩 (basalt) 或橄欖石 (olivine) 等鹼性礦物碎屑，旨在從大氣中捕獲二氧化碳並加以封存。然而，儘管被寄予厚望，多項具影響力的模型研究卻指出，長期採用此方法，恐將對作物生長產生負面影響，甚至導致作物產量減少，為這項永續發展方案帶來潛在挑戰。",
+      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "publishedAt": "2026-11-23T11:00:00.000Z",
+      "score": 60,
       "tags": [
-        "AI",
-        "本地端AI",
-        "大型語言模型",
-        "開發工具"
+        "碳捕捉",
+        "永續發展",
+        "環境科技",
+        "農業科技",
+        "Google",
+        "Microsoft"
       ]
     }
   ]
