@@ -1,83 +1,77 @@
 {
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T13:51:05+08:00",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T12:53:28+08:00",
   "items": [
     {
       "rank": 1,
+      "source": "MIT Technology Review",
+      "originalTitle": "Raising the stakes for enterprise networks with AI modernization",
+      "translatedTitle": "AI驅動下企業網路壓力倍增：升級刻不容緩",
+      "summaryZh": "企業網路正面臨前所未有的嚴峻挑戰。隨著各公司積極導入人工智慧（AI）技術，AI已迅速成為內部網路流量需求遽增的主要來源。特別是「代理式AI」（Agentic AI）的興起，更是讓網路負載問題雪上加霜。據估計，由AI代理執行的任務，其產生的網路流量相較於人類完成相同任務，竟高出450%。這項趨勢迫使企業必須加速進行網路基礎設施的現代化與升級，以應對AI時代下的龐大壓力。",
+      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+      "publishedAt": "2026-11-24T15:15:16.000Z",
+      "score": 81,
+      "tags": [
+        "AI",
+        "企業網路"
+      ]
+    },
+    {
+      "rank": 2,
       "source": "The Verge",
-      "originalTitle": "Trump engineered a risky comeback for Jensen Huang",
-      "translatedTitle": "川普促成黃仁勳NVIDIA爭議性回歸",
-      "summaryZh": "美國科技媒體報導，NVIDIA執行長黃仁勳曾因涉入與疑似中國間諜的緋聞風波而請辭。儘管NVIDIA董事會已接受辭呈，美國前總統川普卻出手干預。川普起初雖表示黃仁勳可被取代，甚至點名蘋果前執行長Tim Cook，但他隨後改變態度，明確表態歡迎黃仁勳回任。消息指出，川普在幕後積極運作，最終促成了黃仁勳重返NVIDIA執行長一職，這場復職行動充滿爭議與風險。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-      "publishedAt": "2026-11-23T22:25:12.000Z",
-      "score": 74,
+      "originalTitle": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "translatedTitle": "美國金融犯罪執法局揭露資安事件",
+      "summaryZh": "美國財政部下轄的金融犯罪執法局 (FinCEN) 本週二證實，正針對一起「資安事件」展開調查。FinCEN 表示，有「部分系統」遭到未經授權的存取，但目前尚未揭露事件的完整範圍或攻擊來源，不過已預防性地將部分系統下線。此事件揭露的數小時前，《紐約時報》報導指出，美國中央情報局 (CIA) 與國家情報總監辦公室 (ODNI) 的開放原始碼情報系統也遭入侵，導致非機密資訊外洩。",
+      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+      "publishedAt": "2026-11-25T01:00:00.000Z",
+      "score": 72,
+      "tags": [
+        "資安",
+        "網路攻擊",
+        "美國政府",
+        "FinCEN"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "The Verge",
+      "originalTitle": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
+      "translatedTitle": "黃仁勳否認川普協助其回歸 NVIDIA 執行長職位",
+      "summaryZh": "NVIDIA執行長黃仁勳（Jensen Huang）在重返公司後的首次員工大會上向員工表達歉意，並澄清關於美國前總統川普（Donald Trump）協助他「回鍋」NVIDIA的傳聞。黃仁勳明確指出，川普公開聲稱涉入他職位復原的說法「完全不實」，強調NVIDIA是「最不涉入政治的公司」，公司營運中沒有任何政治因素。",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "publishedAt": "2026-11-24T20:02:03.000Z",
+      "score": 62,
       "tags": [
         "AI",
         "NVIDIA"
       ]
     },
     {
-      "rank": 2,
-      "source": "The Verge",
-      "originalTitle": "AI data centers throw another wrench into chaotic UN climate talks",
-      "translatedTitle": "AI資料中心電力需求為聯合國氣候談判增添新變數",
-      "summaryZh": "隨著全球致力推動潔淨能源轉型，人工智慧（AI）資料中心的龐大電力需求，正對此一進程構成嚴峻挑戰。近日混亂落幕的聯合國氣候峰會（COP31）上，各國代表便面臨如何平衡全球電氣化與AI資料中心激增耗電量的難題。為達成2015年《巴黎氣候協定》的減排承諾、避免極端氣候惡化，需大幅削減溫室氣體排放，然而AI資料中心的用電量卻不斷攀升，讓氣候談判複雜性倍增。",
-      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "publishedAt": "2026-11-23T21:09:37.000Z",
-      "score": 69,
-      "tags": [
-        "AI",
-        "氣候變遷",
-        "能源",
-        "資料中心"
-      ]
-    },
-    {
-      "rank": 3,
-      "source": "The Verge",
-      "originalTitle": "Welcome to elite impunity, Jensen Huang",
-      "translatedTitle": "黃仁勳回鍋輝達執行長 科技界憂政治力介入自由市場",
-      "summaryZh": "輝達（NVIDIA）執行長黃仁勳近日高調回鍋，引發業界譁然與熱議。有報導指出，美國前總統Donald Trump和副總統JD Vance是其復職的幕後推手，此舉與外界普遍認知的「自由市場」原則顯然背道而馳。文章批評矽谷科技巨擘對自由市場的雙重標準，並指出當前趨勢恐讓外界擔憂政治力量正逐步干預企業運作，甚至可能導向「計畫經濟」模式，凸顯部分科技領袖在追求自身利益時，對傳統商業規範的漠視，引發外界對於科技界菁英特權的深切質疑。",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "publishedAt": "2026-11-23T22:09:26.000Z",
-      "score": 63,
-      "tags": [
-        "AI",
-        "NVIDIA",
-        "Politics"
-      ]
-    },
-    {
       "rank": 4,
-      "source": "The Verge",
-      "originalTitle": "Google alternative Kagi launches an email service",
-      "translatedTitle": "Kagi 推出 Kagi Mail 公開測試版，隱私導向挑戰 Google Gmail",
-      "summaryZh": "隱私導向的搜尋引擎 Kagi 持續擴展其對 Google 服務的替代方案。繼付費搜尋與 Orion 瀏覽器後，Kagi 現宣布推出 Kagi Mail 電子郵件服務的公開測試版，目標直指 Google Gmail。Kagi Mail 強調「無監控、無廣告、開放標準、無綁定」，提供 @kagimail.com 地址、支援無限別名與自訂網域，並內建 50GB 儲存空間及行事曆功能。未來規劃於 2027 年第一季推出聯絡人功能，原生行動應用程式則預計在 2027 年第三季上線。此舉顯示 Kagi 欲在重視隱私的市場中，提供全方位的替代選擇。",
-      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-      "publishedAt": "2026-11-24T00:02:52.000Z",
+      "source": "Ars Technica",
+      "originalTitle": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "translatedTitle": "亞馬遜：駭客AI代理人僅靠少許人力就攻破零日漏洞",
+      "summaryZh": "亞馬遜（Amazon）揭露，駭客已能利用AI代理人（AI agents），僅需極少的人力介入，便成功發現並利用零日漏洞（0-day exploit）。這項發現突顯AI技術在網路攻擊領域的巨大潛力與威脅，意味著未來駭客組織可能大幅提升攻擊效率。新聞中也指出，名為「Cairn AI framework」的框架，正逐漸成為網路攻防雙方的重要工具。此發展對全球資安產業構成新的挑戰，企業與資安專家需密切關注AI技術的雙面刃效應。",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "publishedAt": "2026-11-24T12:30:05.000Z",
       "score": 62,
       "tags": [
-        "電子郵件",
-        "網路服務",
-        "隱私"
+        "AI",
+        "資安"
       ]
     },
     {
       "rank": 5,
       "source": "MIT Technology Review",
-      "originalTitle": "Why using rocks for carbon removal could eventually reduce crop growth",
-      "translatedTitle": "岩石碳捕捉技術：科技巨頭力推，卻潛藏作物減產風險",
-      "summaryZh": "科技巨頭 Google 和 Microsoft 等公司正投入數億美元，積極推動一項基於「增強型風化作用」(enhanced rock weathering) 的碳捕捉技術。這項技術透過在農田中撒佈玄武岩 (basalt) 或橄欖石 (olivine) 等鹼性礦物碎屑，旨在從大氣中捕獲二氧化碳並加以封存。然而，儘管被寄予厚望，多項具影響力的模型研究卻指出，長期採用此方法，恐將對作物生長產生負面影響，甚至導致作物產量減少，為這項永續發展方案帶來潛在挑戰。",
-      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
-      "publishedAt": "2026-11-23T11:00:00.000Z",
-      "score": 60,
+      "originalTitle": "Data centers are getting their own natural gas power plants",
+      "translatedTitle": "資料中心自建天然氣發電廠，解決電網瓶頸",
+      "summaryZh": "人工智慧（AI）熱潮正以前所未有的速度推動資料中心的需求增長，然而，電力供應卻成為這波擴張的主要瓶頸。由於現有電網基礎設施的升級速度遠跟不上AI算力需求，資料中心要取得電網連接許可可能需要長達十年。為避免漫長的等待期，越來越多的開發商選擇在資料中心旁直接興建「離網式」（off-grid）或「電錶後」（behind-the-meter）的天然氣發電廠。此舉能確保AI運算所需的穩定電力供應，加速資料中心部署，滿足NVIDIA等大廠GPU驅動的AI模型訓練與推論需求。這種解決方案雖能緩解當前電力窘境，但也同時引發對能源轉型與環境影響的討論。",
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "publishedAt": "2026-11-24T11:00:00.000Z",
+      "score": 61,
       "tags": [
-        "碳捕捉",
-        "永續發展",
-        "環境科技",
-        "農業科技",
-        "Google",
-        "Microsoft"
+        "AI",
+        "資料中心"
       ]
     }
   ]
