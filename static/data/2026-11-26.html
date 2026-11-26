@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/11/25</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/11/25 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>美FCC核准SpaceX「星腦」計畫，百萬AI衛星將上太空</h2>
+        <p>美國 FCC 近期核准了 SpaceX 的「星腦」（Starmind）計畫，開綠燈讓其能部署多達百萬顆搭載 AI 晶片的衛星，目標是打造太空中的 AI 資料中心。這是 FCC 首次核准完整的 AI 衛星星系（constellation）部署，儘管 Google、Blue Origin 等廠商也正積極投入類似概念。SpaceX 須在 2033 年前發射至少一顆衛星，並於 2040 年前達成百萬顆衛星的目標。FCC 針對高軌道衛星棄置方案則暫緩決議。</p>
+        <div class="tags"><span>AI</span><span>SpaceX</span><span>衛星</span><span>資料中心</span><span>FCC</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/11/26 01:44</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>亞馬遜敗訴，將負責更多產品召回</h2>
+        <p>亞馬遜在與美國消費品安全委員會（CPSC）的法律訴訟中敗訴。美國馬里蘭州地方法院裁定亞馬遜為商品「經銷商」，而非單純的「物流服務提供者」，使其必須負責召回超過40萬件透過「Fulfilled by Amazon」（FBA）服務銷售、具有潛在危險的第三方產品。這些產品包括有缺陷的一氧化碳偵測器及缺乏觸電保護的吹風機等。此判決明確了亞馬遜在電商平台上對第三方產品安全應負的責任。</p>
+        <div class="tags"><span>Amazon</span><span>E-commerce</span><span>Legal Ruling</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/11/26 07:56</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>Google個人化AI影片生成專利曝光，引發娛樂未來隱憂</h2>
+        <p>Google去年提交了一份名為「My Channel」的專利申請，旨在利用用戶的人口統計資料與觀看紀錄，透過大型語言模型（LLM）自動生成高度個人化的AI影片與廣告內容。儘管該專利近期遭駁回，Google仍可能提出上訴或重新提交修正版本。這項技術若成功導入市場，恐將導致未來娛樂內容過度客製化，充滿AI生成的資訊流，引發外界對娛樂產業前景的深切擔憂。</p>
+        <div class="tags"><span>AI</span><span>Google</span><span>專利</span><span>個人化</span><span>影音</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/11/26 05:51</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>Kagi 推出 Gmail 挑戰者，主打隱私與 AI 功能</h2>
+        <p>以 Google 搜尋替代方案聞名的 Kagi，近期正式推出其電子郵件服務，劍指 Google 的 Gmail。這項新服務的核心亮點在於其獨特的結合：不僅強調高度的隱私承諾，更整合了多項創新的 AI 人工智慧功能。Kagi 希望透過這種方式，為市場帶來一個重視個人資料保護、同時兼具高效智能體驗的電子郵件新選擇，吸引追求更安全、更智慧通訊方案的用戶。</p>
+        <div class="tags"><span>AI</span><span>Email</span><span>隱私</span></div>
+        <div class="meta">
+          <span>來源：Ars Technica</span>
+          <span>發布時間：2026/11/26 04:57</span>
+        </div>
+        <a class="read-link" href="https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>數據中心推動美國天然氣熱潮</h2>
+        <p>隨著AI應用普及，數據中心對電力的需求激增，成為美國天然氣產業蓬勃發展的關鍵因素。儘管再生能源被視為未來趨勢，但在短期內，為滿足這些龐大的用電量，天然氣發電仍是主要解決方案，導致美國對天然氣的依賴度持續升高。</p>
+        <div class="tags"><span>AI</span><span>天然氣</span><span>數據中心</span><span>能源</span></div>
+        <div class="meta">
+          <span>來源：MIT Technology Review</span>
+          <span>發布時間：2026/11/26 01:00</span>
+        </div>
+        <a class="read-link" href="https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>

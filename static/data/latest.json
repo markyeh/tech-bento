@@ -1,77 +1,85 @@
 {
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T12:53:28+08:00",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T12:14:49+08:00",
   "items": [
     {
       "rank": 1,
-      "source": "MIT Technology Review",
-      "originalTitle": "Raising the stakes for enterprise networks with AI modernization",
-      "translatedTitle": "AI驅動下企業網路壓力倍增：升級刻不容緩",
-      "summaryZh": "企業網路正面臨前所未有的嚴峻挑戰。隨著各公司積極導入人工智慧（AI）技術，AI已迅速成為內部網路流量需求遽增的主要來源。特別是「代理式AI」（Agentic AI）的興起，更是讓網路負載問題雪上加霜。據估計，由AI代理執行的任務，其產生的網路流量相較於人類完成相同任務，竟高出450%。這項趨勢迫使企業必須加速進行網路基礎設施的現代化與升級，以應對AI時代下的龐大壓力。",
-      "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "publishedAt": "2026-11-24T15:15:16.000Z",
-      "score": 81,
+      "source": "The Verge",
+      "originalTitle": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "translatedTitle": "美FCC核准SpaceX「星腦」計畫，百萬AI衛星將上太空",
+      "summaryZh": "美國 FCC 近期核准了 SpaceX 的「星腦」（Starmind）計畫，開綠燈讓其能部署多達百萬顆搭載 AI 晶片的衛星，目標是打造太空中的 AI 資料中心。這是 FCC 首次核准完整的 AI 衛星星系（constellation）部署，儘管 Google、Blue Origin 等廠商也正積極投入類似概念。SpaceX 須在 2033 年前發射至少一顆衛星，並於 2040 年前達成百萬顆衛星的目標。FCC 針對高軌道衛星棄置方案則暫緩決議。",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "publishedAt": "2026-11-25T17:44:51.000Z",
+      "score": 90,
       "tags": [
         "AI",
-        "企業網路"
+        "SpaceX",
+        "衛星",
+        "資料中心",
+        "FCC"
       ]
     },
     {
       "rank": 2,
       "source": "The Verge",
-      "originalTitle": "US financial crimes bureau discloses ‘cybersecurity incident’",
-      "translatedTitle": "美國金融犯罪執法局揭露資安事件",
-      "summaryZh": "美國財政部下轄的金融犯罪執法局 (FinCEN) 本週二證實，正針對一起「資安事件」展開調查。FinCEN 表示，有「部分系統」遭到未經授權的存取，但目前尚未揭露事件的完整範圍或攻擊來源，不過已預防性地將部分系統下線。此事件揭露的數小時前，《紐約時報》報導指出，美國中央情報局 (CIA) 與國家情報總監辦公室 (ODNI) 的開放原始碼情報系統也遭入侵，導致非機密資訊外洩。",
-      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
-      "publishedAt": "2026-11-25T01:00:00.000Z",
-      "score": 72,
+      "originalTitle": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "translatedTitle": "亞馬遜敗訴，將負責更多產品召回",
+      "summaryZh": "亞馬遜在與美國消費品安全委員會（CPSC）的法律訴訟中敗訴。美國馬里蘭州地方法院裁定亞馬遜為商品「經銷商」，而非單純的「物流服務提供者」，使其必須負責召回超過40萬件透過「Fulfilled by Amazon」（FBA）服務銷售、具有潛在危險的第三方產品。這些產品包括有缺陷的一氧化碳偵測器及缺乏觸電保護的吹風機等。此判決明確了亞馬遜在電商平台上對第三方產品安全應負的責任。",
+      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+      "publishedAt": "2026-11-25T23:56:44.000Z",
+      "score": 64,
       "tags": [
-        "資安",
-        "網路攻擊",
-        "美國政府",
-        "FinCEN"
+        "Amazon",
+        "E-commerce",
+        "Legal Ruling"
       ]
     },
     {
       "rank": 3,
       "source": "The Verge",
-      "originalTitle": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
-      "translatedTitle": "黃仁勳否認川普協助其回歸 NVIDIA 執行長職位",
-      "summaryZh": "NVIDIA執行長黃仁勳（Jensen Huang）在重返公司後的首次員工大會上向員工表達歉意，並澄清關於美國前總統川普（Donald Trump）協助他「回鍋」NVIDIA的傳聞。黃仁勳明確指出，川普公開聲稱涉入他職位復原的說法「完全不實」，強調NVIDIA是「最不涉入政治的公司」，公司營運中沒有任何政治因素。",
-      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "publishedAt": "2026-11-24T20:02:03.000Z",
+      "originalTitle": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "translatedTitle": "Google個人化AI影片生成專利曝光，引發娛樂未來隱憂",
+      "summaryZh": "Google去年提交了一份名為「My Channel」的專利申請，旨在利用用戶的人口統計資料與觀看紀錄，透過大型語言模型（LLM）自動生成高度個人化的AI影片與廣告內容。儘管該專利近期遭駁回，Google仍可能提出上訴或重新提交修正版本。這項技術若成功導入市場，恐將導致未來娛樂內容過度客製化，充滿AI生成的資訊流，引發外界對娛樂產業前景的深切擔憂。",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "publishedAt": "2026-11-25T21:51:26.000Z",
       "score": 62,
       "tags": [
         "AI",
-        "NVIDIA"
+        "Google",
+        "專利",
+        "個人化",
+        "影音"
       ]
     },
     {
       "rank": 4,
       "source": "Ars Technica",
-      "originalTitle": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-      "translatedTitle": "亞馬遜：駭客AI代理人僅靠少許人力就攻破零日漏洞",
-      "summaryZh": "亞馬遜（Amazon）揭露，駭客已能利用AI代理人（AI agents），僅需極少的人力介入，便成功發現並利用零日漏洞（0-day exploit）。這項發現突顯AI技術在網路攻擊領域的巨大潛力與威脅，意味著未來駭客組織可能大幅提升攻擊效率。新聞中也指出，名為「Cairn AI framework」的框架，正逐漸成為網路攻防雙方的重要工具。此發展對全球資安產業構成新的挑戰，企業與資安專家需密切關注AI技術的雙面刃效應。",
-      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-      "publishedAt": "2026-11-24T12:30:05.000Z",
-      "score": 62,
+      "originalTitle": "Google search alternative Kagi launches Gmail rival",
+      "translatedTitle": "Kagi 推出 Gmail 挑戰者，主打隱私與 AI 功能",
+      "summaryZh": "以 Google 搜尋替代方案聞名的 Kagi，近期正式推出其電子郵件服務，劍指 Google 的 Gmail。這項新服務的核心亮點在於其獨特的結合：不僅強調高度的隱私承諾，更整合了多項創新的 AI 人工智慧功能。Kagi 希望透過這種方式，為市場帶來一個重視個人資料保護、同時兼具高效智能體驗的電子郵件新選擇，吸引追求更安全、更智慧通訊方案的用戶。",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "publishedAt": "2026-11-25T20:57:09.000Z",
+      "score": 61,
       "tags": [
         "AI",
-        "資安"
+        "Email",
+        "隱私"
       ]
     },
     {
       "rank": 5,
       "source": "MIT Technology Review",
-      "originalTitle": "Data centers are getting their own natural gas power plants",
-      "translatedTitle": "資料中心自建天然氣發電廠，解決電網瓶頸",
-      "summaryZh": "人工智慧（AI）熱潮正以前所未有的速度推動資料中心的需求增長，然而，電力供應卻成為這波擴張的主要瓶頸。由於現有電網基礎設施的升級速度遠跟不上AI算力需求，資料中心要取得電網連接許可可能需要長達十年。為避免漫長的等待期，越來越多的開發商選擇在資料中心旁直接興建「離網式」（off-grid）或「電錶後」（behind-the-meter）的天然氣發電廠。此舉能確保AI運算所需的穩定電力供應，加速資料中心部署，滿足NVIDIA等大廠GPU驅動的AI模型訓練與推論需求。這種解決方案雖能緩解當前電力窘境，但也同時引發對能源轉型與環境影響的討論。",
-      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
-      "publishedAt": "2026-11-24T11:00:00.000Z",
-      "score": 61,
+      "originalTitle": "How data centers are driving a US natural-gas boom",
+      "translatedTitle": "數據中心推動美國天然氣熱潮",
+      "summaryZh": "隨著AI應用普及，數據中心對電力的需求激增，成為美國天然氣產業蓬勃發展的關鍵因素。儘管再生能源被視為未來趨勢，但在短期內，為滿足這些龐大的用電量，天然氣發電仍是主要解決方案，導致美國對天然氣的依賴度持續升高。",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "publishedAt": "2026-11-25T17:00:00.000Z",
+      "score": 56,
       "tags": [
         "AI",
-        "資料中心"
+        "天然氣",
+        "數據中心",
+        "能源"
       ]
     }
   ]
