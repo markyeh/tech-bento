@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T12:05:14+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "Hacker News",
+      "originalTitle": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "translatedTitle": "DeepMind 啟用 AI 代理人管理部分算力，用於 Gemini 模型實驗",
+      "summaryZh": "Google DeepMind 近期導入 AI 代理人，使其能部分掌控並管理實驗用的運算資源。此舉主要目的是為加速 Gemini 人工智慧模型的開發與測試進度。透過讓 AI 代理人自動化分配算力，DeepMind 期望能更有效率地進行各種實驗，進一步提升模型效能。然而，業界普遍認為 AI 距離真正實現遞迴式自我改進的能力，仍有漫長的路要走，短期內尚難以達成。",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "publishedAt": "2026-11-27T00:03:18.000Z",
+      "score": 70,
+      "tags": [
+        "AI",
+        "Google",
+        "DeepMind",
+        "Gemini"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "The Verge",
+      "originalTitle": "Android app developers will soon have to share their address publicly",
+      "translatedTitle": "Android App 開發者將被要求公開個人地址",
+      "summaryZh": "Google 近日宣布，為符合歐盟《數位服務法案》（DSA）規範，全球 Android app 開發者將被要求公開其電話號碼與地址等個人聯絡資訊。此政策變革主要針對營收較高或穩定的「業者」（trader）型開發者，旨在提升應用程式市場的透明度。開發者須在 2027 年 2 月 1 日前表明是否符合「業者」定義。儘管 Google 強調此舉是為遵循法規，但這項強制要求已引發廣大獨立開發者對個人隱私外洩的嚴重擔憂。",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "publishedAt": "2026-11-26T17:06:24.000Z",
+      "score": 57,
+      "tags": [
+        "Google",
+        "Android",
+        "開發者隱私",
+        "法規遵循"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "Hacker News",
+      "originalTitle": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "translatedTitle": "Google AI 助理將運行於自有 MCP 伺服器，然 Gmail 版本不支援郵件發送功能",
+      "summaryZh": "Google 正積極部署其 AI 助理服務，並證實這些 AI 助理將運行於自家的 MCP 伺服器基礎設施上。此舉旨在確保資料安全與效能最佳化。然而，針對 Google Workspace 中最受關注的 Gmail AI 助理，目前版本卻設有一項重要限制，即不具備實際發送郵件的功能。這項策略顯示 Google 在賦予 AI 助理高度操作權限上仍維持審慎態度，可能考量到使用者隱私、資料安全，以及避免潛在的濫用風險。儘管如此，這項消息仍突顯了 Google 在 AI 整合服務上的進展，未來功能發展值得持續關注。",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "publishedAt": "2026-11-26T09:44:23.000Z",
+      "score": 56,
+      "tags": [
+        "AI",
+        "Google",
+        "雲端服務"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "The Verge",
+      "originalTitle": "Netflix’s coziest show has made a very quiet return",
+      "translatedTitle": "Netflix 最療癒影集《深夜食堂》悄然回歸",
+      "summaryZh": "Netflix近年來內容持續擴張，從影集、實境秀、直播節目到遊戲應有盡有，其龐大片庫導致許多優質作品容易被使用者忽略。科技媒體The Verge指出，廣受歡迎的療癒系日劇《深夜食堂》近期便是悄然回歸，未經大肆宣傳。這部影集描述新宿巷弄裡一間只在深夜營業的溫馨小店，其溫暖動人的故事情節備受喜愛。此現象凸顯了大型串流平台在海量內容中，用戶如何發現新舊優質作品的挑戰。",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "publishedAt": "2026-11-26T21:00:00.000Z",
+      "score": 49,
+      "tags": [
+        "Netflix",
+        "串流平台",
+        "影集",
+        "內容探索"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "Hacker News",
+      "originalTitle": "AI made self-hosting fun again",
+      "translatedTitle": "AI 讓自架服務再次變得有趣",
+      "summaryZh": "這篇文章探討了人工智慧如何顛覆傳統自架服務的體驗。過去，設定與維護個人伺服器或開源應用程式常被視為複雜且耗時。然而，隨著 AI 技術的進步，例如透過智慧助理簡化部署流程、自動化故障排除、提供客製化配置建議，自架服務的門檻大幅降低。AI 不僅提升了便利性，也為使用者帶來更多探索與客製化的樂趣，讓個人網路服務管理不再是專業人士的專利，而是人人都能享受的趣味過程。",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "publishedAt": "2026-11-26T21:47:45.000Z",
+      "score": 46,
+      "tags": [
+        "AI",
+        "自架服務"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tech-bento - 2026/11/26</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif; background: #f5f5f5; color: #333; line-height: 1.6; }
+    .container { max-width: 920px; margin: 0 auto; padding: 24px; }
+    .header { padding: 24px 0; border-bottom: 1px solid #ddd; margin-bottom: 24px; }
+    h1 { font-size: 2rem; margin-bottom: 8px; }
+    .date-info { color: #999; font-size: 0.95rem; }
+    .news-list { display: grid; gap: 14px; }
+    .news-card { display: grid; grid-template-columns: 76px 1fr; gap: 20px; padding: 20px; background: white; border: 1px solid #e0e0e0; border-radius: 8px; }
+    .rank { font-size: 1.8rem; font-weight: 800; color: #ff6b6b; line-height: 1; }
+    .content { min-width: 0; }
+    h2 { font-size: 1.3rem; margin-bottom: 12px; line-height: 1.3; }
+    .content p { margin: 12px 0; color: #666; }
+    .tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+    .tags span { padding: 4px 9px; background: #f0f0f0; color: #ff6b6b; border-radius: 999px; font-size: 0.85rem; font-weight: 700; }
+    .meta { display: flex; flex-wrap: wrap; gap: 18px; margin: 12px 0; font-size: 0.9rem; color: #999; }
+    .read-link { display: inline-block; margin-top: 12px; padding: 8px 16px; background: #ff6b6b; color: white; text-decoration: none; border-radius: 6px; font-weight: 700; }
+    .read-link:hover { background: #ff5252; }
+    @media (max-width: 640px) {
+      .container { padding: 16px; }
+      .news-card { grid-template-columns: 1fr; gap: 12px; padding: 16px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>tech-bento</h1>
+      <div class="date-info">2026/11/26 - Top 5 科技新聞</div>
+    </div>
+    <section class="news-list">
+      
+    <article class="news-card">
+      <div class="rank">#1</div>
+      <div class="content">
+        <h2>DeepMind 啟用 AI 代理人管理部分算力，用於 Gemini 模型實驗</h2>
+        <p>Google DeepMind 近期導入 AI 代理人，使其能部分掌控並管理實驗用的運算資源。此舉主要目的是為加速 Gemini 人工智慧模型的開發與測試進度。透過讓 AI 代理人自動化分配算力，DeepMind 期望能更有效率地進行各種實驗，進一步提升模型效能。然而，業界普遍認為 AI 距離真正實現遞迴式自我改進的能力，仍有漫長的路要走，短期內尚難以達成。</p>
+        <div class="tags"><span>AI</span><span>Google</span><span>DeepMind</span><span>Gemini</span></div>
+        <div class="meta">
+          <span>來源：Hacker News</span>
+          <span>發布時間：2026/11/27 08:03</span>
+        </div>
+        <a class="read-link" href="https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#2</div>
+      <div class="content">
+        <h2>Android App 開發者將被要求公開個人地址</h2>
+        <p>Google 近日宣布，為符合歐盟《數位服務法案》（DSA）規範，全球 Android app 開發者將被要求公開其電話號碼與地址等個人聯絡資訊。此政策變革主要針對營收較高或穩定的「業者」（trader）型開發者，旨在提升應用程式市場的透明度。開發者須在 2027 年 2 月 1 日前表明是否符合「業者」定義。儘管 Google 強調此舉是為遵循法規，但這項強制要求已引發廣大獨立開發者對個人隱私外洩的嚴重擔憂。</p>
+        <div class="tags"><span>Google</span><span>Android</span><span>開發者隱私</span><span>法規遵循</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/11/27 01:06</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#3</div>
+      <div class="content">
+        <h2>Google AI 助理將運行於自有 MCP 伺服器，然 Gmail 版本不支援郵件發送功能</h2>
+        <p>Google 正積極部署其 AI 助理服務，並證實這些 AI 助理將運行於自家的 MCP 伺服器基礎設施上。此舉旨在確保資料安全與效能最佳化。然而，針對 Google Workspace 中最受關注的 Gmail AI 助理，目前版本卻設有一項重要限制，即不具備實際發送郵件的功能。這項策略顯示 Google 在賦予 AI 助理高度操作權限上仍維持審慎態度，可能考量到使用者隱私、資料安全，以及避免潛在的濫用風險。儘管如此，這項消息仍突顯了 Google 在 AI 整合服務上的進展，未來功能發展值得持續關注。</p>
+        <div class="tags"><span>AI</span><span>Google</span><span>雲端服務</span></div>
+        <div class="meta">
+          <span>來源：Hacker News</span>
+          <span>發布時間：2026/11/26 17:44</span>
+        </div>
+        <a class="read-link" href="https://techstackups.com/articles/google-workspace-ai-agents-mcp/" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#4</div>
+      <div class="content">
+        <h2>Netflix 最療癒影集《深夜食堂》悄然回歸</h2>
+        <p>Netflix近年來內容持續擴張，從影集、實境秀、直播節目到遊戲應有盡有，其龐大片庫導致許多優質作品容易被使用者忽略。科技媒體The Verge指出，廣受歡迎的療癒系日劇《深夜食堂》近期便是悄然回歸，未經大肆宣傳。這部影集描述新宿巷弄裡一間只在深夜營業的溫馨小店，其溫暖動人的故事情節備受喜愛。此現象凸顯了大型串流平台在海量內容中，用戶如何發現新舊優質作品的挑戰。</p>
+        <div class="tags"><span>Netflix</span><span>串流平台</span><span>影集</span><span>內容探索</span></div>
+        <div class="meta">
+          <span>來源：The Verge</span>
+          <span>發布時間：2026/11/27 05:00</span>
+        </div>
+        <a class="read-link" href="https://www.theverge.com/entertainment/1043489/midnight-diner-season3" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    <article class="news-card">
+      <div class="rank">#5</div>
+      <div class="content">
+        <h2>AI 讓自架服務再次變得有趣</h2>
+        <p>這篇文章探討了人工智慧如何顛覆傳統自架服務的體驗。過去，設定與維護個人伺服器或開源應用程式常被視為複雜且耗時。然而，隨著 AI 技術的進步，例如透過智慧助理簡化部署流程、自動化故障排除、提供客製化配置建議，自架服務的門檻大幅降低。AI 不僅提升了便利性，也為使用者帶來更多探索與客製化的樂趣，讓個人網路服務管理不再是專業人士的專利，而是人人都能享受的趣味過程。</p>
+        <div class="tags"><span>AI</span><span>自架服務</span></div>
+        <div class="meta">
+          <span>來源：Hacker News</span>
+          <span>發布時間：2026/11/27 05:47</span>
+        </div>
+        <a class="read-link" href="https://janlukas.blog/posts/ai-self-hosting" target="_blank" rel="noopener noreferrer">閱讀原文</a>
+      </div>
+    </article>
+  
+    </section>
+  </div>
+</body>
+</html>
