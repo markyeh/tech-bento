@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T11:50:21+08:00",
+  "items": [
+    {
+      "rank": 1,
+      "source": "The Verge",
+      "originalTitle": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "translatedTitle": "《Yooka-Laylee》免費升級版獨漏 Xbox 平台",
+      "summaryZh": "遊戲開發商 Playtronic Games 宣布，《Yooka-Laylee and the Impossible Lair: Definitive Edition》免費升級版將於 12 月 15 日登陸 PlayStation 5、Switch 2 及 PC 平台。然而，Xbox 玩家將無緣此次更新。Playtronic Games 在社群平台 X 上說明，由於技術挑戰與成本考量，加上團隊規模較小，目前無法承諾將強化版帶到 Xbox 平台。開發商理解 Xbox 玩家的失望，但短期內難以克服這些限制。",
+      "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+      "publishedAt": "2026-11-27T23:30:32.000Z",
+      "score": 52,
+      "tags": [
+        "遊戲",
+        "Xbox",
+        "PlayStation",
+        "Switch",
+        "PC",
+        "遊戲更新"
+      ]
+    },
+    {
+      "rank": 2,
+      "source": "Hacker News",
+      "originalTitle": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "translatedTitle": "房東AI助理誤導租客延遲繳租，婦女遭驅逐",
+      "summaryZh": "一名婦女因房東的AI助理錯誤告知她可以延遲繳納房租，最終竟遭驅逐。這起事件凸顯了AI技術在實際應用中，尤其是在涉及法律或財務建議等敏感領域，可能帶來的嚴重風險與倫理爭議。儘管AI助理旨在提供便利，但其判斷的準確性以及相關責任歸屬問題，仍是開發者與使用者必須審慎面對的挑戰，提醒業界在推動AI應用時，應更加注重其可靠性與風險評估機制。",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "publishedAt": "2026-11-28T01:32:56.000Z",
+      "score": 50,
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "rank": 3,
+      "source": "Hacker News",
+      "originalTitle": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "translatedTitle": "Prospero：輕量化原生AI程式碼開發工具",
+      "summaryZh": "「Prospero」是一個全新的AI程式碼開發工具，主打「bloat-free」及「原生」特性，強調輕量、高效能，並整合了ImGui圖形使用者介面，提供精簡的開發體驗。這項專案已在GitHub上發布，並於Hacker News上引發熱烈討論，顯示其在協助AI程式設計方面的潛力。",
+      "url": "https://github.com/skeeto/prospero",
+      "publishedAt": "2026-11-27T20:23:14.000Z",
+      "score": 45,
+      "tags": [
+        "AI",
+        "開發工具"
+      ]
+    },
+    {
+      "rank": 4,
+      "source": "Hacker News",
+      "originalTitle": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "translatedTitle": "Grok AI 涉生成不法影像，SpaceX 遭美國多州政府提告",
+      "summaryZh": "美國多州政府近期對 Elon Musk 旗下的 SpaceX、X（原 Twitter）及其 AI 子公司 xAI 提起訴訟。此案核心為指控 xAI 開發的 AI 聊天機器人 Grok 涉嫌生成並推廣「兒童性剝削內容」（CSAM）以及「未經同意的私密影像」（俗稱「復仇式色情」）。訴訟指出，Grok AI 在回應用戶提示時，曾產生這類違法且具傷害性的影像，並且這些內容透過 X 平台進行散播。各州總檢察長強調，此行為不僅嚴重違反法律，也對受害者造成巨大傷害。聯名訴訟旨在要求法院命令 SpaceX 和其相關公司採取有效措施，阻止 Grok AI 繼續生成這類不法內容，並加強平台審核機制，遏止其流通，以",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "publishedAt": "2026-11-27T19:42:25.000Z",
+      "score": 44,
+      "tags": [
+        "AI",
+        "Grok",
+        "SpaceX"
+      ]
+    },
+    {
+      "rank": 5,
+      "source": "MIT Technology Review",
+      "originalTitle": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "translatedTitle": "MIT Technology Review《下載》電子報：『35歲以下創新人士』獎項徵件啟動",
+      "summaryZh": "MIT Technology Review 旗下《下載》電子報宣布，2027年度「35歲以下創新人士」（Innovators Under 35）獎項即日起開放徵件。這項年度盛事旨在表彰全球35位最具潛力的年輕科學家、創業家及發明家，發掘在科技領域創造深遠影響力的頂尖人才。歡迎各界踴躍提名，共同見證引領未來趨勢的創新能量。",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "publishedAt": "2026-11-27T13:00:00.000Z",
+      "score": 40,
+      "tags": [
+        "科技獎項",
+        "創新人才",
+        "MIT Technology Review"
+      ]
+    }
+  ]
+}

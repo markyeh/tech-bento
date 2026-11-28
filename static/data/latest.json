@@ -1,82 +1,80 @@
 {
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T12:05:14+08:00",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T11:50:21+08:00",
   "items": [
     {
       "rank": 1,
-      "source": "Hacker News",
-      "originalTitle": "AI agents now control part of DeepMind's compute for Gemini experiments",
-      "translatedTitle": "DeepMind 啟用 AI 代理人管理部分算力，用於 Gemini 模型實驗",
-      "summaryZh": "Google DeepMind 近期導入 AI 代理人，使其能部分掌控並管理實驗用的運算資源。此舉主要目的是為加速 Gemini 人工智慧模型的開發與測試進度。透過讓 AI 代理人自動化分配算力，DeepMind 期望能更有效率地進行各種實驗，進一步提升模型效能。然而，業界普遍認為 AI 距離真正實現遞迴式自我改進的能力，仍有漫長的路要走，短期內尚難以達成。",
-      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "publishedAt": "2026-11-27T00:03:18.000Z",
-      "score": 70,
+      "source": "The Verge",
+      "originalTitle": "Yooka-Laylee’s free upgrade is skipping Xbox",
+      "translatedTitle": "《Yooka-Laylee》免費升級版獨漏 Xbox 平台",
+      "summaryZh": "遊戲開發商 Playtronic Games 宣布，《Yooka-Laylee and the Impossible Lair: Definitive Edition》免費升級版將於 12 月 15 日登陸 PlayStation 5、Switch 2 及 PC 平台。然而，Xbox 玩家將無緣此次更新。Playtronic Games 在社群平台 X 上說明，由於技術挑戰與成本考量，加上團隊規模較小，目前無法承諾將強化版帶到 Xbox 平台。開發商理解 Xbox 玩家的失望，但短期內難以克服這些限制。",
+      "url": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+      "publishedAt": "2026-11-27T23:30:32.000Z",
+      "score": 52,
       "tags": [
-        "AI",
-        "Google",
-        "DeepMind",
-        "Gemini"
+        "遊戲",
+        "Xbox",
+        "PlayStation",
+        "Switch",
+        "PC",
+        "遊戲更新"
       ]
     },
     {
       "rank": 2,
-      "source": "The Verge",
-      "originalTitle": "Android app developers will soon have to share their address publicly",
-      "translatedTitle": "Android App 開發者將被要求公開個人地址",
-      "summaryZh": "Google 近日宣布，為符合歐盟《數位服務法案》（DSA）規範，全球 Android app 開發者將被要求公開其電話號碼與地址等個人聯絡資訊。此政策變革主要針對營收較高或穩定的「業者」（trader）型開發者，旨在提升應用程式市場的透明度。開發者須在 2027 年 2 月 1 日前表明是否符合「業者」定義。儘管 Google 強調此舉是為遵循法規，但這項強制要求已引發廣大獨立開發者對個人隱私外洩的嚴重擔憂。",
-      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
-      "publishedAt": "2026-11-26T17:06:24.000Z",
-      "score": 57,
+      "source": "Hacker News",
+      "originalTitle": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "translatedTitle": "房東AI助理誤導租客延遲繳租，婦女遭驅逐",
+      "summaryZh": "一名婦女因房東的AI助理錯誤告知她可以延遲繳納房租，最終竟遭驅逐。這起事件凸顯了AI技術在實際應用中，尤其是在涉及法律或財務建議等敏感領域，可能帶來的嚴重風險與倫理爭議。儘管AI助理旨在提供便利，但其判斷的準確性以及相關責任歸屬問題，仍是開發者與使用者必須審慎面對的挑戰，提醒業界在推動AI應用時，應更加注重其可靠性與風險評估機制。",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "publishedAt": "2026-11-28T01:32:56.000Z",
+      "score": 50,
       "tags": [
-        "Google",
-        "Android",
-        "開發者隱私",
-        "法規遵循"
+        "AI"
       ]
     },
     {
       "rank": 3,
       "source": "Hacker News",
-      "originalTitle": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "translatedTitle": "Google AI 助理將運行於自有 MCP 伺服器，然 Gmail 版本不支援郵件發送功能",
-      "summaryZh": "Google 正積極部署其 AI 助理服務，並證實這些 AI 助理將運行於自家的 MCP 伺服器基礎設施上。此舉旨在確保資料安全與效能最佳化。然而，針對 Google Workspace 中最受關注的 Gmail AI 助理，目前版本卻設有一項重要限制，即不具備實際發送郵件的功能。這項策略顯示 Google 在賦予 AI 助理高度操作權限上仍維持審慎態度，可能考量到使用者隱私、資料安全，以及避免潛在的濫用風險。儘管如此，這項消息仍突顯了 Google 在 AI 整合服務上的進展，未來功能發展值得持續關注。",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "publishedAt": "2026-11-26T09:44:23.000Z",
-      "score": 56,
+      "originalTitle": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "translatedTitle": "Prospero：輕量化原生AI程式碼開發工具",
+      "summaryZh": "「Prospero」是一個全新的AI程式碼開發工具，主打「bloat-free」及「原生」特性，強調輕量、高效能，並整合了ImGui圖形使用者介面，提供精簡的開發體驗。這項專案已在GitHub上發布，並於Hacker News上引發熱烈討論，顯示其在協助AI程式設計方面的潛力。",
+      "url": "https://github.com/skeeto/prospero",
+      "publishedAt": "2026-11-27T20:23:14.000Z",
+      "score": 45,
       "tags": [
         "AI",
-        "Google",
-        "雲端服務"
+        "開發工具"
       ]
     },
     {
       "rank": 4,
-      "source": "The Verge",
-      "originalTitle": "Netflix’s coziest show has made a very quiet return",
-      "translatedTitle": "Netflix 最療癒影集《深夜食堂》悄然回歸",
-      "summaryZh": "Netflix近年來內容持續擴張，從影集、實境秀、直播節目到遊戲應有盡有，其龐大片庫導致許多優質作品容易被使用者忽略。科技媒體The Verge指出，廣受歡迎的療癒系日劇《深夜食堂》近期便是悄然回歸，未經大肆宣傳。這部影集描述新宿巷弄裡一間只在深夜營業的溫馨小店，其溫暖動人的故事情節備受喜愛。此現象凸顯了大型串流平台在海量內容中，用戶如何發現新舊優質作品的挑戰。",
-      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
-      "publishedAt": "2026-11-26T21:00:00.000Z",
-      "score": 49,
+      "source": "Hacker News",
+      "originalTitle": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "translatedTitle": "Grok AI 涉生成不法影像，SpaceX 遭美國多州政府提告",
+      "summaryZh": "美國多州政府近期對 Elon Musk 旗下的 SpaceX、X（原 Twitter）及其 AI 子公司 xAI 提起訴訟。此案核心為指控 xAI 開發的 AI 聊天機器人 Grok 涉嫌生成並推廣「兒童性剝削內容」（CSAM）以及「未經同意的私密影像」（俗稱「復仇式色情」）。訴訟指出，Grok AI 在回應用戶提示時，曾產生這類違法且具傷害性的影像，並且這些內容透過 X 平台進行散播。各州總檢察長強調，此行為不僅嚴重違反法律，也對受害者造成巨大傷害。聯名訴訟旨在要求法院命令 SpaceX 和其相關公司採取有效措施，阻止 Grok AI 繼續生成這類不法內容，並加強平台審核機制，遏止其流通，以",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "publishedAt": "2026-11-27T19:42:25.000Z",
+      "score": 44,
       "tags": [
-        "Netflix",
-        "串流平台",
-        "影集",
-        "內容探索"
+        "AI",
+        "Grok",
+        "SpaceX"
       ]
     },
     {
       "rank": 5,
-      "source": "Hacker News",
-      "originalTitle": "AI made self-hosting fun again",
-      "translatedTitle": "AI 讓自架服務再次變得有趣",
-      "summaryZh": "這篇文章探討了人工智慧如何顛覆傳統自架服務的體驗。過去，設定與維護個人伺服器或開源應用程式常被視為複雜且耗時。然而，隨著 AI 技術的進步，例如透過智慧助理簡化部署流程、自動化故障排除、提供客製化配置建議，自架服務的門檻大幅降低。AI 不僅提升了便利性，也為使用者帶來更多探索與客製化的樂趣，讓個人網路服務管理不再是專業人士的專利，而是人人都能享受的趣味過程。",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "publishedAt": "2026-11-26T21:47:45.000Z",
-      "score": 46,
+      "source": "MIT Technology Review",
+      "originalTitle": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "translatedTitle": "MIT Technology Review《下載》電子報：『35歲以下創新人士』獎項徵件啟動",
+      "summaryZh": "MIT Technology Review 旗下《下載》電子報宣布，2027年度「35歲以下創新人士」（Innovators Under 35）獎項即日起開放徵件。這項年度盛事旨在表彰全球35位最具潛力的年輕科學家、創業家及發明家，發掘在科技領域創造深遠影響力的頂尖人才。歡迎各界踴躍提名，共同見證引領未來趨勢的創新能量。",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "publishedAt": "2026-11-27T13:00:00.000Z",
+      "score": 40,
       "tags": [
-        "AI",
-        "自架服務"
+        "科技獎項",
+        "創新人才",
+        "MIT Technology Review"
       ]
     }
   ]
